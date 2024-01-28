@@ -1,5 +1,4 @@
-# DotNutRefManRu
-Dot Nut Reference Minual Russian Version
+# Dot Nut Справочник Русская Версия
 
 - [DotNut namespace](DotNut.md)
 - [Drawing namespace](Drawing.md)
