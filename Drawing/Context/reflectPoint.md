@@ -2,8 +2,8 @@
 
 
 ```lua
-function reflectPoint( point               // Drawing.Coords
-                     , reflectRelativeTo   // Drawing.Coords
+function reflectPoint( pos          // Drawing.Coords
+                     , relativeTo   // Drawing.Coords
                      )
 // returns: Drawing.Coords
 ```
@@ -11,9 +11,9 @@ function reflectPoint( point               // Drawing.Coords
 
 ### Parameters
 
-**point** ([Drawing.Coords](../../Drawing/Coords.md)) - ![point]
+**pos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos]
 
-**reflectRelativeTo** ([Drawing.Coords](../../Drawing/Coords.md)) - ![reflectRelativeTo]
+**relativeTo** ([Drawing.Coords](../../Drawing/Coords.md)) - ![relativeTo]
 
 ### Return value
 

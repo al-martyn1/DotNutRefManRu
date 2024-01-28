@@ -360,6 +360,108 @@ class Drawing.Context
                     )
     // returns: bool
 
+    function textOutWithFontAndColor( pos      // Drawing.Coords
+                                    , fontId   // int
+                                    , clr      // Drawing.Color
+                                    , text     // string
+                                    )
+    // returns: bool
+
+    function drawTextColored( startPos    // Drawing.Coords
+                            , widthLim    // any_integral
+                            , flags       // DrawTextFlags
+                            , text        // string
+                            , stopChars   // string
+                            , colors      // array of Drawing.Color
+                            , bkColors    // array of Drawing.Color
+                            , fontId      // int
+                            )
+    // returns: bool
+
+    function drawParaColored( startPos           // Drawing.Coords
+                            , limits             // Drawing.Coords
+                            , lineSpacing        // any_integral
+                            , paraIndent         // any_integral
+                            , tabSize            // any_integral
+                            , flags              // DrawTextFlags
+                            , horAlign           // Drawing.HorAlign
+                            , vertAlign          // Drawing.VertAlign
+                            , text               // string
+                            , colors             // array of Drawing.Color
+                            , bkColors           // array of Drawing.Color
+                            , tabStopPositions   // array of any_integral
+                            , fontId             // int
+                            )
+    // returns: bool
+
+    function drawMultiParasColored( startPos           // Drawing.Coords
+                                  , limits             // Drawing.Coords
+                                  , lineSpacing        // any_integral
+                                  , paraIndent         // any_integral
+                                  , tabSize            // any_integral
+                                  , flags              // DrawTextFlags
+                                  , horAlign           // Drawing.HorAlign
+                                  , vertAlign          // Drawing.VertAlign
+                                  , text               // string
+                                  , colors             // array of Drawing.Color
+                                  , bkColors           // array of Drawing.Color
+                                  , tabStopPositions   // array of any_integral
+                                  , paraColors         // array of Drawing.Color
+                                  , paraBkColors       // array of Drawing.Color
+                                  , fontId             // int
+                                  )
+    // returns: bool
+
+    function polyQuadraticBezier( cp1   // Drawing.Coords
+                                , cp2   // Drawing.Coords
+                                , cp3   // Drawing.Coords
+                                )
+    // returns: bool
+
+    function polyQuadraticBezierTo( cp2   // Drawing.Coords
+                                  , cp3   // Drawing.Coords
+                                  )
+    // returns: bool
+
+    function polyCubicBezier( cp1   // Drawing.Coords
+                            , cp2   // Drawing.Coords
+                            , cp3   // Drawing.Coords
+                            , cp4   // Drawing.Coords
+                            )
+    // returns: bool
+
+    function polyCubicBezierTo( cp2   // Drawing.Coords
+                              , cp3   // Drawing.Coords
+                              , cp4   // Drawing.Coords
+                              )
+    // returns: bool
+
+    function polyCubicBeziers( points   // array of Drawing.Coords
+                             )
+    // returns: bool
+
+    function polyCubicBeziersTo( points   // array of Drawing.Coords
+                               )
+    // returns: bool
+
+    function polyQuadraticBeziers( points   // array of Drawing.Coords
+                                 )
+    // returns: bool
+
+    function polyQuadraticBeziersTo( points   // array of Drawing.Coords
+                                   )
+    // returns: bool
+
+    function distanceBetween( pos1   // Drawing.Coords
+                            , pos2   // Drawing.Coords
+                            )
+    // returns: float
+
+    function reflectPoint( pos          // Drawing.Coords
+                         , relativeTo   // Drawing.Coords
+                         )
+    // returns: Drawing.Coords
+
 
 } // class Drawing.Context
 ```
@@ -616,5 +718,47 @@ class Drawing.Context
 
 
 [Drawing.Context.textOut](../Drawing/Context/textOut.md) - ![__BRIEF]
+
+
+[Drawing.Context.textOutWithFontAndColor](../Drawing/Context/textOutWithFontAndColor.md) - ![__BRIEF]
+
+
+[Drawing.Context.drawTextColored](../Drawing/Context/drawTextColored.md) - ![__BRIEF]
+
+
+[Drawing.Context.drawParaColored](../Drawing/Context/drawParaColored.md) - ![__BRIEF]
+
+
+[Drawing.Context.drawMultiParasColored](../Drawing/Context/drawMultiParasColored.md) - ![__BRIEF]
+
+
+[Drawing.Context.polyQuadraticBezier](../Drawing/Context/polyQuadraticBezier.md) - ![__BRIEF]
+
+
+[Drawing.Context.polyQuadraticBezierTo](../Drawing/Context/polyQuadraticBezierTo.md) - ![__BRIEF]
+
+
+[Drawing.Context.polyCubicBezier](../Drawing/Context/polyCubicBezier.md) - ![__BRIEF]
+
+
+[Drawing.Context.polyCubicBezierTo](../Drawing/Context/polyCubicBezierTo.md) - ![__BRIEF]
+
+
+[Drawing.Context.polyCubicBeziers](../Drawing/Context/polyCubicBeziers.md) - ![__BRIEF]
+
+
+[Drawing.Context.polyCubicBeziersTo](../Drawing/Context/polyCubicBeziersTo.md) - ![__BRIEF]
+
+
+[Drawing.Context.polyQuadraticBeziers](../Drawing/Context/polyQuadraticBeziers.md) - ![__BRIEF]
+
+
+[Drawing.Context.polyQuadraticBeziersTo](../Drawing/Context/polyQuadraticBeziersTo.md) - ![__BRIEF]
+
+
+[Drawing.Context.distanceBetween](../Drawing/Context/distanceBetween.md) - ![__BRIEF]
+
+
+[Drawing.Context.reflectPoint](../Drawing/Context/reflectPoint.md) - ![__BRIEF]
 
 
