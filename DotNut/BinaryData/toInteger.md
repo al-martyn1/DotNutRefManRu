@@ -1,17 +1,17 @@
-## DotNut.BinaryData.toInteger method
+## DotNut.BinaryData.tointeger метод
 
 
 ```lua
-function toInteger()
+function tointeger()
 // returns: integer
 ```
 
 
-### Parameters
+### Параметры
 
-This method has no parameters.
+Данный метод не имеет параметров.
 
-### Return value
+### Возвращаемое значение
 
-Return type: **integer**
+Возвращаемый тип: **integer**
 
