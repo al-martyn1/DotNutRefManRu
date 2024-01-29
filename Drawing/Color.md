@@ -1,4 +1,4 @@
-## Drawing.Color class
+## ![class-section-title]
 
 
 ```lua
@@ -68,7 +68,7 @@ class Drawing.Color
 
 
 
-### Member fields
+### ![class-members-section-title]
 
 **r** (**integer**) - ![r]
 
@@ -79,7 +79,7 @@ class Drawing.Color
 **a** (**integer**) - ![a]
 
 
-### Methods
+### ![class-methods-section-title]
 
 
 [Drawing.Color.constructor](../Drawing/Color/constructor.md) - ![__BRIEF]
@@ -106,15 +106,15 @@ class Drawing.Color
 [Drawing.Color.toInt](../Drawing/Color/toInt.md) - ![__BRIEF]
 
 
-**tointeger** - Convert the value to integer and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#integer) for details. Exposed for compatibility with built-in types. The toInteger() method has also been implemented to comply with camelCase naming convetions.
+**tointeger** - ![tointeger]
 
 
-**tofloat** - Convert the value to float and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#float) for details. Exposed for compatibility with built-in types. The toFloat() method has also been implemented to comply with camelCase naming convetions.
+**tofloat** - ![tofloat]
 
 
-**tostring** - Convert the value to string and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) for details. Exposed for compatibility with built-in types. The toString() method has also been implemented to comply with camelCase naming convetions.
+**tostring** - ![tostring]
 
 
-**_tostring** - Support for the 'tostring' ('tostring') conversion method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#tostring) for details.
+**_tostring** - ![_tostring]
 
 

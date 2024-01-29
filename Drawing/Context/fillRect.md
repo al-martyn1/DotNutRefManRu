@@ -1,4 +1,4 @@
-## Drawing.Context.fillRect method
+## ![method-section-title]
 
 
 ```lua
@@ -10,7 +10,7 @@ function fillRect( leftTop       // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **leftTop** ([Drawing.Coords](../../Drawing/Coords.md)) - ![leftTop]
 
@@ -18,7 +18,7 @@ function fillRect( leftTop       // Drawing.Coords
 
 **drawFrame** (**bool**) - ![drawFrame]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

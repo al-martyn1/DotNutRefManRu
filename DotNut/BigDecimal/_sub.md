@@ -1,4 +1,4 @@
-## DotNut.BigDecimal._sub method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function _sub( v   // DotNut.BigDecimal
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **v** ([DotNut.BigDecimal](../../DotNut/BigDecimal.md)) - ![v]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.BigDecimal](../../DotNut/BigDecimal.md)
+![method-return-type-text]
 

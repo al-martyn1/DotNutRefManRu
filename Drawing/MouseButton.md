@@ -1,4 +1,4 @@
-## Drawing.MouseButton enum
+## ![enum-section-title]
 
 **None** (0) - ![None]
 

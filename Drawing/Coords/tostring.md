@@ -1,4 +1,4 @@
-## Drawing.Coords.tostring method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function tostring()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **string**
+![method-return-type-text]
 

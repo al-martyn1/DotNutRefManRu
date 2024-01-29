@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.getErrorCodeString method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function getErrorCodeString( err   // DotNut.ErrorCode
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **err** ([DotNut.ErrorCode](../../../DotNut/ErrorCode.md)) - ![err]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **string**
+![method-return-type-text]
 

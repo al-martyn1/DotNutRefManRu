@@ -1,4 +1,4 @@
-## Drawing.CallbackResultFlags flags
+## ![flags-section-title]
 
 **None** (0) - ![None]
 

@@ -1,4 +1,4 @@
-## Drawing.Context.getLastArcEndPos method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function getLastArcEndPos()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.Coords](../../Drawing/Coords.md)
+![method-return-type-text]
 

@@ -1,4 +1,4 @@
-## Drawing.Context.setTextColor method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function setTextColor( clr   // Drawing.Color
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **clr** ([Drawing.Color](../../Drawing/Color.md)) - ![clr]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.Color](../../Drawing/Color.md)
+![method-return-type-text]
 

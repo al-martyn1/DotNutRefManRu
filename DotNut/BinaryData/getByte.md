@@ -1,4 +1,4 @@
-## DotNut.BinaryData.getByte method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function getByte( idx   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **idx** (**integer**) - ![idx]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

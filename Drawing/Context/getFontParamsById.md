@@ -1,4 +1,4 @@
-## Drawing.Context.getFontParamsById method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function getFontParamsById( id   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **id** (**integer**) - ![id]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.FontParams](../../Drawing/FontParams.md)
+![method-return-type-text]
 

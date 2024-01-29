@@ -1,4 +1,4 @@
-## Drawing.Context.setSmoothingMode method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function setSmoothingMode( smoothingMode   // Drawing.SmoothingMode
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **smoothingMode** ([Drawing.SmoothingMode](../../Drawing/SmoothingMode.md)) - ![smoothingMode]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.SmoothingMode](../../Drawing/SmoothingMode.md)
+![method-return-type-text]
 

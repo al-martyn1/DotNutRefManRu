@@ -1,4 +1,4 @@
-## Drawing.Context.fillGradientCircle method
+## ![method-section-title]
 
 
 ```lua
@@ -11,7 +11,7 @@ function fillGradientCircle( pos              // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **pos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos]
 
@@ -21,7 +21,7 @@ function fillGradientCircle( pos              // Drawing.Coords
 
 **excludeFrame** (**bool**) - ![excludeFrame]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

@@ -1,4 +1,4 @@
-## Drawing.Context.setBkMode method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function setBkMode( bkMode   // Drawing.BkMode
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **bkMode** ([Drawing.BkMode](../../Drawing/BkMode.md)) - ![bkMode]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.BkMode](../../Drawing/BkMode.md)
+![method-return-type-text]
 

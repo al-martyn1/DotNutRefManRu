@@ -1,4 +1,4 @@
-## Drawing.Color.fromRgb method
+## ![method-section-title]
 
 
 ```lua
@@ -11,7 +11,7 @@ function fromRgb( r   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **r** (**integer**) - ![r]
 
@@ -19,7 +19,7 @@ function fromRgb( r   // integer
 
 **b** (**integer**) - ![b]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.Color](../../Drawing/Color.md)
+![method-return-type-text]
 

@@ -1,4 +1,4 @@
-## Drawing.Context.polyCubicBezierTo method
+## ![method-section-title]
 
 
 ```lua
@@ -10,7 +10,7 @@ function polyCubicBezierTo( cp2   // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **cp2** ([Drawing.Coords](../../Drawing/Coords.md)) - ![cp2]
 
@@ -18,7 +18,7 @@ function polyCubicBezierTo( cp2   // Drawing.Coords
 
 **cp4** ([Drawing.Coords](../../Drawing/Coords.md)) - ![cp4]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

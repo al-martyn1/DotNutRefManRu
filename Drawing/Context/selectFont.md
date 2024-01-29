@@ -1,4 +1,4 @@
-## Drawing.Context.selectFont method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function selectFont( fontId   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **fontId** (**integer**) - ![fontId]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

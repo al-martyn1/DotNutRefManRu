@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.readDataFile method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function readDataFile( fileName   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **fileName** (**string**) - ![fileName]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.BinaryData](../../../DotNut/BinaryData.md)
+![method-return-type-text]
 

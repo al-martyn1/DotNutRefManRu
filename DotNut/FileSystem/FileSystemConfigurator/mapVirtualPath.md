@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystemConfigurator.mapVirtualPath method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function mapVirtualPath( path   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **path** (**string**) - ![path]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **string**
+![method-return-type-text]
 

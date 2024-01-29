@@ -1,4 +1,4 @@
-## Drawing.Context.createSolidPen method
+## ![method-section-title]
 
 
 ```lua
@@ -9,13 +9,13 @@ function createSolidPen( penParams   // Drawing.PenParams
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **penParams** ([Drawing.PenParams](../../Drawing/PenParams.md)) - ![penParams]
 
 **clr** ([Drawing.Color](../../Drawing/Color.md)) - ![clr]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

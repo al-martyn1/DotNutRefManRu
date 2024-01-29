@@ -1,4 +1,4 @@
-## DotNut.Integer64.setHi method
+## ![method-section-title]
 
 
 ```lua
@@ -7,7 +7,7 @@ function setHi( h   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **h** (**integer**) - ![h]
 

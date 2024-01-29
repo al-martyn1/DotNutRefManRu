@@ -1,4 +1,4 @@
-## Drawing.PenParams.constructor method
+## ![method-section-title]
 
 
 ```lua
@@ -9,7 +9,7 @@ constructor( width     // any_integral
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **width** (**any_integral**) - ![width]
 
@@ -17,7 +17,7 @@ constructor( width     // any_integral
 
 **join** ([Drawing.LineJoinStyle](../../Drawing/LineJoinStyle.md)) - ![join]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: 
+![method-return-type-text]
 

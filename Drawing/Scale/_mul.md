@@ -1,4 +1,4 @@
-## Drawing.Scale._mul method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function _mul( c   // Drawing.Scale
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **c** ([Drawing.Scale](../../Drawing/Scale.md)) - ![c]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.Scale](../../Drawing/Scale.md)
+![method-return-type-text]
 

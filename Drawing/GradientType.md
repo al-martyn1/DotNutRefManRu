@@ -1,4 +1,4 @@
-## Drawing.GradientType enum
+## ![enum-section-title]
 
 **Vertical** (0) - ![Vertical]
 

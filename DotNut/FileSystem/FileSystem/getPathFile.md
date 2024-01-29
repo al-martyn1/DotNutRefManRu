@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.getPathFile method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function getPathFile( fullName   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **fullName** (**string**) - ![fullName]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **string**
+![method-return-type-text]
 

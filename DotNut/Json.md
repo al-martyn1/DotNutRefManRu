@@ -1,4 +1,4 @@
-## DotNut.Json namespace
+## ![namespace-section-title]
 ```lua
 table /* namespace */ DotNut.Json
 {
@@ -21,7 +21,7 @@ table /* namespace */ DotNut.Json
 ```
 
 
-### Functions
+### ![namespace-functions-section-title]
 
 
 [DotNut.Json.parse](../DotNut/Json/parse.md) - ![__BRIEF]

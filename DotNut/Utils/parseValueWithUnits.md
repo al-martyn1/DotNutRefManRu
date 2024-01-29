@@ -1,4 +1,4 @@
-## DotNut.Utils.parseValueWithUnits function
+## ![function-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function parseValueWithUnits( strValueWithUnits   // string
 ```
 
 
-### Parameters
+### ![function-parameters-section-title]
 
 **strValueWithUnits** (**string**) - ![strValueWithUnits]
 
-### Return value
+### ![function-returns-section-title]
 
-Return type: **table**{status,value,units}
+![function-return-type-text]
 

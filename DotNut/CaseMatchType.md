@@ -1,4 +1,4 @@
-## DotNut.CaseMatchType enum
+## ![enum-section-title]
 
 **CaseExact** (0) - ![CaseExact]
 

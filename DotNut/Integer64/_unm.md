@@ -1,4 +1,4 @@
-## DotNut.Integer64._unm method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function _unm( v   // DotNut.Integer64
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **v** ([DotNut.Integer64](../../DotNut/Integer64.md)) - ![v]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.Integer64](../../DotNut/Integer64.md)
+![method-return-type-text]
 

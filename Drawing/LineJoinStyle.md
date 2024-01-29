@@ -1,4 +1,4 @@
-## Drawing.LineJoinStyle enum
+## ![enum-section-title]
 
 **Bevel** (0) - ![Bevel]
 

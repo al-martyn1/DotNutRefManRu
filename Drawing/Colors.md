@@ -1,4 +1,4 @@
-## Drawing.Colors enum
+## ![enum-section-title]
 
 **AliceBlue** (Drawing.Color(0xF0F8FF)) - ![AliceBlue]
 

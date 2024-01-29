@@ -1,4 +1,4 @@
-## DotNut.AssetManager.setLastError method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function setLastError( err   // DotNut.ErrorCode
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **err** ([DotNut.ErrorCode](../../DotNut/ErrorCode.md)) - ![err]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.ErrorCode](../../DotNut/ErrorCode.md)
+![method-return-type-text]
 

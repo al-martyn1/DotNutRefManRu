@@ -1,4 +1,4 @@
-## Drawing.Context.roundRectFigure method
+## ![method-section-title]
 
 
 ```lua
@@ -9,13 +9,13 @@ function roundRectFigure( cornersR   // any_integral
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **cornersR** (**any_integral**) - ![cornersR]
 
 **points** (**array** of [Drawing.Coords](../../Drawing/Coords.md)) - ![points]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

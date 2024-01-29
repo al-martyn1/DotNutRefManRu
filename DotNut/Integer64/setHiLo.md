@@ -1,4 +1,4 @@
-## DotNut.Integer64.setHiLo method
+## ![method-section-title]
 
 
 ```lua
@@ -8,7 +8,7 @@ function setHiLo( h   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **h** (**integer**) - ![h]
 

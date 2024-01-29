@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileMaskFlags flags
+## ![flags-section-title]
 
 **None** (0) - ![None]
 

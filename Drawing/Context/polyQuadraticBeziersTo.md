@@ -1,4 +1,4 @@
-## Drawing.Context.polyQuadraticBeziersTo method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function polyQuadraticBeziersTo( points   // array of Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **points** (**array** of [Drawing.Coords](../../Drawing/Coords.md)) - ![points]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

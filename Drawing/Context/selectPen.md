@@ -1,4 +1,4 @@
-## Drawing.Context.selectPen method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function selectPen( penId   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **penId** (**integer**) - ![penId]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

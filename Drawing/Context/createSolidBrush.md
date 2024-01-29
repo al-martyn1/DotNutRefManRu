@@ -1,4 +1,4 @@
-## Drawing.Context.createSolidBrush method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function createSolidBrush( rgb   // Drawing.Color
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **rgb** ([Drawing.Color](../../Drawing/Color.md)) - ![rgb]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

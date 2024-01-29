@@ -1,4 +1,4 @@
-## DotNut namespace
+## ![namespace-section-title]
 ```lua
 table /* namespace */ DotNut
 {
@@ -28,12 +28,12 @@ table /* namespace */ DotNut
 ```
 
 
-### Variables
+### ![namespace-vars-section-title]
 
 **env** (**table**{ **string** name -> **string** value }) - ![env]
 
 
-### Functions
+### ![namespace-functions-section-title]
 
 
 [DotNut.getFileSystem](DotNut/getFileSystem.md) - ![__BRIEF]
@@ -42,7 +42,7 @@ table /* namespace */ DotNut
 [DotNut.getAssetManager](DotNut/getAssetManager.md) - ![__BRIEF]
 
 
-### Classes
+### ![namespace-classes-section-title]
 
 
 [DotNut.AssetManager](DotNut/AssetManager.md) - ![__BRIEF]

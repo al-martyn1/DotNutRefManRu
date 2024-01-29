@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystemConfigurator.clrLastError method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function clrLastError()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.ErrorCode](../../../DotNut/ErrorCode.md)
+![method-return-type-text]
 

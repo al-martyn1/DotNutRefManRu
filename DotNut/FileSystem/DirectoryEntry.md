@@ -1,4 +1,4 @@
-## DotNut.FileSystem.DirectoryEntry class
+## ![class-section-title]
 
 
 ```lua
@@ -20,7 +20,7 @@ class DotNut.FileSystem.DirectoryEntry
 
 
 
-### Member fields
+### ![class-members-section-title]
 
 **fileTypeFlags** ([DotNut.FileSystem.FileTypeFlags](../../DotNut/FileSystem/FileTypeFlags.md)) - ![fileTypeFlags]
 

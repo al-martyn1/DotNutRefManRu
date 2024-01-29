@@ -1,4 +1,4 @@
-## Drawing.Coords class
+## ![class-section-title]
 
 
 ```lua
@@ -48,37 +48,37 @@ class Drawing.Coords
 
 
 
-### Member fields
+### ![class-members-section-title]
 
 **x** (**float**) - ![x]
 
 **y** (**float**) - ![y]
 
 
-### Methods
+### ![class-methods-section-title]
 
 
 [Drawing.Coords.constructor](../Drawing/Coords/constructor.md) - ![__BRIEF]
 
 
-**_add** - Support for the 'plus' ('+') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) for details.
+**_add** - ![_add]
 
 
-**_sub** - Support for the 'minus' ('-') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#sub) for details.
+**_sub** - ![_sub]
 
 
-**_unm** - Support for the 'unary minus' ('-') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#unm) for details.
+**_unm** - ![_unm]
 
 
-**_mul** - Support for the 'multiply' ('*') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#mul) for details.
+**_mul** - ![_mul]
 
 
-**_div** - Support for the 'divide' ('/') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#div) for details.
+**_div** - ![_div]
 
 
-**tostring** - Convert the value to string and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) for details. Exposed for compatibility with built-in types. The toString() method has also been implemented to comply with camelCase naming convetions.
+**tostring** - ![tostring]
 
 
-**_tostring** - Support for the 'tostring' ('tostring') conversion method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#tostring) for details.
+**_tostring** - ![_tostring]
 
 

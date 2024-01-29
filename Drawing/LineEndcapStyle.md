@@ -1,4 +1,4 @@
-## Drawing.LineEndcapStyle enum
+## ![enum-section-title]
 
 **Round** (0) - ![Round]
 

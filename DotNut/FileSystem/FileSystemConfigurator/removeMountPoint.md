@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystemConfigurator.removeMountPoint method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function removeMountPoint( mntPointName   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **mntPointName** (**string**) - ![mntPointName]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.ErrorCode](../../../DotNut/ErrorCode.md)
+![method-return-type-text]
 

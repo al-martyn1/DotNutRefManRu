@@ -1,4 +1,4 @@
-## Drawing.Context class
+## ![class-section-title]
 
 
 ```lua
@@ -468,7 +468,7 @@ class Drawing.Context
 
 
 
-### Methods
+### ![class-methods-section-title]
 
 
 [Drawing.Context.flushBits](../Drawing/Context/flushBits.md) - ![__BRIEF]

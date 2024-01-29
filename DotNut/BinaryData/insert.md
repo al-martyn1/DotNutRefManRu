@@ -1,4 +1,4 @@
-## DotNut.BinaryData.insert method
+## ![method-section-title]
 
 
 ```lua
@@ -8,7 +8,7 @@ function insert( idx   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **idx** (**integer**) - ![idx]
 

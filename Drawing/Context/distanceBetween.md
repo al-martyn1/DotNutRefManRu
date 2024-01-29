@@ -1,4 +1,4 @@
-## Drawing.Context.distanceBetween method
+## ![method-section-title]
 
 
 ```lua
@@ -9,13 +9,13 @@ function distanceBetween( pos1   // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **pos1** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos1]
 
 **pos2** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos2]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **float**
+![method-return-type-text]
 

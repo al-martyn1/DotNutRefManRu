@@ -1,4 +1,4 @@
-## Drawing.Context.polyQuadraticBezier method
+## ![method-section-title]
 
 
 ```lua
@@ -10,7 +10,7 @@ function polyQuadraticBezier( cp1   // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **cp1** ([Drawing.Coords](../../Drawing/Coords.md)) - ![cp1]
 
@@ -18,7 +18,7 @@ function polyQuadraticBezier( cp1   // Drawing.Coords
 
 **cp3** ([Drawing.Coords](../../Drawing/Coords.md)) - ![cp3]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

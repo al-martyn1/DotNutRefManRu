@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.getConfigurator method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function getConfigurator()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.FileSystem.FileSystemConfigurator](../../../DotNut/FileSystem/FileSystemConfigurator.md)
+![method-return-type-text]
 

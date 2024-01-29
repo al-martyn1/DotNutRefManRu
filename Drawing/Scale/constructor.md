@@ -1,4 +1,4 @@
-## Drawing.Scale.constructor method
+## ![method-section-title]
 
 
 ```lua
@@ -8,13 +8,13 @@ constructor( x   // any_integral
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **x** (**any_integral**) - ![x]
 
 **y** (**any_integral**) - ![y]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: 
+![method-return-type-text]
 

@@ -1,4 +1,4 @@
-## Drawing.Context.getPenParams method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function getPenParams( penId   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **penId** (**integer**) - ![penId]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.PenParams](../../Drawing/PenParams.md)
+![method-return-type-text]
 

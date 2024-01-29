@@ -1,4 +1,4 @@
-## DotNut.FileSystem namespace
+## ![namespace-section-title]
 ```lua
 table /* namespace */ DotNut.FileSystem
 {
@@ -14,7 +14,7 @@ table /* namespace */ DotNut.FileSystem
 ```
 
 
-### Classes
+### ![namespace-classes-section-title]
 
 
 [DotNut.FileSystem.DirectoryEntry](../DotNut/FileSystem/DirectoryEntry.md) - ![__BRIEF]

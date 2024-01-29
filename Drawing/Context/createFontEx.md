@@ -1,4 +1,4 @@
-## Drawing.Context.createFontEx method
+## ![method-section-title]
 
 
 ```lua
@@ -9,13 +9,13 @@ function createFontEx( fontParams   // Drawing.FontParams
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **fontParams** ([Drawing.FontParams](../../Drawing/FontParams.md)) - ![fontParams]
 
 **height** (**any_integral**) - ![height]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.writeDataFile method
+## ![method-section-title]
 
 
 ```lua
@@ -10,7 +10,7 @@ function writeDataFile( fileName     // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **fileName** (**string**) - ![fileName]
 
@@ -18,7 +18,7 @@ function writeDataFile( fileName     // string
 
 **writeFlags** ([DotNut.FileSystem.WriteFileFlags](../../../DotNut/FileSystem/WriteFileFlags.md)) - ![writeFlags]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.ErrorCode](../../../DotNut/ErrorCode.md)
+![method-return-type-text]
 

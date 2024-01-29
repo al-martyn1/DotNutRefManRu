@@ -1,4 +1,4 @@
-## Drawing.Context.rect method
+## ![method-section-title]
 
 
 ```lua
@@ -9,13 +9,13 @@ function rect( leftTop       // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **leftTop** ([Drawing.Coords](../../Drawing/Coords.md)) - ![leftTop]
 
 **rightBottom** ([Drawing.Coords](../../Drawing/Coords.md)) - ![rightBottom]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

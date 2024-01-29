@@ -1,4 +1,4 @@
-## Drawing.GradientRoundRectFillFlags flags
+## ![flags-section-title]
 
 **Round** (0) - ![Round]
 

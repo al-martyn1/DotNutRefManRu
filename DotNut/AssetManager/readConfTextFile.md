@@ -1,4 +1,4 @@
-## DotNut.AssetManager.readConfTextFile method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function readConfTextFile( confFileName   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **confFileName** (**string**) - ![confFileName]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **string**
+![method-return-type-text]
 

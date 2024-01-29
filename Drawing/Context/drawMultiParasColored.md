@@ -1,4 +1,4 @@
-## Drawing.Context.drawMultiParasColored method
+## ![method-section-title]
 
 
 ```lua
@@ -22,7 +22,7 @@ function drawMultiParasColored( startPos           // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **startPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![startPos]
 
@@ -54,7 +54,7 @@ function drawMultiParasColored( startPos           // Drawing.Coords
 
 **fontId** (**int**) - ![fontId]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

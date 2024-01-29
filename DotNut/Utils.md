@@ -1,4 +1,4 @@
-## DotNut.Utils namespace
+## ![namespace-section-title]
 ```lua
 table /* namespace */ DotNut.Utils
 {
@@ -16,7 +16,7 @@ table /* namespace */ DotNut.Utils
 ```
 
 
-### Functions
+### ![namespace-functions-section-title]
 
 
 [DotNut.Utils.parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - ![__BRIEF]

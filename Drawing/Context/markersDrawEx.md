@@ -1,4 +1,4 @@
-## Drawing.Context.markersDrawEx method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function markersDrawEx( penId   // int
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **penId** (**int**) - ![penId]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

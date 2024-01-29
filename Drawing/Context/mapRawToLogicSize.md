@@ -1,4 +1,4 @@
-## Drawing.Context.mapRawToLogicSize method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function mapRawToLogicSize( c   // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **c** ([Drawing.Coords](../../Drawing/Coords.md)) - ![c]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.Coords](../../Drawing/Coords.md)
+![method-return-type-text]
 

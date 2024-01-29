@@ -1,4 +1,4 @@
-## Drawing.GradientParams.constructor method
+## ![method-section-title]
 
 
 ```lua
@@ -10,7 +10,7 @@ constructor( colorBegin    // Drawing.Color
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **colorBegin** ([Drawing.Color](../../Drawing/Color.md)) - ![colorBegin]
 
@@ -20,7 +20,7 @@ constructor( colorBegin    // Drawing.Color
 
 **midPointPos** (**any_integral**) - ![midPointPos]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: 
+![method-return-type-text]
 

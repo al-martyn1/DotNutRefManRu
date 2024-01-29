@@ -1,4 +1,4 @@
-## Drawing.Context.getCurFont method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function getCurFont()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

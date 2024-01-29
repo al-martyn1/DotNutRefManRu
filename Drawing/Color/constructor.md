@@ -1,4 +1,4 @@
-## Drawing.Color.constructor method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ constructor( intValOrNameStr   // any_integral
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **intValOrNameStr** (**any_integral**) - ![intValOrNameStr]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: 
+![method-return-type-text]
 

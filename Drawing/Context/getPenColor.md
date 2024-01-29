@@ -1,4 +1,4 @@
-## Drawing.Context.getPenColor method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function getPenColor( penId   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **penId** (**integer**) - ![penId]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.Color](../../Drawing/Color.md)
+![method-return-type-text]
 

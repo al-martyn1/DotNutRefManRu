@@ -1,4 +1,4 @@
-## DotNut.Vk.Code enum
+## ![enum-section-title]
 
 **Lbutton** (1) - ![Lbutton]
 

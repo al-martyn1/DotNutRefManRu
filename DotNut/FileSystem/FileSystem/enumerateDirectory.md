@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.enumerateDirectory method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function enumerateDirectory( dirPath   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **dirPath** (**string**) - ![dirPath]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **array** of [DotNut.FileSystem.DirectoryEntryInfo](../../../DotNut/FileSystem/DirectoryEntryInfo.md)
+![method-return-type-text]
 

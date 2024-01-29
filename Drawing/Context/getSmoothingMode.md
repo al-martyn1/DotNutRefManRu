@@ -1,4 +1,4 @@
-## Drawing.Context.getSmoothingMode method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function getSmoothingMode()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.SmoothingMode](../../Drawing/SmoothingMode.md)
+![method-return-type-text]
 

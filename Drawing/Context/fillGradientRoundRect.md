@@ -1,4 +1,4 @@
-## Drawing.Context.fillGradientRoundRect method
+## ![method-section-title]
 
 
 ```lua
@@ -15,7 +15,7 @@ function fillGradientRoundRect( cornersR         // any_integral
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **cornersR** (**any_integral**) - ![cornersR]
 
@@ -33,7 +33,7 @@ function fillGradientRoundRect( cornersR         // any_integral
 
 **fillFlags** ([Drawing.GradientRoundRectFillFlags](../../Drawing/GradientRoundRectFillFlags.md)) - ![fillFlags]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

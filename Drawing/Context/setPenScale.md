@@ -1,4 +1,4 @@
-## Drawing.Context.setPenScale method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function setPenScale( scale   // any_integral
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **scale** (**any_integral**) - ![scale]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **float**
+![method-return-type-text]
 

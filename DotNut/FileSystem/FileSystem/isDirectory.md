@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.isDirectory method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function isDirectory( dirPath   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **dirPath** (**string**) - ![dirPath]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

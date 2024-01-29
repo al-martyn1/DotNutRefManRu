@@ -1,4 +1,4 @@
-## Drawing.VertAlign enum
+## ![enum-section-title]
 
 **Top** (0) - ![Top]
 

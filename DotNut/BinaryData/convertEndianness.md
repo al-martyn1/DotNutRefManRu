@@ -1,4 +1,4 @@
-## DotNut.BinaryData.convertEndianness method
+## ![method-section-title]
 
 
 ```lua
@@ -7,7 +7,7 @@ function convertEndianness( srcEndianness   // DotNut.Endianness
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **srcEndianness** ([DotNut.Endianness](../../DotNut/Endianness.md)) - ![srcEndianness]
 

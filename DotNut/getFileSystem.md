@@ -1,4 +1,4 @@
-## DotNut.getFileSystem function
+## ![function-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function getFileSystem()
 ```
 
 
-### Parameters
+### ![function-parameters-section-title]
 
-This function has no parameters.
+![function-no-parameters-text]
 
-### Return value
+### ![function-returns-section-title]
 
-Return type: [DotNut.FileSystem.FileSystem](../DotNut/FileSystem/FileSystem.md)
+![function-return-type-text]
 

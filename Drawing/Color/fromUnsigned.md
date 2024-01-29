@@ -1,4 +1,4 @@
-## Drawing.Color.fromUnsigned method
+## ![method-section-title]
 
 
 ```lua
@@ -9,11 +9,11 @@ function fromUnsigned( u   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **u** (**integer**) - ![u]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.Color](../../Drawing/Color.md)
+![method-return-type-text]
 

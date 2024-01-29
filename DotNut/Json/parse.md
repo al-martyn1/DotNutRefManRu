@@ -1,4 +1,4 @@
-## DotNut.Json.parse function
+## ![function-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function parse( jsonText   // string
 ```
 
 
-### Parameters
+### ![function-parameters-section-title]
 
 **jsonText** (**string**) - ![jsonText]
 
-### Return value
+### ![function-returns-section-title]
 
-Return type: **table**{status,data,message}
+![function-return-type-text]
 

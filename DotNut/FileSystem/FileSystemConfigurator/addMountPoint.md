@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystemConfigurator.addMountPoint method
+## ![method-section-title]
 
 
 ```lua
@@ -9,13 +9,13 @@ function addMountPoint( mntPointName     // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **mntPointName** (**string**) - ![mntPointName]
 
 **mntPointTarget** (**string**) - ![mntPointTarget]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.ErrorCode](../../../DotNut/ErrorCode.md)
+![method-return-type-text]
 

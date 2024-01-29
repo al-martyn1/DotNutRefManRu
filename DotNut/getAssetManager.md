@@ -1,4 +1,4 @@
-## DotNut.getAssetManager function
+## ![function-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function getAssetManager()
 ```
 
 
-### Parameters
+### ![function-parameters-section-title]
 
-This function has no parameters.
+![function-no-parameters-text]
 
-### Return value
+### ![function-returns-section-title]
 
-Return type: [DotNut.AssetManager](../DotNut/AssetManager.md)
+![function-return-type-text]
 

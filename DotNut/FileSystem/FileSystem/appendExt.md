@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.appendExt method
+## ![method-section-title]
 
 
 ```lua
@@ -9,13 +9,13 @@ function appendExt( name   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **name** (**string**) - ![name]
 
 **ext** (**string**) - ![ext]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **string**
+![method-return-type-text]
 

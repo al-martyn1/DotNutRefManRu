@@ -1,4 +1,4 @@
-## Drawing.Context.createOrFindFont method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function createOrFindFont( fontParams   // Drawing.FontParams
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **fontParams** ([Drawing.FontParams](../../Drawing/FontParams.md)) - ![fontParams]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

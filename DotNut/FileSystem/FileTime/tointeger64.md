@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileTime.tointeger64 method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function tointeger64()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.Integer64](../../../DotNut/Integer64.md)
+![method-return-type-text]
 

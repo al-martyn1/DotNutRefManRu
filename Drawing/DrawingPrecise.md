@@ -1,4 +1,4 @@
-## Drawing.DrawingPrecise enum
+## ![enum-section-title]
 
 **DefPrecise** (0) - ![DefPrecise]
 

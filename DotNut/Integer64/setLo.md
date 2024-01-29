@@ -1,4 +1,4 @@
-## DotNut.Integer64.setLo method
+## ![method-section-title]
 
 
 ```lua
@@ -7,7 +7,7 @@ function setLo( l   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **l** (**integer**) - ![l]
 

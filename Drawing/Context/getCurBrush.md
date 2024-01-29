@@ -1,4 +1,4 @@
-## Drawing.Context.getCurBrush method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function getCurBrush()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

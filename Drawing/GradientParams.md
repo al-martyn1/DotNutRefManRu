@@ -1,4 +1,4 @@
-## Drawing.GradientParams class
+## ![class-section-title]
 
 
 ```lua
@@ -26,7 +26,7 @@ class Drawing.GradientParams
 
 
 
-### Member fields
+### ![class-members-section-title]
 
 **colorBegin** ([Drawing.Color](../Drawing/Color.md)) - ![colorBegin]
 
@@ -37,7 +37,7 @@ class Drawing.GradientParams
 **midPoint** (**float**) - ![midPoint]
 
 
-### Methods
+### ![class-methods-section-title]
 
 
 [Drawing.GradientParams.constructor](../Drawing/GradientParams/constructor.md) - ![__BRIEF]

@@ -1,4 +1,4 @@
-## DotNut.BigDecimal.abs method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function abs()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.BigDecimal](../../DotNut/BigDecimal.md)
+![method-return-type-text]
 

@@ -1,4 +1,4 @@
-## Drawing.Context.getDrawingPrecise method
+## ![method-section-title]
 
 
 ```lua
@@ -7,11 +7,11 @@ function getDrawingPrecise()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [Drawing.DrawingPrecise](../../Drawing/DrawingPrecise.md)
+![method-return-type-text]
 

@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileTime._sub method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function _sub( v   // DotNut.FileSystem.FileTime
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **v** ([DotNut.FileSystem.FileTime](../../../DotNut/FileSystem/FileTime.md)) - ![v]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: [DotNut.FileSystem.FileTime](../../../DotNut/FileSystem/FileTime.md)
+![method-return-type-text]
 

@@ -1,4 +1,4 @@
-## DotNut.BinaryData._get method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function _get( idx   // integer
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **idx** (**integer**) - ![idx]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **integer**
+![method-return-type-text]
 

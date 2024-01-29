@@ -1,4 +1,4 @@
-## DotNut.BinaryData.reverse method
+## ![method-section-title]
 
 
 ```lua
@@ -6,7 +6,7 @@ function reverse()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 

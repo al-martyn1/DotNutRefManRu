@@ -1,4 +1,4 @@
-## Drawing.LineType enum
+## ![enum-section-title]
 
 **Diagonal** (0) - ![Diagonal]
 

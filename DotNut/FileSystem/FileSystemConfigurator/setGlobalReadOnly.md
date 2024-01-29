@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystemConfigurator.setGlobalReadOnly method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function setGlobalReadOnly( ro   // bool
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **ro** (**bool**) - ![ro]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

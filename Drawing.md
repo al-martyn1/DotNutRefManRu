@@ -1,4 +1,4 @@
-## Drawing namespace
+## ![namespace-section-title]
 ```lua
 table /* namespace */ Drawing
 {
@@ -16,7 +16,7 @@ table /* namespace */ Drawing
 ```
 
 
-### Classes
+### ![namespace-classes-section-title]
 
 
 [Drawing.Color](Drawing/Color.md) - ![__BRIEF]

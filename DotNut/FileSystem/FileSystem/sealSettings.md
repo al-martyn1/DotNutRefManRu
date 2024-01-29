@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.sealSettings method
+## ![method-section-title]
 
 
 ```lua
@@ -6,7 +6,7 @@ function sealSettings()
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
-This method has no parameters.
+![method-no-parameters-text]
 

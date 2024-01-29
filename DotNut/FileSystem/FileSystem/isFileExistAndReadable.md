@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileSystem.isFileExistAndReadable method
+## ![method-section-title]
 
 
 ```lua
@@ -8,11 +8,11 @@ function isFileExistAndReadable( fileName   // string
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **fileName** (**string**) - ![fileName]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

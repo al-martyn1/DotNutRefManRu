@@ -1,4 +1,4 @@
-## Drawing.Context.fillGradientRect method
+## ![method-section-title]
 
 
 ```lua
@@ -12,7 +12,7 @@ function fillGradientRect( leftTop          // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **leftTop** ([Drawing.Coords](../../Drawing/Coords.md)) - ![leftTop]
 
@@ -24,7 +24,7 @@ function fillGradientRect( leftTop          // Drawing.Coords
 
 **excludeFrame** (**bool**) - ![excludeFrame]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

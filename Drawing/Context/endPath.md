@@ -1,4 +1,4 @@
-## Drawing.Context.endPath method
+## ![method-section-title]
 
 
 ```lua
@@ -9,13 +9,13 @@ function endPath( bStroke   // bool
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **bStroke** (**bool**) - ![bStroke]
 
 **bFill** (**bool**) - ![bFill]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

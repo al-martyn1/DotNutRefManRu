@@ -1,4 +1,4 @@
-## Drawing.Context.arcToPos method
+## ![method-section-title]
 
 
 ```lua
@@ -10,7 +10,7 @@ function arcToPos( centerPos      // Drawing.Coords
 ```
 
 
-### Parameters
+### ![method-parameters-section-title]
 
 **centerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![centerPos]
 
@@ -18,7 +18,7 @@ function arcToPos( centerPos      // Drawing.Coords
 
 **arcDirection** ([Drawing.ArcDirection](../../Drawing/ArcDirection.md)) - ![arcDirection]
 
-### Return value
+### ![method-returns-section-title]
 
-Return type: **bool**
+![method-return-type-text]
 

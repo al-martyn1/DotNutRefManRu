@@ -1,4 +1,4 @@
-## DotNut.FileSystem.FileMask class
+## ![class-section-title]
 
 
 ```lua
@@ -14,7 +14,7 @@ class DotNut.FileSystem.FileMask
 
 
 
-### Member fields
+### ![class-members-section-title]
 
 **flags** ([DotNut.FileSystem.FileMaskFlags](../../DotNut/FileSystem/FileMaskFlags.md)) - ![flags]
 

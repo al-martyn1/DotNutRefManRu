@@ -1,4 +1,4 @@
-## Drawing.ArcDirection enum
+## ![enum-section-title]
 
 **CounterClockwise** (1) - ![CounterClockwise]
 
