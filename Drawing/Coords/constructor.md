@@ -14,7 +14,3 @@ constructor( x   // any_integral
 
 **y** (**any_integral**) - ![y]
 
-### Возвращаемое значение
-
-Возвращаемый тип: 
-

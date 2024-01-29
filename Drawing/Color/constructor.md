@@ -11,7 +11,3 @@ constructor( intValOrNameStr   // any_integral
 
 **intValOrNameStr** (**any_integral**) - ![intValOrNameStr]
 
-### Возвращаемое значение
-
-Возвращаемый тип: 
-

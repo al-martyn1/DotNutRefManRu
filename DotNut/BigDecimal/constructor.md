@@ -11,7 +11,3 @@ constructor( v   // bool|integer|float|string|DotNut.BigDecimal|DotNut.Integer64
 
 **v** (**bool**|**integer**|**float**|**string**|[DotNut.BigDecimal](../../DotNut/BigDecimal.md)|[DotNut.Integer64](../../DotNut/Integer64.md)) - ![v]
 
-### Возвращаемое значение
-
-Возвращаемый тип: 
-

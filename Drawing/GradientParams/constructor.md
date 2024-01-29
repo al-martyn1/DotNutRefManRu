@@ -20,7 +20,3 @@ constructor( colorBegin    // Drawing.Color
 
 **midPointPos** (**any_integral**) - ![midPointPos]
 
-### Возвращаемое значение
-
-Возвращаемый тип: 
-
