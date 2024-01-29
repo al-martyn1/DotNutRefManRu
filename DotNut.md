@@ -20,6 +20,7 @@ table /* namespace */ DotNut
     // Classes
 
     class AssetManager;
+    class BigDecimal;
     class BinaryData;
     class Integer64;
 
@@ -45,6 +46,8 @@ table /* namespace */ DotNut
 
 
 [DotNut.AssetManager](DotNut/AssetManager.md) - ![__BRIEF]
+
+[DotNut.BigDecimal](DotNut/BigDecimal.md) - ![__BRIEF]
 
 [DotNut.BinaryData](DotNut/BinaryData.md) - ![__BRIEF]
 
