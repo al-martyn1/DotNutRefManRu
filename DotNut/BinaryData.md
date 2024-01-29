@@ -118,10 +118,10 @@ class DotNut.BinaryData
 [DotNut.BinaryData.reverse](../DotNut/BinaryData/reverse.md) - ![__BRIEF]
 
 
-[DotNut.BinaryData._set](../DotNut/BinaryData/_set.md) - ![__BRIEF]
+**_set** - Support for the index ('[]') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#set) for details.
 
 
-[DotNut.BinaryData._get](../DotNut/BinaryData/_get.md) - ![__BRIEF]
+**_get** - Support for the index ('[]') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#get) for details.
 
 
 [DotNut.BinaryData.setByte](../DotNut/BinaryData/setByte.md) - ![__BRIEF]
