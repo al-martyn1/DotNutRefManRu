@@ -9,5 +9,5 @@ constructor( v   // bool|integer|float|string|DotNut.BigDecimal|DotNut.Integer64
 
 ### Параметры
 
-**v** (**bool**|**integer**|**float**|**string**|[DotNut.BigDecimal](../../DotNut/BigDecimal.md)|[DotNut.Integer64](../../DotNut/Integer64.md)) - ![v]
+**v** (**bool** | **integer** | **float** | **string** | [DotNut.BigDecimal](../../DotNut/BigDecimal.md) | [DotNut.Integer64](../../DotNut/Integer64.md)) - ![v]
 
