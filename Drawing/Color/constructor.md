@@ -2,12 +2,12 @@
 
 
 ```lua
-constructor( intValOrNameStr   // integer|float|string|array of integer[r,g,b,a]|Drawing.Color
+constructor( clrInit   // integer|float|string|array of integer[r,g,b,a]|Drawing.Color
            )
 ```
 
 
 ### Параметры
 
-**intValOrNameStr** (**integer** | **float** | **string** | **array** of **integer**[r,g,b,a] | [Drawing.Color](../../Drawing/Color.md)) - ![intValOrNameStr]
+**clrInit** (**integer** | **float** | **string** | **array** of **integer**[r,g,b,a] | [Drawing.Color](../../Drawing/Color.md)) - ![clrInit]
 
