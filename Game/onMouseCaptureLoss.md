@@ -3,7 +3,7 @@
 
 ```lua
 function onMouseCaptureLoss()
-// returns: Drawing::CallbackResultFlags
+// returns: Drawing.CallbackResultFlags
 ```
 
 
@@ -13,5 +13,5 @@ function onMouseCaptureLoss()
 
 ### Возвращаемое значение
 
-Возвращаемый тип: Drawing::CallbackResultFlags
+Возвращаемый тип: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 

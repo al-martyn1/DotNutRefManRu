@@ -7,8 +7,8 @@ class Drawing.FontParams
     // Member Fields
 
     height;         // float
-    weight;         // integer
-    fontStyleFlags; // FontStyleFlags
+    weight;         // Drawing.FontWeight
+    fontStyleFlags; // Drawing.FontStyleFlags
     fontFace;       // string
 
 
@@ -30,9 +30,9 @@ class Drawing.FontParams
 
 **height** (**float**) - ![height]
 
-**weight** (**integer**) - ![weight]
+**weight** ([Drawing.FontWeight](../Drawing/FontWeight.md)) - ![weight]
 
-**fontStyleFlags** ([FontStyleFlags](../FontStyleFlags.md)) - ![fontStyleFlags]
+**fontStyleFlags** ([Drawing.FontStyleFlags](../Drawing/FontStyleFlags.md)) - ![fontStyleFlags]
 
 **fontFace** (**string**) - ![fontFace]
 

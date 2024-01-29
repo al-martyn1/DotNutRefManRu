@@ -14,20 +14,20 @@ table /* namespace */ Game
 
     function onUpdate( tickDelta   // integer
                      )
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
     function onKeyEvent( bDown     // bool
                        , vk        // DotNut.Vk.Code
                        , nRepCnt   // int
                        )
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
     function onMouseMoveEvents( dc             // Drawing.Context
                               , mmEventType    // Drawing.MouseMoveEventType
                               , mbStateFlags   // Drawing.MouseButtonStateFlags
                               , pos            // Drawing.Coords
                               )
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
     function onMouseButtonEvents( dc             // Drawing.Context
                                 , mouseButton    // Drawing.MouseButton
@@ -35,31 +35,31 @@ table /* namespace */ Game
                                 , mbStateFlags   // Drawing.MouseButtonStateFlags
                                 , pos            // Drawing.Coords
                                 )
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
     function onMouseWheel( dc             // Drawing.Context
                          , zDelta         // integer
                          , mbStateFlags   // Drawing.MouseButtonStateFlags
                          , pos            // Drawing.Coords
                          )
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
     function onWindowSize( wszRequestType   // Drawing.WindowSizeRequestType
                          , size             // Drawing.Coords
                          )
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
     function onWindowSizing( sizingEdge   // Drawing.WindowSizingEventEdge
                            , size         // Drawing.Coords
                            )
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
     function onMouseCaptureLoss()
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
     function onCreate( clientAreaSize   // Drawing.Coords
                      )
-    // returns: Drawing::CallbackResultFlags
+    // returns: Drawing.CallbackResultFlags
 
 
 

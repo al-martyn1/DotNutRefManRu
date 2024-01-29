@@ -4,7 +4,7 @@
 ```lua
 function onCreate( clientAreaSize   // Drawing.Coords
                  )
-// returns: Drawing::CallbackResultFlags
+// returns: Drawing.CallbackResultFlags
 ```
 
 
@@ -14,5 +14,5 @@ function onCreate( clientAreaSize   // Drawing.Coords
 
 ### Возвращаемое значение
 
-Возвращаемый тип: Drawing::CallbackResultFlags
+Возвращаемый тип: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 

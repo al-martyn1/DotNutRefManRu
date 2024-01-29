@@ -6,7 +6,7 @@ function onKeyEvent( bDown     // bool
                    , vk        // DotNut.Vk.Code
                    , nRepCnt   // int
                    )
-// returns: Drawing::CallbackResultFlags
+// returns: Drawing.CallbackResultFlags
 ```
 
 
@@ -20,5 +20,5 @@ function onKeyEvent( bDown     // bool
 
 ### Возвращаемое значение
 
-Возвращаемый тип: Drawing::CallbackResultFlags
+Возвращаемый тип: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 

@@ -5,7 +5,7 @@
 function onWindowSizing( sizingEdge   // Drawing.WindowSizingEventEdge
                        , size         // Drawing.Coords
                        )
-// returns: Drawing::CallbackResultFlags
+// returns: Drawing.CallbackResultFlags
 ```
 
 
@@ -17,5 +17,5 @@ function onWindowSizing( sizingEdge   // Drawing.WindowSizingEventEdge
 
 ### Возвращаемое значение
 
-Возвращаемый тип: Drawing::CallbackResultFlags
+Возвращаемый тип: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 
