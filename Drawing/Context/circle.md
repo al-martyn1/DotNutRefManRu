@@ -3,7 +3,7 @@
 
 ```lua
 function circle( centerPos   // Drawing.Coords
-               , r           // any_integral
+               , r           // integer|float|string
                )
 // returns: bool
 ```
@@ -13,7 +13,7 @@ function circle( centerPos   // Drawing.Coords
 
 **centerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![centerPos]
 
-**r** (**any_integral**) - ![r]
+**r** (**integer** | **float** | **string**) - ![r]
 
 ### Возвращаемое значение
 

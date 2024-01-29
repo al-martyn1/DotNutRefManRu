@@ -3,7 +3,7 @@
 
 ```lua
 function arcByAngleDeg( centerPos   // Drawing.Coords
-                      , angle       // any_integral
+                      , angle       // integer|float|string
                       )
 // returns: bool
 ```
@@ -13,7 +13,7 @@ function arcByAngleDeg( centerPos   // Drawing.Coords
 
 **centerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![centerPos]
 
-**angle** (**any_integral**) - ![angle]
+**angle** (**integer** | **float** | **string**) - ![angle]
 
 ### Возвращаемое значение
 

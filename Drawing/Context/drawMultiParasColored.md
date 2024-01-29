@@ -4,16 +4,16 @@
 ```lua
 function drawMultiParasColored( startPos           // Drawing.Coords
                               , limits             // Drawing.Coords
-                              , lineSpacing        // any_integral
-                              , paraIndent         // any_integral
-                              , tabSize            // any_integral
+                              , lineSpacing        // integer|float|string
+                              , paraIndent         // integer|float|string
+                              , tabSize            // integer|float|string
                               , flags              // DrawTextFlags
                               , horAlign           // Drawing.HorAlign
                               , vertAlign          // Drawing.VertAlign
                               , text               // string
                               , colors             // array of Drawing.Color
                               , bkColors           // array of Drawing.Color
-                              , tabStopPositions   // array of any_integral
+                              , tabStopPositions   // array of integer|float|string
                               , paraColors         // array of Drawing.Color
                               , paraBkColors       // array of Drawing.Color
                               , fontId             // int
@@ -28,11 +28,11 @@ function drawMultiParasColored( startPos           // Drawing.Coords
 
 **limits** ([Drawing.Coords](../../Drawing/Coords.md)) - ![limits]
 
-**lineSpacing** (**any_integral**) - ![lineSpacing]
+**lineSpacing** (**integer** | **float** | **string**) - ![lineSpacing]
 
-**paraIndent** (**any_integral**) - ![paraIndent]
+**paraIndent** (**integer** | **float** | **string**) - ![paraIndent]
 
-**tabSize** (**any_integral**) - ![tabSize]
+**tabSize** (**integer** | **float** | **string**) - ![tabSize]
 
 **flags** ([DrawTextFlags](../../DrawTextFlags.md)) - ![flags]
 
@@ -46,7 +46,7 @@ function drawMultiParasColored( startPos           // Drawing.Coords
 
 **bkColors** (**array** of [Drawing.Color](../../Drawing/Color.md)) - ![bkColors]
 
-**tabStopPositions** (**array** of **any_integral**) - ![tabStopPositions]
+**tabStopPositions** (**array** of **integer** | **float** | **string**) - ![tabStopPositions]
 
 **paraColors** (**array** of [Drawing.Color](../../Drawing/Color.md)) - ![paraColors]
 

@@ -2,15 +2,15 @@
 
 
 ```lua
-constructor( x   // any_integral
-           , y   // any_integral
+constructor( x   // integer|float|string
+           , y   // integer|float|string
            )
 ```
 
 
 ### Параметры
 
-**x** (**any_integral**) - ![x]
+**x** (**integer** | **float** | **string**) - ![x]
 
-**y** (**any_integral**) - ![y]
+**y** (**integer** | **float** | **string**) - ![y]
 

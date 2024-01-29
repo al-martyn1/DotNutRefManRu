@@ -3,7 +3,7 @@
 
 ```lua
 function drawTextColored( startPos    // Drawing.Coords
-                        , widthLim    // any_integral
+                        , widthLim    // integer|float|string
                         , flags       // DrawTextFlags
                         , text        // string
                         , stopChars   // string
@@ -19,7 +19,7 @@ function drawTextColored( startPos    // Drawing.Coords
 
 **startPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![startPos]
 
-**widthLim** (**any_integral**) - ![widthLim]
+**widthLim** (**integer** | **float** | **string**) - ![widthLim]
 
 **flags** ([DrawTextFlags](../../DrawTextFlags.md)) - ![flags]
 

@@ -2,7 +2,7 @@
 
 
 ```lua
-function fillGradientRoundRect( cornersR         // any_integral
+function fillGradientRoundRect( cornersR         // integer|float|string
                               , leftTop          // Drawing.Coords
                               , rightBottom      // Drawing.Coords
                               , gradientParams   // Drawing.GradientParams
@@ -17,7 +17,7 @@ function fillGradientRoundRect( cornersR         // any_integral
 
 ### Параметры
 
-**cornersR** (**any_integral**) - ![cornersR]
+**cornersR** (**integer** | **float** | **string**) - ![cornersR]
 
 **leftTop** ([Drawing.Coords](../../Drawing/Coords.md)) - ![leftTop]
 

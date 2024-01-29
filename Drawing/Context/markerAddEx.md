@@ -3,7 +3,7 @@
 
 ```lua
 function markerAddEx( markerPos    // Drawing.Coords
-                    , markerSize   // any_integral
+                    , markerSize   // integer|float|string
                     )
 // returns: bool
 ```
@@ -13,7 +13,7 @@ function markerAddEx( markerPos    // Drawing.Coords
 
 **markerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![markerPos]
 
-**markerSize** (**any_integral**) - ![markerSize]
+**markerSize** (**integer** | **float** | **string**) - ![markerSize]
 
 ### Возвращаемое значение
 

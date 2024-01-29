@@ -3,7 +3,7 @@
 
 ```lua
 function selectNewFontEx( fontParams   // Drawing.FontParams
-                        , height       // any_integral
+                        , height       // integer|float|string
                         )
 // returns: integer
 ```
@@ -13,7 +13,7 @@ function selectNewFontEx( fontParams   // Drawing.FontParams
 
 **fontParams** ([Drawing.FontParams](../../Drawing/FontParams.md)) - ![fontParams]
 
-**height** (**any_integral**) - ![height]
+**height** (**integer** | **float** | **string**) - ![height]
 
 ### Возвращаемое значение
 

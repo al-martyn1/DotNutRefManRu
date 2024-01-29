@@ -3,7 +3,7 @@
 
 ```lua
 function fillCircle( centerPos   // Drawing.Coords
-                   , r           // any_integral
+                   , r           // integer|float|string
                    , drawFrame   // bool
                    )
 // returns: bool
@@ -14,7 +14,7 @@ function fillCircle( centerPos   // Drawing.Coords
 
 **centerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![centerPos]
 
-**r** (**any_integral**) - ![r]
+**r** (**integer** | **float** | **string**) - ![r]
 
 **drawFrame** (**bool**) - ![drawFrame]
 

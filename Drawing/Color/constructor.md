@@ -2,12 +2,12 @@
 
 
 ```lua
-constructor( intValOrNameStr   // any_integral
+constructor( intValOrNameStr   // integer|float|string|array of integer[r,g,b,a]|Drawing.Color
            )
 ```
 
 
 ### Параметры
 
-**intValOrNameStr** (**any_integral**) - ![intValOrNameStr]
+**intValOrNameStr** (**integer** | **float** | **string** | **array** of **integer**[r,g,b,a] | [Drawing.Color](../../Drawing/Color.md)) - ![intValOrNameStr]
 

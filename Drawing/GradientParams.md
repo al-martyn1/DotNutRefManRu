@@ -17,7 +17,7 @@ class Drawing.GradientParams
     constructor( colorBegin    // Drawing.Color
                , colorMid      // Drawing.Color
                , colorEnd      // Drawing.Color
-               , midPointPos   // any_integral
+               , midPointPos   // integer|float|string
                )
 
 

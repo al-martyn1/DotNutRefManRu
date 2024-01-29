@@ -2,7 +2,7 @@
 
 
 ```lua
-constructor( height           // any_integral
+constructor( height           // integer|float|string
            , weight           // Drawing.FontWeight
            , fontStyleFlags   // Drawing.FontStyleFlags
            , fontFace         // string
@@ -12,7 +12,7 @@ constructor( height           // any_integral
 
 ### Параметры
 
-**height** (**any_integral**) - ![height]
+**height** (**integer** | **float** | **string**) - ![height]
 
 **weight** ([Drawing.FontWeight](../../Drawing/FontWeight.md)) - ![weight]
 

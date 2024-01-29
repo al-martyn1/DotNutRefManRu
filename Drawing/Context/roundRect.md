@@ -2,7 +2,7 @@
 
 
 ```lua
-function roundRect( cornersR      // any_integral
+function roundRect( cornersR      // integer|float|string
                   , leftTop       // Drawing.Coords
                   , rightBottom   // Drawing.Coords
                   )
@@ -12,7 +12,7 @@ function roundRect( cornersR      // any_integral
 
 ### Параметры
 
-**cornersR** (**any_integral**) - ![cornersR]
+**cornersR** (**integer** | **float** | **string**) - ![cornersR]
 
 **leftTop** ([Drawing.Coords](../../Drawing/Coords.md)) - ![leftTop]
 

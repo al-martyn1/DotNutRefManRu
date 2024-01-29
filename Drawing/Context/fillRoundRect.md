@@ -2,7 +2,7 @@
 
 
 ```lua
-function fillRoundRect( cornersR      // any_integral
+function fillRoundRect( cornersR      // integer|float|string
                       , leftTop       // Drawing.Coords
                       , rightBottom   // Drawing.Coords
                       , drawFrame     // bool
@@ -13,7 +13,7 @@ function fillRoundRect( cornersR      // any_integral
 
 ### Параметры
 
-**cornersR** (**any_integral**) - ![cornersR]
+**cornersR** (**integer** | **float** | **string**) - ![cornersR]
 
 **leftTop** ([Drawing.Coords](../../Drawing/Coords.md)) - ![leftTop]
 

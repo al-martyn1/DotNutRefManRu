@@ -3,7 +3,7 @@
 
 ```lua
 function fillGradientCircle( pos              // Drawing.Coords
-                           , r                // any_integral
+                           , r                // integer|float|string
                            , gradientParams   // Drawing.GradientParams
                            , excludeFrame     // bool
                            )
@@ -15,7 +15,7 @@ function fillGradientCircle( pos              // Drawing.Coords
 
 **pos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos]
 
-**r** (**any_integral**) - ![r]
+**r** (**integer** | **float** | **string**) - ![r]
 
 **gradientParams** ([Drawing.GradientParams](../../Drawing/GradientParams.md)) - ![gradientParams]
 

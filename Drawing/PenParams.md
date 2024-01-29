@@ -13,7 +13,7 @@ class Drawing.PenParams
 
     // Functions
 
-    constructor( width     // any_integral
+    constructor( width     // integer|float|string
                , endcaps   // Drawing.LineEndcapStyle
                , join      // Drawing.LineJoinStyle
                )

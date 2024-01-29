@@ -12,8 +12,8 @@ class Drawing.Scale
 
     // Functions
 
-    constructor( x   // any_integral
-               , y   // any_integral
+    constructor( x   // integer|float|string
+               , y   // integer|float|string
                )
 
     function _add( c   // Drawing.Scale

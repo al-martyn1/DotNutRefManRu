@@ -5,7 +5,7 @@
 constructor( colorBegin    // Drawing.Color
            , colorMid      // Drawing.Color
            , colorEnd      // Drawing.Color
-           , midPointPos   // any_integral
+           , midPointPos   // integer|float|string
            )
 ```
 
@@ -18,5 +18,5 @@ constructor( colorBegin    // Drawing.Color
 
 **colorEnd** ([Drawing.Color](../../Drawing/Color.md)) - ![colorEnd]
 
-**midPointPos** (**any_integral**) - ![midPointPos]
+**midPointPos** (**integer** | **float** | **string**) - ![midPointPos]
 

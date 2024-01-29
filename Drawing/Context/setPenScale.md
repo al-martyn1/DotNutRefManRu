@@ -2,7 +2,7 @@
 
 
 ```lua
-function setPenScale( scale   // any_integral
+function setPenScale( scale   // integer|float|string
                     )
 // returns: float
 ```
@@ -10,7 +10,7 @@ function setPenScale( scale   // any_integral
 
 ### Параметры
 
-**scale** (**any_integral**) - ![scale]
+**scale** (**integer** | **float** | **string**) - ![scale]
 
 ### Возвращаемое значение
 

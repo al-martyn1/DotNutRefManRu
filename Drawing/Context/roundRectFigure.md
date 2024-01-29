@@ -2,7 +2,7 @@
 
 
 ```lua
-function roundRectFigure( cornersR   // any_integral
+function roundRectFigure( cornersR   // integer|float|string
                         , points     // array of Drawing.Coords
                         )
 // returns: bool
@@ -11,7 +11,7 @@ function roundRectFigure( cornersR   // any_integral
 
 ### Параметры
 
-**cornersR** (**any_integral**) - ![cornersR]
+**cornersR** (**integer** | **float** | **string**) - ![cornersR]
 
 **points** (**array** of [Drawing.Coords](../../Drawing/Coords.md)) - ![points]
 

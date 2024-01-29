@@ -2,7 +2,7 @@
 
 
 ```lua
-constructor( width     // any_integral
+constructor( width     // integer|float|string
            , endcaps   // Drawing.LineEndcapStyle
            , join      // Drawing.LineJoinStyle
            )
@@ -11,7 +11,7 @@ constructor( width     // any_integral
 
 ### Параметры
 
-**width** (**any_integral**) - ![width]
+**width** (**integer** | **float** | **string**) - ![width]
 
 **endcaps** ([Drawing.LineEndcapStyle](../../Drawing/LineEndcapStyle.md)) - ![endcaps]
 

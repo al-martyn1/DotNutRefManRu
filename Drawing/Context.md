@@ -43,7 +43,7 @@ class Drawing.Context
     // returns: bool
 
     function markerAddEx( markerPos    // Drawing.Coords
-                        , markerSize   // any_integral
+                        , markerSize   // integer|float|string
                         )
     // returns: bool
 
@@ -57,7 +57,7 @@ class Drawing.Context
                           )
     // returns: bool
 
-    function markerSetDefSize( markerSize   // any_integral
+    function markerSetDefSize( markerSize   // integer|float|string
                              )
     // returns: float
 
@@ -128,7 +128,7 @@ class Drawing.Context
     function getScale()
     // returns: Drawing.Coords
 
-    function setPenScale( scale   // any_integral
+    function setPenScale( scale   // integer|float|string
                         )
     // returns: float
 
@@ -187,7 +187,7 @@ class Drawing.Context
     // returns: integer
 
     function createFontEx( fontParams   // Drawing.FontParams
-                         , height       // any_integral
+                         , height       // integer|float|string
                          )
     // returns: integer
 
@@ -196,7 +196,7 @@ class Drawing.Context
     // returns: integer
 
     function createOrFindFontEx( fontParams   // Drawing.FontParams
-                               , height       // any_integral
+                               , height       // integer|float|string
                                )
     // returns: integer
 
@@ -209,7 +209,7 @@ class Drawing.Context
     // returns: integer
 
     function selectNewFontEx( fontParams   // Drawing.FontParams
-                            , height       // any_integral
+                            , height       // integer|float|string
                             )
     // returns: integer
 
@@ -285,33 +285,33 @@ class Drawing.Context
     // returns: bool
 
     function arcByAngleDeg( centerPos   // Drawing.Coords
-                          , angle       // any_integral
+                          , angle       // integer|float|string
                           )
     // returns: bool
 
-    function roundRectFigure( cornersR   // any_integral
+    function roundRectFigure( cornersR   // integer|float|string
                             , points     // array of Drawing.Coords
                             )
     // returns: bool
 
     function circle( centerPos   // Drawing.Coords
-                   , r           // any_integral
+                   , r           // integer|float|string
                    )
     // returns: bool
 
     function fillCircle( centerPos   // Drawing.Coords
-                       , r           // any_integral
+                       , r           // integer|float|string
                        , drawFrame   // bool
                        )
     // returns: bool
 
-    function roundRect( cornersR      // any_integral
+    function roundRect( cornersR      // integer|float|string
                       , leftTop       // Drawing.Coords
                       , rightBottom   // Drawing.Coords
                       )
     // returns: bool
 
-    function fillRoundRect( cornersR      // any_integral
+    function fillRoundRect( cornersR      // integer|float|string
                           , leftTop       // Drawing.Coords
                           , rightBottom   // Drawing.Coords
                           , drawFrame     // bool
@@ -337,7 +337,7 @@ class Drawing.Context
                              )
     // returns: bool
 
-    function fillGradientRoundRect( cornersR         // any_integral
+    function fillGradientRoundRect( cornersR         // integer|float|string
                                   , leftTop          // Drawing.Coords
                                   , rightBottom      // Drawing.Coords
                                   , gradientParams   // Drawing.GradientParams
@@ -349,7 +349,7 @@ class Drawing.Context
     // returns: bool
 
     function fillGradientCircle( pos              // Drawing.Coords
-                               , r                // any_integral
+                               , r                // integer|float|string
                                , gradientParams   // Drawing.GradientParams
                                , excludeFrame     // bool
                                )
@@ -368,7 +368,7 @@ class Drawing.Context
     // returns: bool
 
     function drawTextColored( startPos    // Drawing.Coords
-                            , widthLim    // any_integral
+                            , widthLim    // integer|float|string
                             , flags       // DrawTextFlags
                             , text        // string
                             , stopChars   // string
@@ -380,32 +380,32 @@ class Drawing.Context
 
     function drawParaColored( startPos           // Drawing.Coords
                             , limits             // Drawing.Coords
-                            , lineSpacing        // any_integral
-                            , paraIndent         // any_integral
-                            , tabSize            // any_integral
+                            , lineSpacing        // integer|float|string
+                            , paraIndent         // integer|float|string
+                            , tabSize            // integer|float|string
                             , flags              // DrawTextFlags
                             , horAlign           // Drawing.HorAlign
                             , vertAlign          // Drawing.VertAlign
                             , text               // string
                             , colors             // array of Drawing.Color
                             , bkColors           // array of Drawing.Color
-                            , tabStopPositions   // array of any_integral
+                            , tabStopPositions   // array of integer|float|string
                             , fontId             // int
                             )
     // returns: bool
 
     function drawMultiParasColored( startPos           // Drawing.Coords
                                   , limits             // Drawing.Coords
-                                  , lineSpacing        // any_integral
-                                  , paraIndent         // any_integral
-                                  , tabSize            // any_integral
+                                  , lineSpacing        // integer|float|string
+                                  , paraIndent         // integer|float|string
+                                  , tabSize            // integer|float|string
                                   , flags              // DrawTextFlags
                                   , horAlign           // Drawing.HorAlign
                                   , vertAlign          // Drawing.VertAlign
                                   , text               // string
                                   , colors             // array of Drawing.Color
                                   , bkColors           // array of Drawing.Color
-                                  , tabStopPositions   // array of any_integral
+                                  , tabStopPositions   // array of integer|float|string
                                   , paraColors         // array of Drawing.Color
                                   , paraBkColors       // array of Drawing.Color
                                   , fontId             // int

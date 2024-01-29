@@ -2,7 +2,7 @@
 
 
 ```lua
-function markerSetDefSize( markerSize   // any_integral
+function markerSetDefSize( markerSize   // integer|float|string
                          )
 // returns: float
 ```
@@ -10,7 +10,7 @@ function markerSetDefSize( markerSize   // any_integral
 
 ### Параметры
 
-**markerSize** (**any_integral**) - ![markerSize]
+**markerSize** (**integer** | **float** | **string**) - ![markerSize]
 
 ### Возвращаемое значение
 

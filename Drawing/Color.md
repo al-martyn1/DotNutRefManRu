@@ -14,7 +14,7 @@ class Drawing.Color
 
     // Functions
 
-    constructor( intValOrNameStr   // any_integral
+    constructor( intValOrNameStr   // integer|float|string|array of integer[r,g,b,a]|Drawing.Color
                )
 
     static

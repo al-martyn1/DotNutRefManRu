@@ -14,7 +14,7 @@ class Drawing.FontParams
 
     // Functions
 
-    constructor( height           // any_integral
+    constructor( height           // integer|float|string
                , weight           // Drawing.FontWeight
                , fontStyleFlags   // Drawing.FontStyleFlags
                , fontFace         // string
