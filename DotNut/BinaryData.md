@@ -85,37 +85,37 @@ class DotNut.BinaryData
 ### Methods
 
 
-[DotNut.BinaryData.len](../DotNut/BinaryData/len.md) - ![__BRIEF]
+**len** - Returns the string/array length. String/Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.len) for details.
 
 
-[DotNut.BinaryData.pop](../DotNut/BinaryData/pop.md) - ![__BRIEF]
+**pop** - Removes a value from the back of the container. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.pop) for details.
 
 
-[DotNut.BinaryData.top](../DotNut/BinaryData/top.md) - ![__BRIEF]
+**top** - Returns the value of the container with the higher index. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.top) for details.
 
 
-[DotNut.BinaryData.slice](../DotNut/BinaryData/slice.md) - ![__BRIEF]
+**slice** - Returns a section of the container as new container. String/Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.slice) for details.
 
 
-[DotNut.BinaryData.push](../DotNut/BinaryData/push.md) - ![__BRIEF]
+**push** - Appends the value at the end of the array. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.push) for details.
 
 
-[DotNut.BinaryData.append](../DotNut/BinaryData/append.md) - ![__BRIEF]
+**append** - Appends the value at the end of the container. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.append) for details.
 
 
-[DotNut.BinaryData.extend](../DotNut/BinaryData/extend.md) - ![__BRIEF]
+**extend** - Extends the container by appending all the items in the given container. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.extend) for details.
 
 
-[DotNut.BinaryData.insert](../DotNut/BinaryData/insert.md) - ![__BRIEF]
+**insert** - Inserts the value at the position ‘idx’ in the container. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.insert) for details.
 
 
-[DotNut.BinaryData.remove](../DotNut/BinaryData/remove.md) - ![__BRIEF]
+**remove** - Removes the value at the position ‘idx’ in the container. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.remove) for details.
 
 
-[DotNut.BinaryData.resize](../DotNut/BinaryData/resize.md) - ![__BRIEF]
+**resize** - Resizes the container. Value of the parameter ‘fill’ will be used to fill the new container’s slots when the size specified is bigger than the previous size. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.resize) for details.
 
 
-[DotNut.BinaryData.reverse](../DotNut/BinaryData/reverse.md) - ![__BRIEF]
+**reverse** - Reverse the elements of the container in place. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.reverse) for details.
 
 
 **_set** - Support for the index ('[]') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#set) for details.
