@@ -86,19 +86,19 @@ class DotNut.FileSystem.FileTime
 **_cmp** - Support for the compare (<, >, <=, >=, ==, !=) operators.
 
 
-[DotNut.FileSystem.FileTime.tostring](../../DotNut/FileSystem/FileTime/tostring.md) - ![__BRIEF]
+**tostring** - Convert the value to string and returns it. Exposed for compatibility with built-in types. The toString() function has also been implemented to comply with camelCase naming convetions.
 
 
 **_tostring** - Support for the 'tostring' ('tostring') conversion method.
 
 
-[DotNut.FileSystem.FileTime.tointeger](../../DotNut/FileSystem/FileTime/tointeger.md) - ![__BRIEF]
+**tointeger** - Convert the value to integer and returns it. Exposed for compatibility with built-in types. The toInteger() function has also been implemented to comply with camelCase naming convetions.
 
 
-[DotNut.FileSystem.FileTime.tointeger64](../../DotNut/FileSystem/FileTime/tointeger64.md) - ![__BRIEF]
+**tointeger64** - Convert the value to DotNut.Integer64 and returns it. The toInteger64() function has also been implemented to comply with camelCase naming convetions.
 
 
-[DotNut.FileSystem.FileTime.tofloat](../../DotNut/FileSystem/FileTime/tofloat.md) - ![__BRIEF]
+**tofloat** - Convert the value to float and returns it. Exposed for compatibility with built-in types. The toFloat() function has also been implemented to comply with camelCase naming convetions.
 
 
 [DotNut.FileSystem.FileTime.format](../../DotNut/FileSystem/FileTime/format.md) - ![__BRIEF]

@@ -76,7 +76,7 @@ class Drawing.Scale
 **_div** - Support for the 'divide' ('/') operator.
 
 
-[Drawing.Scale.tostring](../Drawing/Scale/tostring.md) - ![__BRIEF]
+**tostring** - Convert the value to string and returns it. Exposed for compatibility with built-in types. The toString() function has also been implemented to comply with camelCase naming convetions.
 
 
 **_tostring** - Support for the 'tostring' ('tostring') conversion method.

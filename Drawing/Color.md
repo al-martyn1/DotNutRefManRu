@@ -106,13 +106,13 @@ class Drawing.Color
 [Drawing.Color.toInt](../Drawing/Color/toInt.md) - ![__BRIEF]
 
 
-[Drawing.Color.tointeger](../Drawing/Color/tointeger.md) - ![__BRIEF]
+**tointeger** - Convert the value to integer and returns it. Exposed for compatibility with built-in types. The toInteger() function has also been implemented to comply with camelCase naming convetions.
 
 
-[Drawing.Color.tofloat](../Drawing/Color/tofloat.md) - ![__BRIEF]
+**tofloat** - Convert the value to float and returns it. Exposed for compatibility with built-in types. The toFloat() function has also been implemented to comply with camelCase naming convetions.
 
 
-[Drawing.Color.tostring](../Drawing/Color/tostring.md) - ![__BRIEF]
+**tostring** - Convert the value to string and returns it. Exposed for compatibility with built-in types. The toString() function has also been implemented to comply with camelCase naming convetions.
 
 
 **_tostring** - Support for the 'tostring' ('tostring') conversion method.

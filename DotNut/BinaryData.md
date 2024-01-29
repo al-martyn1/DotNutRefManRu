@@ -64,14 +64,17 @@ class DotNut.BinaryData
     function convertEndianness( srcEndianness   // DotNut.Endianness
                               )
 
-    function toInteger()
+    function tointeger()
     // returns: integer
 
-    function toInteger64()
-    // returns: DotNut.Integer64
+    function tointeger64()
+    // returns: DotNut.toInteger64
 
     function toArray()
     // returns: array of integer
+
+    function tostring()
+    // returns: string
 
 
 } // class DotNut.BinaryData
@@ -133,12 +136,15 @@ class DotNut.BinaryData
 [DotNut.BinaryData.convertEndianness](../DotNut/BinaryData/convertEndianness.md) - ![__BRIEF]
 
 
-[DotNut.BinaryData.toInteger](../DotNut/BinaryData/toInteger.md) - ![__BRIEF]
+**tointeger** - Convert the value to integer and returns it. Exposed for compatibility with built-in types. The toInteger() function has also been implemented to comply with camelCase naming convetions.
 
 
-[DotNut.BinaryData.toInteger64](../DotNut/BinaryData/toInteger64.md) - ![__BRIEF]
+**tointeger64** - Convert the value to DotNut.Integer64 and returns it. The toInteger64() function has also been implemented to comply with camelCase naming convetions.
 
 
 [DotNut.BinaryData.toArray](../DotNut/BinaryData/toArray.md) - ![__BRIEF]
+
+
+**tostring** - Convert the value to string and returns it. Exposed for compatibility with built-in types. The toString() function has also been implemented to comply with camelCase naming convetions.
 
 

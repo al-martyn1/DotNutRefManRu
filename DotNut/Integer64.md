@@ -107,15 +107,15 @@ class DotNut.Integer64
 [DotNut.Integer64.setHi](../DotNut/Integer64/setHi.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.tostring](../DotNut/Integer64/tostring.md) - ![__BRIEF]
+**tostring** - Convert the value to string and returns it. Exposed for compatibility with built-in types. The toString() function has also been implemented to comply with camelCase naming convetions.
 
 
 **_tostring** - Support for the 'tostring' ('tostring') conversion method.
 
 
-[DotNut.Integer64.tointeger](../DotNut/Integer64/tointeger.md) - ![__BRIEF]
+**tointeger** - Convert the value to integer and returns it. Exposed for compatibility with built-in types. The toInteger() function has also been implemented to comply with camelCase naming convetions.
 
 
-[DotNut.Integer64.tofloat](../DotNut/Integer64/tofloat.md) - ![__BRIEF]
+**tofloat** - Convert the value to float and returns it. Exposed for compatibility with built-in types. The toFloat() function has also been implemented to comply with camelCase naming convetions.
 
 
