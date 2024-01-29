@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.FontParams.constructor метод
 
 
 ```lua
@@ -10,7 +10,7 @@ constructor( height           // any_integral
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **height** (**any_integral**) - ![height]
 
@@ -20,7 +20,7 @@ constructor( height           // any_integral
 
 **fontFace** (**string**) - ![fontFace]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: 
 

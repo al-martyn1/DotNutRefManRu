@@ -1,4 +1,4 @@
-## ![class-section-title]
+## DotNut.FileSystem.FileSystemConfigurator класс
 
 
 ```lua
@@ -107,7 +107,7 @@ class DotNut.FileSystem.FileSystemConfigurator
 
 
 
-### ![class-methods-section-title]
+### Методы
 
 
 [DotNut.FileSystem.FileSystemConfigurator.isset](../../DotNut/FileSystem/FileSystemConfigurator/isset.md) - ![__BRIEF]

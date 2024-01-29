@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.fillRoundRect метод
 
 
 ```lua
@@ -11,7 +11,7 @@ function fillRoundRect( cornersR      // any_integral
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **cornersR** (**any_integral**) - ![cornersR]
 
@@ -21,7 +21,7 @@ function fillRoundRect( cornersR      // any_integral
 
 **drawFrame** (**bool**) - ![drawFrame]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

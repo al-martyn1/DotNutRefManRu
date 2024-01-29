@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.getBkColor метод
 
 
 ```lua
@@ -7,11 +7,11 @@ function getBkColor()
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
-![method-no-parameters-text]
+Данный метод не имеет параметров.
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [Drawing.Color](../../Drawing/Color.md)
 

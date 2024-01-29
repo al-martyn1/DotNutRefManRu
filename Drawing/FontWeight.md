@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.FontWeight перечисление
 
 **Thin** (100) - ![Thin]
 

@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.ellipticArcTo метод
 
 
 ```lua
@@ -12,7 +12,7 @@ function ellipticArcTo( leftTop            // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **leftTop** ([Drawing.Coords](../../Drawing/Coords.md)) - ![leftTop]
 
@@ -24,7 +24,7 @@ function ellipticArcTo( leftTop            // Drawing.Coords
 
 **arcDirection** ([Drawing.ArcDirection](../../Drawing/ArcDirection.md)) - ![arcDirection]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

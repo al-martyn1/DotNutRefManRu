@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.fillCircle метод
 
 
 ```lua
@@ -10,7 +10,7 @@ function fillCircle( centerPos   // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **centerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![centerPos]
 
@@ -18,7 +18,7 @@ function fillCircle( centerPos   // Drawing.Coords
 
 **drawFrame** (**bool**) - ![drawFrame]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

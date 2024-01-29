@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.selectNewFont метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function selectNewFont( fontParams   // Drawing.FontParams
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **fontParams** ([Drawing.FontParams](../../Drawing/FontParams.md)) - ![fontParams]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **integer**
 

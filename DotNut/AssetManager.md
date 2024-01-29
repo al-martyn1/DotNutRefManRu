@@ -1,4 +1,4 @@
-## ![class-section-title]
+## DotNut.AssetManager класс
 
 
 ```lua
@@ -77,7 +77,7 @@ class DotNut.AssetManager
 
 
 
-### ![class-methods-section-title]
+### Методы
 
 
 [DotNut.AssetManager.isset](../DotNut/AssetManager/isset.md) - ![__BRIEF]

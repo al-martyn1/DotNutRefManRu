@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.BkMode перечисление
 
 **Opaque** (2) - ![Opaque]
 

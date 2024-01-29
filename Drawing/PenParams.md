@@ -1,4 +1,4 @@
-## ![class-section-title]
+## Drawing.PenParams класс
 
 
 ```lua
@@ -24,7 +24,7 @@ class Drawing.PenParams
 
 
 
-### ![class-members-section-title]
+### Поля класса
 
 **width** (**float**) - ![width]
 
@@ -33,7 +33,7 @@ class Drawing.PenParams
 **join** ([LineJoinStyle](../LineJoinStyle.md)) - ![join]
 
 
-### ![class-methods-section-title]
+### Методы
 
 
 [Drawing.PenParams.constructor](../Drawing/PenParams/constructor.md) - ![__BRIEF]

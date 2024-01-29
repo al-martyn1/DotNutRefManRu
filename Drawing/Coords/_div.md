@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Coords._div метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function _div( c   // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **c** ([Drawing.Coords](../../Drawing/Coords.md)) - ![c]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [Drawing.Coords](../../Drawing/Coords.md)
 

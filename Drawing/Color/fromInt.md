@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Color.fromInt метод
 
 
 ```lua
@@ -9,11 +9,11 @@ function fromInt( u   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **u** (**integer**) - ![u]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [Drawing.Color](../../Drawing/Color.md)
 

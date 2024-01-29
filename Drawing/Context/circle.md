@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.circle метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function circle( centerPos   // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **centerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![centerPos]
 
 **r** (**any_integral**) - ![r]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

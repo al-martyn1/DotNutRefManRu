@@ -1,4 +1,4 @@
-## ![namespace-section-title]
+## DotNut.Utils пространство имён
 ```lua
 table /* namespace */ DotNut.Utils
 {
@@ -16,7 +16,7 @@ table /* namespace */ DotNut.Utils
 ```
 
 
-### ![namespace-functions-section-title]
+### Функции
 
 
 [DotNut.Utils.parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - ![__BRIEF]

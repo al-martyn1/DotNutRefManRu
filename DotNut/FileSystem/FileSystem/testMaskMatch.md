@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystem.testMaskMatch метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function testMaskMatch( entry   // DotNut.FileSystem.DirectoryEntryInfo
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **entry** ([DotNut.FileSystem.DirectoryEntryInfo](../../../DotNut/FileSystem/DirectoryEntryInfo.md)) - ![entry]
 
 **mask** ([DotNut.FileSystem.FileMask](../../../DotNut/FileSystem/FileMask.md)) - ![mask]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

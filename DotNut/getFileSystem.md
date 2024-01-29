@@ -1,4 +1,4 @@
-## ![function-section-title]
+## DotNut.getFileSystem функция
 
 
 ```lua
@@ -7,11 +7,11 @@ function getFileSystem()
 ```
 
 
-### ![function-parameters-section-title]
+### Параметры
 
-![function-no-parameters-text]
+Данная функция не имеет параметров.
 
-### ![function-returns-section-title]
+### Возвращаемое значение
 
-![function-return-type-text]
+Возвращаемый тип: [DotNut.FileSystem.FileSystem](../DotNut/FileSystem/FileSystem.md)
 

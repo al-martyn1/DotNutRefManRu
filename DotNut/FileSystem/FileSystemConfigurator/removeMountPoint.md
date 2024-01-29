@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystemConfigurator.removeMountPoint метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function removeMountPoint( mntPointName   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **mntPointName** (**string**) - ![mntPointName]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.ErrorCode](../../../DotNut/ErrorCode.md)
 

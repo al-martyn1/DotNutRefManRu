@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.AssetManager.getErrorCodeString метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function getErrorCodeString( err   // DotNut.ErrorCode
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **err** ([DotNut.ErrorCode](../../DotNut/ErrorCode.md)) - ![err]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

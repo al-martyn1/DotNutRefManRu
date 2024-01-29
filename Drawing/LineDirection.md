@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.LineDirection перечисление
 
 **FromLeftToRight** (0) - ![FromLeftToRight]
 

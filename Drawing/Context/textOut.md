@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.textOut метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function textOut( pos    // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **pos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos]
 
 **text** (**string**) - ![text]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

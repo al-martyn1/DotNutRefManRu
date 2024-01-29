@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.textOutWithFontAndColor метод
 
 
 ```lua
@@ -11,7 +11,7 @@ function textOutWithFontAndColor( pos      // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **pos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos]
 
@@ -21,7 +21,7 @@ function textOutWithFontAndColor( pos      // Drawing.Coords
 
 **text** (**string**) - ![text]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

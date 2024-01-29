@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.polyCubicBeziersTo метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function polyCubicBeziersTo( points   // array of Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **points** (**array** of [Drawing.Coords](../../Drawing/Coords.md)) - ![points]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

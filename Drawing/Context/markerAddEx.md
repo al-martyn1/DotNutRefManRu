@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.markerAddEx метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function markerAddEx( markerPos    // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **markerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![markerPos]
 
 **markerSize** (**any_integral**) - ![markerSize]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

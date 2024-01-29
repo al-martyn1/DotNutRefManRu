@@ -1,4 +1,4 @@
-## ![function-section-title]
+## DotNut.Json.parseEx функция
 
 
 ```lua
@@ -9,13 +9,13 @@ function parseEx( jsonText   // string
 ```
 
 
-### ![function-parameters-section-title]
+### Параметры
 
 **jsonText** (**string**) - ![jsonText]
 
 **fileName** (**string**) - ![fileName]
 
-### ![function-returns-section-title]
+### Возвращаемое значение
 
-![function-return-type-text]
+Возвращаемый тип: **table**{status,data,message}
 

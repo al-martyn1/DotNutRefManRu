@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.createFontEx метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function createFontEx( fontParams   // Drawing.FontParams
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **fontParams** ([Drawing.FontParams](../../Drawing/FontParams.md)) - ![fontParams]
 
 **height** (**any_integral**) - ![height]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **integer**
 

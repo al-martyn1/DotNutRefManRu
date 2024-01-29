@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.HorAlign перечисление
 
 **Left** (0) - ![Left]
 

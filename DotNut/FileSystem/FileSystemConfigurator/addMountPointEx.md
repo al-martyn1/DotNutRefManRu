@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystemConfigurator.addMountPointEx метод
 
 
 ```lua
@@ -10,7 +10,7 @@ function addMountPointEx( mntPointName     // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **mntPointName** (**string**) - ![mntPointName]
 
@@ -18,7 +18,7 @@ function addMountPointEx( mntPointName     // string
 
 **flags** ([DotNut.FileSystem.FileTypeFlags](../../../DotNut/FileSystem/FileTypeFlags.md)) - ![flags]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.ErrorCode](../../../DotNut/ErrorCode.md)
 

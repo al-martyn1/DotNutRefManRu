@@ -1,4 +1,4 @@
-## ![flags-section-title]
+## Drawing.MouseButtonStateFlags флаги
 
 **None** (0) - ![None]
 

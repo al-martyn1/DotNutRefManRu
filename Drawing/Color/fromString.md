@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Color.fromString метод
 
 
 ```lua
@@ -9,11 +9,11 @@ function fromString( nameOrIntStr   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **nameOrIntStr** (**string**) - ![nameOrIntStr]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [Drawing.Color](../../Drawing/Color.md)
 

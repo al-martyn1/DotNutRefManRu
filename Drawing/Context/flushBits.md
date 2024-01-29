@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.flushBits метод
 
 
 ```lua
@@ -6,7 +6,7 @@ function flushBits()
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
-![method-no-parameters-text]
+Данный метод не имеет параметров.
 

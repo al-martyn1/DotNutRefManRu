@@ -1,4 +1,4 @@
-## ![class-section-title]
+## Drawing.FontParams класс
 
 
 ```lua
@@ -26,7 +26,7 @@ class Drawing.FontParams
 
 
 
-### ![class-members-section-title]
+### Поля класса
 
 **height** (**float**) - ![height]
 
@@ -37,7 +37,7 @@ class Drawing.FontParams
 **fontFace** (**string**) - ![fontFace]
 
 
-### ![class-methods-section-title]
+### Методы
 
 
 [Drawing.FontParams.constructor](../Drawing/FontParams/constructor.md) - ![__BRIEF]

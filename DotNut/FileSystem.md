@@ -1,4 +1,4 @@
-## ![namespace-section-title]
+## DotNut.FileSystem пространство имён
 ```lua
 table /* namespace */ DotNut.FileSystem
 {
@@ -14,7 +14,7 @@ table /* namespace */ DotNut.FileSystem
 ```
 
 
-### ![namespace-classes-section-title]
+### Классы
 
 
 [DotNut.FileSystem.DirectoryEntry](../DotNut/FileSystem/DirectoryEntry.md) - ![__BRIEF]

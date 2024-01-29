@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BigDecimal.toStringEx метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function toStringEx( precision   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **precision** (**integer**) - ![precision]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

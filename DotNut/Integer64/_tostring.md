@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.Integer64._tostring метод
 
 
 ```lua
@@ -7,11 +7,11 @@ function _tostring()
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
-![method-no-parameters-text]
+Данный метод не имеет параметров.
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

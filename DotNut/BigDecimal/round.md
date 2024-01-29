@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BigDecimal.round метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function round( precision        // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **precision** (**integer**) - ![precision]
 
 **roundingMethod** ([DotNut.BigDecimalRoundingMethod](../../DotNut/BigDecimalRoundingMethod.md)) - ![roundingMethod]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.BigDecimal](../../DotNut/BigDecimal.md)
 

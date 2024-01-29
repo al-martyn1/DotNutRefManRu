@@ -1,4 +1,4 @@
-## ![flags-section-title]
+## DotNut.FileSystem.FileTypeFlags флаги
 
 **NormalFile** (0) - ![NormalFile]
 

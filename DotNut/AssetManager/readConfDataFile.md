@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.AssetManager.readConfDataFile метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function readConfDataFile( confFileName   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **confFileName** (**string**) - ![confFileName]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.BinaryData](../../DotNut/BinaryData.md)
 

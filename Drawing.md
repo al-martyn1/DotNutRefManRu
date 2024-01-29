@@ -1,4 +1,4 @@
-## ![namespace-section-title]
+## Drawing пространство имён
 ```lua
 table /* namespace */ Drawing
 {
@@ -16,7 +16,7 @@ table /* namespace */ Drawing
 ```
 
 
-### ![namespace-classes-section-title]
+### Классы
 
 
 [Drawing.Color](Drawing/Color.md) - ![__BRIEF]

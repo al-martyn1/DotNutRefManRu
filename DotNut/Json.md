@@ -1,4 +1,4 @@
-## ![namespace-section-title]
+## DotNut.Json пространство имён
 ```lua
 table /* namespace */ DotNut.Json
 {
@@ -21,7 +21,7 @@ table /* namespace */ DotNut.Json
 ```
 
 
-### ![namespace-functions-section-title]
+### Функции
 
 
 [DotNut.Json.parse](../DotNut/Json/parse.md) - ![__BRIEF]

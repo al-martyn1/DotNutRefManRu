@@ -1,4 +1,4 @@
-## ![class-section-title]
+## DotNut.BigDecimal класс
 
 
 ```lua
@@ -80,25 +80,25 @@ class DotNut.BigDecimal
 
 
 
-### ![class-methods-section-title]
+### Методы
 
 
-**_add** - ![_add]
+**_add** - Поддержка оператора 'plus' ('+'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) для получения подробностей.
 
 
-**_sub** - ![_sub]
+**_sub** - Поддержка оператора 'minus' ('-'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#sub) для получения подробностей.
 
 
-**_unm** - ![_unm]
+**_unm** - Поддержка оператора 'unary minus' ('-'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#unm) для получения подробностей.
 
 
-**_mul** - ![_mul]
+**_mul** - Поддержка оператора 'multiply' ('*'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#mul) для получения подробностей.
 
 
-**_div** - ![_div]
+**_div** - Поддержка оператора 'divide' ('/'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#div) для получения подробностей.
 
 
-**_cmp** - ![_cmp]
+**_cmp** - Поддержка операторов сравнения (<, >, <=, >=, ==, !=). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#cmp) для получения подробностей.
 
 
 [DotNut.BigDecimal.divEx](../DotNut/BigDecimal/divEx.md) - ![__BRIEF]
@@ -125,18 +125,18 @@ class DotNut.BigDecimal
 [DotNut.BigDecimal.toStringEx](../DotNut/BigDecimal/toStringEx.md) - ![__BRIEF]
 
 
-**tostring** - ![tostring]
+**tostring** - Преобразует значение в string и возвращает его, см.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toString() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-**_tostring** - ![_tostring]
+**_tostring** - Поддержка преобразования в строку. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#tostring) для получения подробностей.
 
 
-**tointeger** - ![tointeger]
+**tointeger** - Преобразует значение в integer и возвращает его, см.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#integer) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toInteger() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-**tointeger64** - ![tointeger64]
+**tointeger64** - Преобразует значение в DotNut.Integer64 и возвращает его. Метод toInteger64() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-**tofloat** - ![tofloat]
+**tofloat** - Преобразует значение во float и возвращает его, см.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#float) для получения подробностей. Реализован для совместимости со встроенными типами. Метод  toFloat() также реализован для соответствия соглашениям об именовании camelCase.
 
 

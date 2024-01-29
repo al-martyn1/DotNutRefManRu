@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystem.enumerateDirectoryEx метод
 
 
 ```lua
@@ -10,7 +10,7 @@ function enumerateDirectoryEx( dirPath          // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **dirPath** (**string**) - ![dirPath]
 
@@ -18,7 +18,7 @@ function enumerateDirectoryEx( dirPath          // string
 
 **sortFlags** ([DotNut.FileSystem.SortFlags](../../../DotNut/FileSystem/SortFlags.md)) - ![sortFlags]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **array** of [DotNut.FileSystem.DirectoryEntryInfo](../../../DotNut/FileSystem/DirectoryEntryInfo.md)
 

@@ -1,4 +1,4 @@
-## ![flags-section-title]
+## Drawing.DrawTextFlags флаги
 
 **None** (0) - ![None]
 

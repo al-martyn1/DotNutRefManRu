@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.lineTo метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function lineTo( to   // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **to** ([Drawing.Coords](../../Drawing/Coords.md)) - ![to]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

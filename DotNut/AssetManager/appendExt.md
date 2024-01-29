@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.AssetManager.appendExt метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function appendExt( name   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **name** (**string**) - ![name]
 
 **ext** (**string**) - ![ext]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

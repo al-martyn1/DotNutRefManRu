@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.markerSetDefSize метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function markerSetDefSize( markerSize   // any_integral
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **markerSize** (**any_integral**) - ![markerSize]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **float**
 

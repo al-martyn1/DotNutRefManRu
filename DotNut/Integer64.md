@@ -1,4 +1,4 @@
-## ![class-section-title]
+## DotNut.Integer64 класс
 
 
 ```lua
@@ -68,28 +68,28 @@ class DotNut.Integer64
 
 
 
-### ![class-methods-section-title]
+### Методы
 
 
-**_add** - ![_add]
+**_add** - Поддержка оператора 'plus' ('+'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) для получения подробностей.
 
 
-**_sub** - ![_sub]
+**_sub** - Поддержка оператора 'minus' ('-'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#sub) для получения подробностей.
 
 
-**_unm** - ![_unm]
+**_unm** - Поддержка оператора 'unary minus' ('-'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#unm) для получения подробностей.
 
 
-**_mul** - ![_mul]
+**_mul** - Поддержка оператора 'multiply' ('*'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#mul) для получения подробностей.
 
 
-**_div** - ![_div]
+**_div** - Поддержка оператора 'divide' ('/'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#div) для получения подробностей.
 
 
-**_modulo** - ![_modulo]
+**_modulo** - Поддержка оператора 'modulo' ('%'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#modulo) для получения подробностей.
 
 
-**_cmp** - ![_cmp]
+**_cmp** - Поддержка операторов сравнения (<, >, <=, >=, ==, !=). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#cmp) для получения подробностей.
 
 
 [DotNut.Integer64.lo](../DotNut/Integer64/lo.md) - ![__BRIEF]
@@ -107,15 +107,15 @@ class DotNut.Integer64
 [DotNut.Integer64.setHi](../DotNut/Integer64/setHi.md) - ![__BRIEF]
 
 
-**tostring** - ![tostring]
+**tostring** - Преобразует значение в string и возвращает его, см.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toString() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-**_tostring** - ![_tostring]
+**_tostring** - Поддержка преобразования в строку. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#tostring) для получения подробностей.
 
 
-**tointeger** - ![tointeger]
+**tointeger** - Преобразует значение в integer и возвращает его, см.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#integer) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toInteger() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-**tofloat** - ![tofloat]
+**tofloat** - Преобразует значение во float и возвращает его, см.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#float) для получения подробностей. Реализован для совместимости со встроенными типами. Метод  toFloat() также реализован для соответствия соглашениям об именовании camelCase.
 
 

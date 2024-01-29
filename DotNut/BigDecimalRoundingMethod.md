@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## DotNut.BigDecimalRoundingMethod перечисление
 
 **None** (0) - ![None]
 

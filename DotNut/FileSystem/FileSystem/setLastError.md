@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystem.setLastError метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function setLastError( err   // DotNut.ErrorCode
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **err** ([DotNut.ErrorCode](../../../DotNut/ErrorCode.md)) - ![err]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.ErrorCode](../../../DotNut/ErrorCode.md)
 

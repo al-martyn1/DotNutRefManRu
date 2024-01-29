@@ -1,4 +1,4 @@
-## ![class-section-title]
+## DotNut.FileSystem.FileSystem класс
 
 
 ```lua
@@ -141,7 +141,7 @@ class DotNut.FileSystem.FileSystem
 
 
 
-### ![class-methods-section-title]
+### Методы
 
 
 [DotNut.FileSystem.FileSystem.isset](../../DotNut/FileSystem/FileSystem/isset.md) - ![__BRIEF]

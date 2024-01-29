@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.setCollectMarkers метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function setCollectMarkers( newCollectMarkersMode   // bool
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **newCollectMarkersMode** (**bool**) - ![newCollectMarkersMode]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

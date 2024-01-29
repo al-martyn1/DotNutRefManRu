@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystem.compareFilenames метод
 
 
 ```lua
@@ -10,7 +10,7 @@ function compareFilenames( n1             // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **n1** (**string**) - ![n1]
 
@@ -18,7 +18,7 @@ function compareFilenames( n1             // string
 
 **compareFlags** ([DotNut.FileSystem.SortFlags](../../../DotNut/FileSystem/SortFlags.md)) - ![compareFlags]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **integer**
 

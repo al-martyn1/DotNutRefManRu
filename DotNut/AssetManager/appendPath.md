@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.AssetManager.appendPath метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function appendPath( path   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **path** (**string**) - ![path]
 
 **name** (**string**) - ![name]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

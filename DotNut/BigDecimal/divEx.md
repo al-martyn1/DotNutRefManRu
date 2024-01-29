@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BigDecimal.divEx метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function divEx( v           // DotNut.BigDecimal
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **v** ([DotNut.BigDecimal](../../DotNut/BigDecimal.md)) - ![v]
 
 **precision** (**integer**) - ![precision]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.BigDecimal](../../DotNut/BigDecimal.md)
 

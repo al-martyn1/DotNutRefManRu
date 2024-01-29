@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.VertAlign перечисление
 
 **Top** (0) - ![Top]
 

@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## DotNut.ValueType перечисление
 
 **ValueInteger** (0) - ![ValueInteger]
 

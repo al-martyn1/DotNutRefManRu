@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BinaryData.slice метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function slice( start   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **start** (**integer**) - ![start]
 
 **end** (**integer**) - ![end]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.BinaryData](../../DotNut/BinaryData.md)
 

@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.MouseMoveEventType перечисление
 
 **Move** (0) - ![Move]
 

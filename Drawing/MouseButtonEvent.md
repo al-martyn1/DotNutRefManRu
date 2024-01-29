@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.MouseButtonEvent перечисление
 
 **Released** (0) - ![Released]
 

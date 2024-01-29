@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.SmoothingMode перечисление
 
 **DefMode** (0) - ![DefMode]
 

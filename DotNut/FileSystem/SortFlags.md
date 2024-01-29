@@ -1,4 +1,4 @@
-## ![flags-section-title]
+## DotNut.FileSystem.SortFlags флаги
 
 **None** (0) - ![None]
 

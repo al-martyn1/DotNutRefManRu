@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Vk.Code перечисление
 
 **Lbutton** (1) - ![Lbutton]
 

@@ -1,4 +1,4 @@
-## ![flags-section-title]
+## DotNut.Vk.KeyEventFlags флаги
 
 **None** (0) - ![None]
 

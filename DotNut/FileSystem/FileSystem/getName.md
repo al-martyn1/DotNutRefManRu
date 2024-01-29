@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystem.getName метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function getName( fullName   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **fullName** (**string**) - ![fullName]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

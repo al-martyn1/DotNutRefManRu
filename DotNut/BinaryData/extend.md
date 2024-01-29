@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BinaryData.extend метод
 
 
 ```lua
@@ -7,7 +7,7 @@ function extend( data   // DotNut.BinaryData
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **data** ([DotNut.BinaryData](../../DotNut/BinaryData.md)) - ![data]
 

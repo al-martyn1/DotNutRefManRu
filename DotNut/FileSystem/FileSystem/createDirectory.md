@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystem.createDirectory метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function createDirectory( dirPath   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **dirPath** (**string**) - ![dirPath]
 
 **bForce** (**bool**) - ![bForce]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

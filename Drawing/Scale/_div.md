@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Scale._div метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function _div( c   // Drawing.Scale
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **c** ([Drawing.Scale](../../Drawing/Scale.md)) - ![c]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [Drawing.Scale](../../Drawing/Scale.md)
 

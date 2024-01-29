@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystemConfigurator.getExt метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function getExt( fullName   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **fullName** (**string**) - ![fullName]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

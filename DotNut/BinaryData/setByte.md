@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BinaryData.setByte метод
 
 
 ```lua
@@ -8,7 +8,7 @@ function setByte( idx   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **idx** (**integer**) - ![idx]
 

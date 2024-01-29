@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.setDrawingPrecise метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function setDrawingPrecise( p   // Drawing.DrawingPrecise
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **p** ([Drawing.DrawingPrecise](../../Drawing/DrawingPrecise.md)) - ![p]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [Drawing.DrawingPrecise](../../Drawing/DrawingPrecise.md)
 

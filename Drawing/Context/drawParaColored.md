@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.drawParaColored метод
 
 
 ```lua
@@ -20,7 +20,7 @@ function drawParaColored( startPos           // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **startPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![startPos]
 
@@ -48,7 +48,7 @@ function drawParaColored( startPos           // Drawing.Coords
 
 **fontId** (**int**) - ![fontId]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

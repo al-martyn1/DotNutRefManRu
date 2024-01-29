@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystem.readTextFile метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function readTextFile( fileName   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **fileName** (**string**) - ![fileName]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

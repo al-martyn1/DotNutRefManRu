@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BinaryData.resize метод
 
 
 ```lua
@@ -8,7 +8,7 @@ function resize( newSize   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **newSize** (**integer**) - ![newSize]
 

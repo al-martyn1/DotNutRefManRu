@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BinaryData.push метод
 
 
 ```lua
@@ -7,7 +7,7 @@ function push( b   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **b** (**integer**) - ![b]
 

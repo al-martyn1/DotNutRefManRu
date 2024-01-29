@@ -1,4 +1,4 @@
-## ![flags-section-title]
+## Drawing.FontStyleFlags флаги
 
 **Normal** (0) - ![Normal]
 

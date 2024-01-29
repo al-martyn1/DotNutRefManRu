@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.drawTextColored метод
 
 
 ```lua
@@ -15,7 +15,7 @@ function drawTextColored( startPos    // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **startPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![startPos]
 
@@ -33,7 +33,7 @@ function drawTextColored( startPos    // Drawing.Coords
 
 **fontId** (**int**) - ![fontId]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

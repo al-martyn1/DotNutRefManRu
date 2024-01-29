@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.Integer64._modulo метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function _modulo( v   // DotNut.Integer64
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **v** ([DotNut.Integer64](../../DotNut/Integer64.md)) - ![v]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.Integer64](../../DotNut/Integer64.md)
 

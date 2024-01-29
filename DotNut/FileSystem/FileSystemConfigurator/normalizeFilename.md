@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystemConfigurator.normalizeFilename метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function normalizeFilename( name   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **name** (**string**) - ![name]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

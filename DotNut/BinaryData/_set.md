@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BinaryData._set метод
 
 
 ```lua
@@ -8,7 +8,7 @@ function _set( idx   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **idx** (**integer**) - ![idx]
 

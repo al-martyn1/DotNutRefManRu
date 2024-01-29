@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.selectBrush метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function selectBrush( brushId   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **brushId** (**integer**) - ![brushId]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **integer**
 

@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.reflectPoint метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function reflectPoint( pos          // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **pos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos]
 
 **relativeTo** ([Drawing.Coords](../../Drawing/Coords.md)) - ![relativeTo]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [Drawing.Coords](../../Drawing/Coords.md)
 

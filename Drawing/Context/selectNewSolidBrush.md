@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.selectNewSolidBrush метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function selectNewSolidBrush( rgb   // Drawing.Color
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **rgb** ([Drawing.Color](../../Drawing/Color.md)) - ![rgb]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **integer**
 

@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BigDecimal._mul метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function _mul( v   // DotNut.BigDecimal
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **v** ([DotNut.BigDecimal](../../DotNut/BigDecimal.md)) - ![v]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.BigDecimal](../../DotNut/BigDecimal.md)
 

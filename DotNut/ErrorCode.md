@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## DotNut.ErrorCode перечисление
 
 **Ok** (0) - ![Ok]
 

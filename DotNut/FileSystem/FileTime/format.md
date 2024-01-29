@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileTime.format метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function format( fmtStr   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **fmtStr** (**string**) - ![fmtStr]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

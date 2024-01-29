@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.setDefaultCosmeticPen метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function setDefaultCosmeticPen( penId   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **penId** (**integer**) - ![penId]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **integer**
 

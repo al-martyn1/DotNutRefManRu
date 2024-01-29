@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BinaryData.remove метод
 
 
 ```lua
@@ -7,7 +7,7 @@ function remove( idx   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **idx** (**integer**) - ![idx]
 

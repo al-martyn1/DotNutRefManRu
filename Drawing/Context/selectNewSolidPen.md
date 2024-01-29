@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.selectNewSolidPen метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function selectNewSolidPen( penParams   // Drawing.PenParams
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **penParams** ([Drawing.PenParams](../../Drawing/PenParams.md)) - ![penParams]
 
 **clr** ([Drawing.Color](../../Drawing/Color.md)) - ![clr]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **integer**
 

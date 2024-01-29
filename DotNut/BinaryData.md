@@ -1,4 +1,4 @@
-## ![class-section-title]
+## DotNut.BinaryData класс
 
 
 ```lua
@@ -82,46 +82,46 @@ class DotNut.BinaryData
 
 
 
-### ![class-methods-section-title]
+### Методы
 
 
-**len** - ![len]
+**len** - Возвращает количество элементов контейнера. String/Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.len) для получения подробностей.
 
 
-**pop** - ![pop]
+**pop** - Удаляет последний элемент контейнера. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.pop) для получения подробностей.
 
 
-**top** - ![top]
+**top** - Возвращает последний элемент контейнера. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.top) для получения подробностей.
 
 
-**slice** - ![slice]
+**slice** - Возвращает часть контейнера ('срез') как новый контейнер. String/Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.slice) для получения подробностей.
 
 
-**push** - ![push]
+**push** - Добавляет элемент в конец контейнера. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.push) для получения подробностей.
 
 
-**append** - ![append]
+**append** - Добавляет элемент в конец контейнера. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.append) для получения подробностей.
 
 
-**extend** - ![extend]
+**extend** - Расширяет контейнер, добавляя контейнер, переданный в аргументе, в конец текущего. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.extend) для получения подробностей.
 
 
-**insert** - ![insert]
+**insert** - Вставляет значение в контейнер в позицию ‘idx’. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.insert) для получения подробностей.
 
 
-**remove** - ![remove]
+**remove** - Удаляет элемент контейнера в позиции ‘idx’. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.remove) для получения подробностей.
 
 
-**resize** - ![resize]
+**resize** - Изменяет размер контейнера, удаляя или добавляя элементы. Значение параметра ‘fill’ используется для добавления новых элементов при расширении. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.resize) для получения подробностей.
 
 
-**reverse** - ![reverse]
+**reverse** - Измеряет порядок элементов текущего контейнера на обратный. Array-совместимый метод. См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.reverse) для получения подробностей.
 
 
-**_set** - ![_set]
+**_set** - Поддержка оператора индексирования ('[]'). См. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#set) для получения подробностей.
 
 
-**_get** - ![_get]
+**_get** - Поддержка оператора индексирования ('[]'). См.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#get) для получения подробностей.
 
 
 [DotNut.BinaryData.setByte](../DotNut/BinaryData/setByte.md) - ![__BRIEF]
@@ -136,15 +136,15 @@ class DotNut.BinaryData
 [DotNut.BinaryData.convertEndianness](../DotNut/BinaryData/convertEndianness.md) - ![__BRIEF]
 
 
-**tointeger** - ![tointeger]
+**tointeger** - Преобразует значение в integer и возвращает его, см.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#integer) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toInteger() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-**tointeger64** - ![tointeger64]
+**tointeger64** - Преобразует значение в DotNut.Integer64 и возвращает его. Метод toInteger64() также реализован для соответствия соглашениям об именовании camelCase.
 
 
 [DotNut.BinaryData.toArray](../DotNut/BinaryData/toArray.md) - ![__BRIEF]
 
 
-**tostring** - ![tostring]
+**tostring** - Преобразует значение в string и возвращает его, см.[squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toString() также реализован для соответствия соглашениям об именовании camelCase.
 
 

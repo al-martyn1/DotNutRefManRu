@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.createFontWithFace метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function createFontWithFace( fontParams   // Drawing.FontParams
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **fontParams** ([Drawing.FontParams](../../Drawing/FontParams.md)) - ![fontParams]
 
 **fontFace** (**string**) - ![fontFace]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **integer**
 

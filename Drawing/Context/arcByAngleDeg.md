@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.arcByAngleDeg метод
 
 
 ```lua
@@ -9,13 +9,13 @@ function arcByAngleDeg( centerPos   // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **centerPos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![centerPos]
 
 **angle** (**any_integral**) - ![angle]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

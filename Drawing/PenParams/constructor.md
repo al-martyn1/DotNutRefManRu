@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.PenParams.constructor метод
 
 
 ```lua
@@ -9,7 +9,7 @@ constructor( width     // any_integral
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **width** (**any_integral**) - ![width]
 
@@ -17,7 +17,7 @@ constructor( width     // any_integral
 
 **join** ([Drawing.LineJoinStyle](../../Drawing/LineJoinStyle.md)) - ![join]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: 
 

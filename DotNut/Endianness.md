@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## DotNut.Endianness перечисление
 
 **LittleEndian** (0) - ![LittleEndian]
 

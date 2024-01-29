@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.AssetManager.readConfTextFile метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function readConfTextFile( confFileName   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **confFileName** (**string**) - ![confFileName]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

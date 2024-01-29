@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.WindowSizeRequestType перечисление
 
 **Restored** (0) - ![Restored]
 

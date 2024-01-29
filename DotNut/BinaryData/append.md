@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BinaryData.append метод
 
 
 ```lua
@@ -7,7 +7,7 @@ function append( b   // integer
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **b** (**integer**) - ![b]
 

@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.WindowSizingEventEdge перечисление
 
 **None** (0) - ![None]
 

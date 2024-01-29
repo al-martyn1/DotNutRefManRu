@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.AssetManager.readConfJson метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function readConfJson( confJsonFileName   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **confJsonFileName** (**string**) - ![confJsonFileName]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **table**
 

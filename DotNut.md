@@ -1,4 +1,4 @@
-## ![namespace-section-title]
+## DotNut пространство имён
 ```lua
 table /* namespace */ DotNut
 {
@@ -28,12 +28,12 @@ table /* namespace */ DotNut
 ```
 
 
-### ![namespace-vars-section-title]
+### Переменные
 
 **env** (**table**{ **string** name -> **string** value }) - ![env]
 
 
-### ![namespace-functions-section-title]
+### Функции
 
 
 [DotNut.getFileSystem](DotNut/getFileSystem.md) - ![__BRIEF]
@@ -42,7 +42,7 @@ table /* namespace */ DotNut
 [DotNut.getAssetManager](DotNut/getAssetManager.md) - ![__BRIEF]
 
 
-### ![namespace-classes-section-title]
+### Классы
 
 
 [DotNut.AssetManager](DotNut/AssetManager.md) - ![__BRIEF]

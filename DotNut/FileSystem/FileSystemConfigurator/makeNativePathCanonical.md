@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileSystemConfigurator.makeNativePathCanonical метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function makeNativePathCanonical( path   // string
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **path** (**string**) - ![path]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **string**
 

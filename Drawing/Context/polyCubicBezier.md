@@ -1,4 +1,4 @@
-## ![method-section-title]
+## Drawing.Context.polyCubicBezier метод
 
 
 ```lua
@@ -11,7 +11,7 @@ function polyCubicBezier( cp1   // Drawing.Coords
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **cp1** ([Drawing.Coords](../../Drawing/Coords.md)) - ![cp1]
 
@@ -21,7 +21,7 @@ function polyCubicBezier( cp1   // Drawing.Coords
 
 **cp4** ([Drawing.Coords](../../Drawing/Coords.md)) - ![cp4]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: **bool**
 

@@ -1,4 +1,4 @@
-## ![enum-section-title]
+## Drawing.Colors перечисление
 
 **AliceBlue** (Drawing.Color(0xF0F8FF)) - ![AliceBlue]
 

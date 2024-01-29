@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.BigDecimal.neg метод
 
 
 ```lua
@@ -7,11 +7,11 @@ function neg()
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
-![method-no-parameters-text]
+Данный метод не имеет параметров.
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.BigDecimal](../../DotNut/BigDecimal.md)
 

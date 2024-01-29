@@ -1,4 +1,4 @@
-## ![flags-section-title]
+## Vk.KeyEventFlags флаги
 
 **None** (0) - ![None]
 

@@ -1,4 +1,4 @@
-## ![method-section-title]
+## DotNut.FileSystem.FileTime._add метод
 
 
 ```lua
@@ -8,11 +8,11 @@ function _add( v   // DotNut.FileSystem.FileTime
 ```
 
 
-### ![method-parameters-section-title]
+### Параметры
 
 **v** ([DotNut.FileSystem.FileTime](../../../DotNut/FileSystem/FileTime.md)) - ![v]
 
-### ![method-returns-section-title]
+### Возвращаемое значение
 
-![method-return-type-text]
+Возвращаемый тип: [DotNut.FileSystem.FileTime](../../../DotNut/FileSystem/FileTime.md)
 
