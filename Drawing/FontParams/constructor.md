@@ -3,8 +3,8 @@
 
 ```lua
 constructor( height           // any_integral
-           , weight           // any_integral
-           , fontStyleFlags   // FontStyleFlags
+           , weight           // Drawing.FontWeight
+           , fontStyleFlags   // Drawing.FontStyleFlags
            , fontFace         // string
            )
 ```
@@ -14,9 +14,9 @@ constructor( height           // any_integral
 
 **height** (**any_integral**) - ![height]
 
-**weight** (**any_integral**) - ![weight]
+**weight** ([Drawing.FontWeight](../../Drawing/FontWeight.md)) - ![weight]
 
-**fontStyleFlags** ([FontStyleFlags](../../FontStyleFlags.md)) - ![fontStyleFlags]
+**fontStyleFlags** ([Drawing.FontStyleFlags](../../Drawing/FontStyleFlags.md)) - ![fontStyleFlags]
 
 **fontFace** (**string**) - ![fontFace]
 

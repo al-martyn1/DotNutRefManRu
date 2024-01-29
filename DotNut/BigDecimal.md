@@ -6,6 +6,9 @@ class DotNut.BigDecimal
 {
     // Functions
 
+    constructor( v   // any_number
+               )
+
     function _add( v   // DotNut.BigDecimal
                  )
     // returns: DotNut.BigDecimal
@@ -81,6 +84,9 @@ class DotNut.BigDecimal
 
 
 ### Методы
+
+
+[DotNut.BigDecimal.constructor](../DotNut/BigDecimal/constructor.md) - ![__BRIEF]
 
 
 **_add** - Поддержка оператора 'plus' ('+'). См. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) для получения подробностей.
