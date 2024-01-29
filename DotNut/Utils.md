@@ -21,4 +21,3 @@ table /* namespace */ DotNut.Utils
 
 [DotNut.Utils.parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - ![__BRIEF]
 
-
