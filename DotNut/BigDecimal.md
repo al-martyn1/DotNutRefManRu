@@ -6,7 +6,7 @@ class DotNut.BigDecimal
 {
     // Functions
 
-    constructor( v   // any_number
+    constructor( v   // bool|integer|float|string|DotNut.BigDecimal|DotNut.Integer64
                )
 
     function _add( v   // DotNut.BigDecimal

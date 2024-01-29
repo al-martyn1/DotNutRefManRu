@@ -7,8 +7,8 @@ class Drawing.PenParams
     // Member Fields
 
     width;   // float
-    endcaps; // LineEndcapStyle
-    join;    // LineJoinStyle
+    endcaps; // Drawing.LineEndcapStyle
+    join;    // Drawing.LineJoinStyle
 
 
     // Functions
@@ -28,9 +28,9 @@ class Drawing.PenParams
 
 **width** (**float**) - ![width]
 
-**endcaps** ([LineEndcapStyle](../LineEndcapStyle.md)) - ![endcaps]
+**endcaps** ([Drawing.LineEndcapStyle](../Drawing/LineEndcapStyle.md)) - ![endcaps]
 
-**join** ([LineJoinStyle](../LineJoinStyle.md)) - ![join]
+**join** ([Drawing.LineJoinStyle](../Drawing/LineJoinStyle.md)) - ![join]
 
 
 ### Методы
