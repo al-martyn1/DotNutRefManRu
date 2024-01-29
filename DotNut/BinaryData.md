@@ -85,7 +85,7 @@ class DotNut.BinaryData
 ### Methods
 
 
-**len** - Returns the string/array length. String/Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.len) for details.
+**len** - Returns the container length. String/Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.len) for details.
 
 
 **pop** - Removes a value from the back of the container. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.pop) for details.
@@ -97,7 +97,7 @@ class DotNut.BinaryData
 **slice** - Returns a section of the container as new container. String/Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.slice) for details.
 
 
-**push** - Appends the value at the end of the array. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.push) for details.
+**push** - Appends the value at the end of the container. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.push) for details.
 
 
 **append** - Appends the value at the end of the container. Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.append) for details.
