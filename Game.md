@@ -70,36 +70,36 @@ table /* namespace */ Game
 ### Функции
 
 
-[Game.onLoad](Game/onLoad.md) - ![__BRIEF]
+[onLoad](Game/onLoad.md) - ![__BRIEF]
 
 
-[Game.onPaint](Game/onPaint.md) - ![__BRIEF]
+[onPaint](Game/onPaint.md) - ![__BRIEF]
 
 
-[Game.onUpdate](Game/onUpdate.md) - ![__BRIEF]
+[onUpdate](Game/onUpdate.md) - ![__BRIEF]
 
 
-[Game.onKeyEvent](Game/onKeyEvent.md) - ![__BRIEF]
+[onKeyEvent](Game/onKeyEvent.md) - ![__BRIEF]
 
 
-[Game.onMouseMoveEvents](Game/onMouseMoveEvents.md) - ![__BRIEF]
+[onMouseMoveEvents](Game/onMouseMoveEvents.md) - ![__BRIEF]
 
 
-[Game.onMouseButtonEvents](Game/onMouseButtonEvents.md) - ![__BRIEF]
+[onMouseButtonEvents](Game/onMouseButtonEvents.md) - ![__BRIEF]
 
 
-[Game.onMouseWheel](Game/onMouseWheel.md) - ![__BRIEF]
+[onMouseWheel](Game/onMouseWheel.md) - ![__BRIEF]
 
 
-[Game.onWindowSize](Game/onWindowSize.md) - ![__BRIEF]
+[onWindowSize](Game/onWindowSize.md) - ![__BRIEF]
 
 
-[Game.onWindowSizing](Game/onWindowSizing.md) - ![__BRIEF]
+[onWindowSizing](Game/onWindowSizing.md) - ![__BRIEF]
 
 
-[Game.onMouseCaptureLoss](Game/onMouseCaptureLoss.md) - ![__BRIEF]
+[onMouseCaptureLoss](Game/onMouseCaptureLoss.md) - ![__BRIEF]
 
 
-[Game.onCreate](Game/onCreate.md) - ![__BRIEF]
+[onCreate](Game/onCreate.md) - ![__BRIEF]
 
 

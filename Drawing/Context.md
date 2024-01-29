@@ -471,294 +471,294 @@ class Drawing.Context
 ### Методы
 
 
-[Drawing.Context.flushBits](../Drawing/Context/flushBits.md) - ![__BRIEF]
+[flushBits](../Drawing/Context/flushBits.md) - ![__BRIEF]
 
 
-[Drawing.Context.setDrawingPrecise](../Drawing/Context/setDrawingPrecise.md) - ![__BRIEF]
+[setDrawingPrecise](../Drawing/Context/setDrawingPrecise.md) - ![__BRIEF]
 
 
-[Drawing.Context.getDrawingPrecise](../Drawing/Context/getDrawingPrecise.md) - ![__BRIEF]
+[getDrawingPrecise](../Drawing/Context/getDrawingPrecise.md) - ![__BRIEF]
 
 
-[Drawing.Context.getRawSize](../Drawing/Context/getRawSize.md) - ![__BRIEF]
+[getRawSize](../Drawing/Context/getRawSize.md) - ![__BRIEF]
 
 
-[Drawing.Context.getSize](../Drawing/Context/getSize.md) - ![__BRIEF]
+[getSize](../Drawing/Context/getSize.md) - ![__BRIEF]
 
 
-[Drawing.Context.distanceBetween](../Drawing/Context/distanceBetween.md) - ![__BRIEF]
+[distanceBetween](../Drawing/Context/distanceBetween.md) - ![__BRIEF]
 
 
-[Drawing.Context.reflectPoint](../Drawing/Context/reflectPoint.md) - ![__BRIEF]
+[reflectPoint](../Drawing/Context/reflectPoint.md) - ![__BRIEF]
 
 
-[Drawing.Context.setCollectMarkers](../Drawing/Context/setCollectMarkers.md) - ![__BRIEF]
+[setCollectMarkers](../Drawing/Context/setCollectMarkers.md) - ![__BRIEF]
 
 
-[Drawing.Context.getCollectMarkers](../Drawing/Context/getCollectMarkers.md) - ![__BRIEF]
+[getCollectMarkers](../Drawing/Context/getCollectMarkers.md) - ![__BRIEF]
 
 
-[Drawing.Context.markerAdd](../Drawing/Context/markerAdd.md) - ![__BRIEF]
+[markerAdd](../Drawing/Context/markerAdd.md) - ![__BRIEF]
 
 
-[Drawing.Context.markerAddEx](../Drawing/Context/markerAddEx.md) - ![__BRIEF]
+[markerAddEx](../Drawing/Context/markerAddEx.md) - ![__BRIEF]
 
 
-[Drawing.Context.markersClear](../Drawing/Context/markersClear.md) - ![__BRIEF]
+[markersClear](../Drawing/Context/markersClear.md) - ![__BRIEF]
 
 
-[Drawing.Context.markersDraw](../Drawing/Context/markersDraw.md) - ![__BRIEF]
+[markersDraw](../Drawing/Context/markersDraw.md) - ![__BRIEF]
 
 
-[Drawing.Context.markersDrawEx](../Drawing/Context/markersDrawEx.md) - ![__BRIEF]
+[markersDrawEx](../Drawing/Context/markersDrawEx.md) - ![__BRIEF]
 
 
-[Drawing.Context.markerSetDefSize](../Drawing/Context/markerSetDefSize.md) - ![__BRIEF]
+[markerSetDefSize](../Drawing/Context/markerSetDefSize.md) - ![__BRIEF]
 
 
-[Drawing.Context.markerGetDefSize](../Drawing/Context/markerGetDefSize.md) - ![__BRIEF]
+[markerGetDefSize](../Drawing/Context/markerGetDefSize.md) - ![__BRIEF]
 
 
-[Drawing.Context.setSmoothingMode](../Drawing/Context/setSmoothingMode.md) - ![__BRIEF]
+[setSmoothingMode](../Drawing/Context/setSmoothingMode.md) - ![__BRIEF]
 
 
-[Drawing.Context.getSmoothingMode](../Drawing/Context/getSmoothingMode.md) - ![__BRIEF]
+[getSmoothingMode](../Drawing/Context/getSmoothingMode.md) - ![__BRIEF]
 
 
-[Drawing.Context.setTextColor](../Drawing/Context/setTextColor.md) - ![__BRIEF]
+[setTextColor](../Drawing/Context/setTextColor.md) - ![__BRIEF]
 
 
-[Drawing.Context.getTextColor](../Drawing/Context/getTextColor.md) - ![__BRIEF]
+[getTextColor](../Drawing/Context/getTextColor.md) - ![__BRIEF]
 
 
-[Drawing.Context.setBkColor](../Drawing/Context/setBkColor.md) - ![__BRIEF]
+[setBkColor](../Drawing/Context/setBkColor.md) - ![__BRIEF]
 
 
-[Drawing.Context.getBkColor](../Drawing/Context/getBkColor.md) - ![__BRIEF]
+[getBkColor](../Drawing/Context/getBkColor.md) - ![__BRIEF]
 
 
-[Drawing.Context.setBkMode](../Drawing/Context/setBkMode.md) - ![__BRIEF]
+[setBkMode](../Drawing/Context/setBkMode.md) - ![__BRIEF]
 
 
-[Drawing.Context.getBkMode](../Drawing/Context/getBkMode.md) - ![__BRIEF]
+[getBkMode](../Drawing/Context/getBkMode.md) - ![__BRIEF]
 
 
-[Drawing.Context.getDialigBaseUnits](../Drawing/Context/getDialigBaseUnits.md) - ![__BRIEF]
+[getDialigBaseUnits](../Drawing/Context/getDialigBaseUnits.md) - ![__BRIEF]
 
 
-[Drawing.Context.mapRawToLogicPos](../Drawing/Context/mapRawToLogicPos.md) - ![__BRIEF]
+[mapRawToLogicPos](../Drawing/Context/mapRawToLogicPos.md) - ![__BRIEF]
 
 
-[Drawing.Context.mapRawToLogicSize](../Drawing/Context/mapRawToLogicSize.md) - ![__BRIEF]
+[mapRawToLogicSize](../Drawing/Context/mapRawToLogicSize.md) - ![__BRIEF]
 
 
-[Drawing.Context.getPixelSize](../Drawing/Context/getPixelSize.md) - ![__BRIEF]
+[getPixelSize](../Drawing/Context/getPixelSize.md) - ![__BRIEF]
 
 
-[Drawing.Context.getScaledPos](../Drawing/Context/getScaledPos.md) - ![__BRIEF]
+[getScaledPos](../Drawing/Context/getScaledPos.md) - ![__BRIEF]
 
 
-[Drawing.Context.getScaledSize](../Drawing/Context/getScaledSize.md) - ![__BRIEF]
+[getScaledSize](../Drawing/Context/getScaledSize.md) - ![__BRIEF]
 
 
-[Drawing.Context.setOffset](../Drawing/Context/setOffset.md) - ![__BRIEF]
+[setOffset](../Drawing/Context/setOffset.md) - ![__BRIEF]
 
 
-[Drawing.Context.getOffset](../Drawing/Context/getOffset.md) - ![__BRIEF]
+[getOffset](../Drawing/Context/getOffset.md) - ![__BRIEF]
 
 
-[Drawing.Context.setScale](../Drawing/Context/setScale.md) - ![__BRIEF]
+[setScale](../Drawing/Context/setScale.md) - ![__BRIEF]
 
 
-[Drawing.Context.getScale](../Drawing/Context/getScale.md) - ![__BRIEF]
+[getScale](../Drawing/Context/getScale.md) - ![__BRIEF]
 
 
-[Drawing.Context.setPenScale](../Drawing/Context/setPenScale.md) - ![__BRIEF]
+[setPenScale](../Drawing/Context/setPenScale.md) - ![__BRIEF]
 
 
-[Drawing.Context.getPenScale](../Drawing/Context/getPenScale.md) - ![__BRIEF]
+[getPenScale](../Drawing/Context/getPenScale.md) - ![__BRIEF]
 
 
-[Drawing.Context.createSolidPen](../Drawing/Context/createSolidPen.md) - ![__BRIEF]
+[createSolidPen](../Drawing/Context/createSolidPen.md) - ![__BRIEF]
 
 
-[Drawing.Context.selectPen](../Drawing/Context/selectPen.md) - ![__BRIEF]
+[selectPen](../Drawing/Context/selectPen.md) - ![__BRIEF]
 
 
-[Drawing.Context.selectNewSolidPen](../Drawing/Context/selectNewSolidPen.md) - ![__BRIEF]
+[selectNewSolidPen](../Drawing/Context/selectNewSolidPen.md) - ![__BRIEF]
 
 
-[Drawing.Context.getCurPen](../Drawing/Context/getCurPen.md) - ![__BRIEF]
+[getCurPen](../Drawing/Context/getCurPen.md) - ![__BRIEF]
 
 
-[Drawing.Context.getPenColor](../Drawing/Context/getPenColor.md) - ![__BRIEF]
+[getPenColor](../Drawing/Context/getPenColor.md) - ![__BRIEF]
 
 
-[Drawing.Context.getPenParams](../Drawing/Context/getPenParams.md) - ![__BRIEF]
+[getPenParams](../Drawing/Context/getPenParams.md) - ![__BRIEF]
 
 
-[Drawing.Context.setDefaultCosmeticPen](../Drawing/Context/setDefaultCosmeticPen.md) - ![__BRIEF]
+[setDefaultCosmeticPen](../Drawing/Context/setDefaultCosmeticPen.md) - ![__BRIEF]
 
 
-[Drawing.Context.getDefaultCosmeticPen](../Drawing/Context/getDefaultCosmeticPen.md) - ![__BRIEF]
+[getDefaultCosmeticPen](../Drawing/Context/getDefaultCosmeticPen.md) - ![__BRIEF]
 
 
-[Drawing.Context.createSolidBrush](../Drawing/Context/createSolidBrush.md) - ![__BRIEF]
+[createSolidBrush](../Drawing/Context/createSolidBrush.md) - ![__BRIEF]
 
 
-[Drawing.Context.selectBrush](../Drawing/Context/selectBrush.md) - ![__BRIEF]
+[selectBrush](../Drawing/Context/selectBrush.md) - ![__BRIEF]
 
 
-[Drawing.Context.selectNewSolidBrush](../Drawing/Context/selectNewSolidBrush.md) - ![__BRIEF]
+[selectNewSolidBrush](../Drawing/Context/selectNewSolidBrush.md) - ![__BRIEF]
 
 
-[Drawing.Context.getCurBrush](../Drawing/Context/getCurBrush.md) - ![__BRIEF]
+[getCurBrush](../Drawing/Context/getCurBrush.md) - ![__BRIEF]
 
 
-[Drawing.Context.createFont](../Drawing/Context/createFont.md) - ![__BRIEF]
+[createFont](../Drawing/Context/createFont.md) - ![__BRIEF]
 
 
-[Drawing.Context.createFontEx](../Drawing/Context/createFontEx.md) - ![__BRIEF]
+[createFontEx](../Drawing/Context/createFontEx.md) - ![__BRIEF]
 
 
-[Drawing.Context.createOrFindFont](../Drawing/Context/createOrFindFont.md) - ![__BRIEF]
+[createOrFindFont](../Drawing/Context/createOrFindFont.md) - ![__BRIEF]
 
 
-[Drawing.Context.createOrFindFontEx](../Drawing/Context/createOrFindFontEx.md) - ![__BRIEF]
+[createOrFindFontEx](../Drawing/Context/createOrFindFontEx.md) - ![__BRIEF]
 
 
-[Drawing.Context.selectFont](../Drawing/Context/selectFont.md) - ![__BRIEF]
+[selectFont](../Drawing/Context/selectFont.md) - ![__BRIEF]
 
 
-[Drawing.Context.selectNewFont](../Drawing/Context/selectNewFont.md) - ![__BRIEF]
+[selectNewFont](../Drawing/Context/selectNewFont.md) - ![__BRIEF]
 
 
-[Drawing.Context.selectNewFontEx](../Drawing/Context/selectNewFontEx.md) - ![__BRIEF]
+[selectNewFontEx](../Drawing/Context/selectNewFontEx.md) - ![__BRIEF]
 
 
-[Drawing.Context.createFontWithFace](../Drawing/Context/createFontWithFace.md) - ![__BRIEF]
+[createFontWithFace](../Drawing/Context/createFontWithFace.md) - ![__BRIEF]
 
 
-[Drawing.Context.createOrFindFontWithFace](../Drawing/Context/createOrFindFontWithFace.md) - ![__BRIEF]
+[createOrFindFontWithFace](../Drawing/Context/createOrFindFontWithFace.md) - ![__BRIEF]
 
 
-[Drawing.Context.getCurFont](../Drawing/Context/getCurFont.md) - ![__BRIEF]
+[getCurFont](../Drawing/Context/getCurFont.md) - ![__BRIEF]
 
 
-[Drawing.Context.getFontParamsById](../Drawing/Context/getFontParamsById.md) - ![__BRIEF]
+[getFontParamsById](../Drawing/Context/getFontParamsById.md) - ![__BRIEF]
 
 
-[Drawing.Context.beginPath](../Drawing/Context/beginPath.md) - ![__BRIEF]
+[beginPath](../Drawing/Context/beginPath.md) - ![__BRIEF]
 
 
-[Drawing.Context.beginPathFrom](../Drawing/Context/beginPathFrom.md) - ![__BRIEF]
+[beginPathFrom](../Drawing/Context/beginPathFrom.md) - ![__BRIEF]
 
 
-[Drawing.Context.endPath](../Drawing/Context/endPath.md) - ![__BRIEF]
+[endPath](../Drawing/Context/endPath.md) - ![__BRIEF]
 
 
-[Drawing.Context.closeFigure](../Drawing/Context/closeFigure.md) - ![__BRIEF]
+[closeFigure](../Drawing/Context/closeFigure.md) - ![__BRIEF]
 
 
-[Drawing.Context.isPathStarted](../Drawing/Context/isPathStarted.md) - ![__BRIEF]
+[isPathStarted](../Drawing/Context/isPathStarted.md) - ![__BRIEF]
 
 
-[Drawing.Context.moveTo](../Drawing/Context/moveTo.md) - ![__BRIEF]
+[moveTo](../Drawing/Context/moveTo.md) - ![__BRIEF]
 
 
-[Drawing.Context.lineTo](../Drawing/Context/lineTo.md) - ![__BRIEF]
+[lineTo](../Drawing/Context/lineTo.md) - ![__BRIEF]
 
 
-[Drawing.Context.ellipse](../Drawing/Context/ellipse.md) - ![__BRIEF]
+[ellipse](../Drawing/Context/ellipse.md) - ![__BRIEF]
 
 
-[Drawing.Context.fillEllipse](../Drawing/Context/fillEllipse.md) - ![__BRIEF]
+[fillEllipse](../Drawing/Context/fillEllipse.md) - ![__BRIEF]
 
 
-[Drawing.Context.ellipticArcTo](../Drawing/Context/ellipticArcTo.md) - ![__BRIEF]
+[ellipticArcTo](../Drawing/Context/ellipticArcTo.md) - ![__BRIEF]
 
 
-[Drawing.Context.getLastArcEndPos](../Drawing/Context/getLastArcEndPos.md) - ![__BRIEF]
+[getLastArcEndPos](../Drawing/Context/getLastArcEndPos.md) - ![__BRIEF]
 
 
-[Drawing.Context.arcToPos](../Drawing/Context/arcToPos.md) - ![__BRIEF]
+[arcToPos](../Drawing/Context/arcToPos.md) - ![__BRIEF]
 
 
-[Drawing.Context.arcByAngleDeg](../Drawing/Context/arcByAngleDeg.md) - ![__BRIEF]
+[arcByAngleDeg](../Drawing/Context/arcByAngleDeg.md) - ![__BRIEF]
 
 
-[Drawing.Context.roundRectFigure](../Drawing/Context/roundRectFigure.md) - ![__BRIEF]
+[roundRectFigure](../Drawing/Context/roundRectFigure.md) - ![__BRIEF]
 
 
-[Drawing.Context.circle](../Drawing/Context/circle.md) - ![__BRIEF]
+[circle](../Drawing/Context/circle.md) - ![__BRIEF]
 
 
-[Drawing.Context.fillCircle](../Drawing/Context/fillCircle.md) - ![__BRIEF]
+[fillCircle](../Drawing/Context/fillCircle.md) - ![__BRIEF]
 
 
-[Drawing.Context.roundRect](../Drawing/Context/roundRect.md) - ![__BRIEF]
+[roundRect](../Drawing/Context/roundRect.md) - ![__BRIEF]
 
 
-[Drawing.Context.fillRoundRect](../Drawing/Context/fillRoundRect.md) - ![__BRIEF]
+[fillRoundRect](../Drawing/Context/fillRoundRect.md) - ![__BRIEF]
 
 
-[Drawing.Context.rect](../Drawing/Context/rect.md) - ![__BRIEF]
+[rect](../Drawing/Context/rect.md) - ![__BRIEF]
 
 
-[Drawing.Context.fillRect](../Drawing/Context/fillRect.md) - ![__BRIEF]
+[fillRect](../Drawing/Context/fillRect.md) - ![__BRIEF]
 
 
-[Drawing.Context.fillGradientRect](../Drawing/Context/fillGradientRect.md) - ![__BRIEF]
+[fillGradientRect](../Drawing/Context/fillGradientRect.md) - ![__BRIEF]
 
 
-[Drawing.Context.fillGradientRoundRect](../Drawing/Context/fillGradientRoundRect.md) - ![__BRIEF]
+[fillGradientRoundRect](../Drawing/Context/fillGradientRoundRect.md) - ![__BRIEF]
 
 
-[Drawing.Context.fillGradientCircle](../Drawing/Context/fillGradientCircle.md) - ![__BRIEF]
+[fillGradientCircle](../Drawing/Context/fillGradientCircle.md) - ![__BRIEF]
 
 
-[Drawing.Context.textOut](../Drawing/Context/textOut.md) - ![__BRIEF]
+[textOut](../Drawing/Context/textOut.md) - ![__BRIEF]
 
 
-[Drawing.Context.textOutWithFontAndColor](../Drawing/Context/textOutWithFontAndColor.md) - ![__BRIEF]
+[textOutWithFontAndColor](../Drawing/Context/textOutWithFontAndColor.md) - ![__BRIEF]
 
 
-[Drawing.Context.drawTextColored](../Drawing/Context/drawTextColored.md) - ![__BRIEF]
+[drawTextColored](../Drawing/Context/drawTextColored.md) - ![__BRIEF]
 
 
-[Drawing.Context.drawParaColored](../Drawing/Context/drawParaColored.md) - ![__BRIEF]
+[drawParaColored](../Drawing/Context/drawParaColored.md) - ![__BRIEF]
 
 
-[Drawing.Context.drawMultiParasColored](../Drawing/Context/drawMultiParasColored.md) - ![__BRIEF]
+[drawMultiParasColored](../Drawing/Context/drawMultiParasColored.md) - ![__BRIEF]
 
 
-[Drawing.Context.polyQuadraticBezier](../Drawing/Context/polyQuadraticBezier.md) - ![__BRIEF]
+[polyQuadraticBezier](../Drawing/Context/polyQuadraticBezier.md) - ![__BRIEF]
 
 
-[Drawing.Context.polyQuadraticBezierTo](../Drawing/Context/polyQuadraticBezierTo.md) - ![__BRIEF]
+[polyQuadraticBezierTo](../Drawing/Context/polyQuadraticBezierTo.md) - ![__BRIEF]
 
 
-[Drawing.Context.polyCubicBezier](../Drawing/Context/polyCubicBezier.md) - ![__BRIEF]
+[polyCubicBezier](../Drawing/Context/polyCubicBezier.md) - ![__BRIEF]
 
 
-[Drawing.Context.polyCubicBezierTo](../Drawing/Context/polyCubicBezierTo.md) - ![__BRIEF]
+[polyCubicBezierTo](../Drawing/Context/polyCubicBezierTo.md) - ![__BRIEF]
 
 
-[Drawing.Context.polyCubicBeziers](../Drawing/Context/polyCubicBeziers.md) - ![__BRIEF]
+[polyCubicBeziers](../Drawing/Context/polyCubicBeziers.md) - ![__BRIEF]
 
 
-[Drawing.Context.polyCubicBeziersTo](../Drawing/Context/polyCubicBeziersTo.md) - ![__BRIEF]
+[polyCubicBeziersTo](../Drawing/Context/polyCubicBeziersTo.md) - ![__BRIEF]
 
 
-[Drawing.Context.polyQuadraticBeziers](../Drawing/Context/polyQuadraticBeziers.md) - ![__BRIEF]
+[polyQuadraticBeziers](../Drawing/Context/polyQuadraticBeziers.md) - ![__BRIEF]
 
 
-[Drawing.Context.polyQuadraticBeziersTo](../Drawing/Context/polyQuadraticBeziersTo.md) - ![__BRIEF]
+[polyQuadraticBeziersTo](../Drawing/Context/polyQuadraticBeziersTo.md) - ![__BRIEF]
 
 
-[Drawing.Context.distanceBetween](../Drawing/Context/distanceBetween.md) - ![__BRIEF]
+[distanceBetween](../Drawing/Context/distanceBetween.md) - ![__BRIEF]
 
 
-[Drawing.Context.reflectPoint](../Drawing/Context/reflectPoint.md) - ![__BRIEF]
+[reflectPoint](../Drawing/Context/reflectPoint.md) - ![__BRIEF]
 
 

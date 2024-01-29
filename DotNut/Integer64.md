@@ -92,19 +92,19 @@ class DotNut.Integer64
 **_cmp** - Поддержка операторов сравнения (<, >, <=, >=, ==, !=). См. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#cmp) для получения подробностей.
 
 
-[DotNut.Integer64.lo](../DotNut/Integer64/lo.md) - ![__BRIEF]
+[lo](../DotNut/Integer64/lo.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.hi](../DotNut/Integer64/hi.md) - ![__BRIEF]
+[hi](../DotNut/Integer64/hi.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.setHiLo](../DotNut/Integer64/setHiLo.md) - ![__BRIEF]
+[setHiLo](../DotNut/Integer64/setHiLo.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.setLo](../DotNut/Integer64/setLo.md) - ![__BRIEF]
+[setLo](../DotNut/Integer64/setLo.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.setHi](../DotNut/Integer64/setHi.md) - ![__BRIEF]
+[setHi](../DotNut/Integer64/setHi.md) - ![__BRIEF]
 
 
 **tostring** - Преобразует значение в string и возвращает его, см. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toString() также реализован для соответствия соглашениям об именовании camelCase.

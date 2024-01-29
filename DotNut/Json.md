@@ -24,8 +24,8 @@ table /* namespace */ DotNut.Json
 ### Функции
 
 
-[DotNut.Json.parse](../DotNut/Json/parse.md) - ![__BRIEF]
+[parse](../DotNut/Json/parse.md) - ![__BRIEF]
 
 
-[DotNut.Json.parseEx](../DotNut/Json/parseEx.md) - ![__BRIEF]
+[parseEx](../DotNut/Json/parseEx.md) - ![__BRIEF]
 

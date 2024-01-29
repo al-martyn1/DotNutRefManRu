@@ -80,54 +80,54 @@ class DotNut.AssetManager
 ### Методы
 
 
-[DotNut.AssetManager.isset](../DotNut/AssetManager/isset.md) - ![__BRIEF]
+[isset](../DotNut/AssetManager/isset.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.isLastErrorOk](../DotNut/AssetManager/isLastErrorOk.md) - ![__BRIEF]
+[isLastErrorOk](../DotNut/AssetManager/isLastErrorOk.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.getLastError](../DotNut/AssetManager/getLastError.md) - ![__BRIEF]
+[getLastError](../DotNut/AssetManager/getLastError.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.setLastError](../DotNut/AssetManager/setLastError.md) - ![__BRIEF]
+[setLastError](../DotNut/AssetManager/setLastError.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.clrLastError](../DotNut/AssetManager/clrLastError.md) - ![__BRIEF]
+[clrLastError](../DotNut/AssetManager/clrLastError.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.getErrorCodeString](../DotNut/AssetManager/getErrorCodeString.md) - ![__BRIEF]
+[getErrorCodeString](../DotNut/AssetManager/getErrorCodeString.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.getPath](../DotNut/AssetManager/getPath.md) - ![__BRIEF]
+[getPath](../DotNut/AssetManager/getPath.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.getFileName](../DotNut/AssetManager/getFileName.md) - ![__BRIEF]
+[getFileName](../DotNut/AssetManager/getFileName.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.getPathFile](../DotNut/AssetManager/getPathFile.md) - ![__BRIEF]
+[getPathFile](../DotNut/AssetManager/getPathFile.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.getExt](../DotNut/AssetManager/getExt.md) - ![__BRIEF]
+[getExt](../DotNut/AssetManager/getExt.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.getName](../DotNut/AssetManager/getName.md) - ![__BRIEF]
+[getName](../DotNut/AssetManager/getName.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.appendPath](../DotNut/AssetManager/appendPath.md) - ![__BRIEF]
+[appendPath](../DotNut/AssetManager/appendPath.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.appendExt](../DotNut/AssetManager/appendExt.md) - ![__BRIEF]
+[appendExt](../DotNut/AssetManager/appendExt.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.getProjectName](../DotNut/AssetManager/getProjectName.md) - ![__BRIEF]
+[getProjectName](../DotNut/AssetManager/getProjectName.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - ![__BRIEF]
+[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - ![__BRIEF]
+[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - ![__BRIEF]
 
 
-[DotNut.AssetManager.readConfJson](../DotNut/AssetManager/readConfJson.md) - ![__BRIEF]
+[readConfJson](../DotNut/AssetManager/readConfJson.md) - ![__BRIEF]
 
 

@@ -19,17 +19,17 @@ table /* namespace */ Drawing
 ### Классы
 
 
-[Drawing.Color](Drawing/Color.md) - ![__BRIEF]
+[Color](Drawing/Color.md) - ![__BRIEF]
 
-[Drawing.Context](Drawing/Context.md) - ![__BRIEF]
+[Context](Drawing/Context.md) - ![__BRIEF]
 
-[Drawing.Coords](Drawing/Coords.md) - ![__BRIEF]
+[Coords](Drawing/Coords.md) - ![__BRIEF]
 
-[Drawing.FontParams](Drawing/FontParams.md) - ![__BRIEF]
+[FontParams](Drawing/FontParams.md) - ![__BRIEF]
 
-[Drawing.GradientParams](Drawing/GradientParams.md) - ![__BRIEF]
+[GradientParams](Drawing/GradientParams.md) - ![__BRIEF]
 
-[Drawing.PenParams](Drawing/PenParams.md) - ![__BRIEF]
+[PenParams](Drawing/PenParams.md) - ![__BRIEF]
 
-[Drawing.Scale](Drawing/Scale.md) - ![__BRIEF]
+[Scale](Drawing/Scale.md) - ![__BRIEF]
 

@@ -124,16 +124,16 @@ class DotNut.BinaryData
 **_get** - Поддержка оператора индексирования ('[]'). См. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#get) для получения подробностей.
 
 
-[DotNut.BinaryData.setByte](../DotNut/BinaryData/setByte.md) - ![__BRIEF]
+[setByte](../DotNut/BinaryData/setByte.md) - ![__BRIEF]
 
 
-[DotNut.BinaryData.getByte](../DotNut/BinaryData/getByte.md) - ![__BRIEF]
+[getByte](../DotNut/BinaryData/getByte.md) - ![__BRIEF]
 
 
-[DotNut.BinaryData.getHostEndianness](../DotNut/BinaryData/getHostEndianness.md) - ![__BRIEF]
+[getHostEndianness](../DotNut/BinaryData/getHostEndianness.md) - ![__BRIEF]
 
 
-[DotNut.BinaryData.convertEndianness](../DotNut/BinaryData/convertEndianness.md) - ![__BRIEF]
+[convertEndianness](../DotNut/BinaryData/convertEndianness.md) - ![__BRIEF]
 
 
 **tointeger** - Преобразует значение в integer и возвращает его, см. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#integer) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toInteger() также реализован для соответствия соглашениям об именовании camelCase.
@@ -142,7 +142,7 @@ class DotNut.BinaryData
 **tointeger64** - Преобразует значение в DotNut.Integer64 и возвращает его. Метод toInteger64() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-[DotNut.BinaryData.toArray](../DotNut/BinaryData/toArray.md) - ![__BRIEF]
+[toArray](../DotNut/BinaryData/toArray.md) - ![__BRIEF]
 
 
 **tostring** - Преобразует значение в string и возвращает его, см. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toString() также реализован для соответствия соглашениям об именовании camelCase.

@@ -40,6 +40,6 @@ class Drawing.FontParams
 ### Методы
 
 
-[Drawing.FontParams.constructor](../Drawing/FontParams/constructor.md) - ![__BRIEF]
+[constructor](../Drawing/FontParams/constructor.md) - ![__BRIEF]
 
 

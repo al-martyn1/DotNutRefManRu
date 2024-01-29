@@ -101,9 +101,9 @@ class DotNut.FileSystem.FileTime
 **tofloat** - Преобразует значение во float и возвращает его, см. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#float) для получения подробностей. Реализован для совместимости со встроенными типами. Метод  toFloat() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-[DotNut.FileSystem.FileTime.format](../../DotNut/FileSystem/FileTime/format.md) - ![__BRIEF]
+[format](../../DotNut/FileSystem/FileTime/format.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileTime.isset](../../DotNut/FileSystem/FileTime/isset.md) - ![__BRIEF]
+[isset](../../DotNut/FileSystem/FileTime/isset.md) - ![__BRIEF]
 
 

@@ -36,19 +36,19 @@ table /* namespace */ DotNut
 ### Функции
 
 
-[DotNut.getFileSystem](DotNut/getFileSystem.md) - ![__BRIEF]
+[getFileSystem](DotNut/getFileSystem.md) - ![__BRIEF]
 
 
-[DotNut.getAssetManager](DotNut/getAssetManager.md) - ![__BRIEF]
+[getAssetManager](DotNut/getAssetManager.md) - ![__BRIEF]
 
 
 ### Классы
 
 
-[DotNut.AssetManager](DotNut/AssetManager.md) - ![__BRIEF]
+[AssetManager](DotNut/AssetManager.md) - ![__BRIEF]
 
-[DotNut.BigDecimal](DotNut/BigDecimal.md) - ![__BRIEF]
+[BigDecimal](DotNut/BigDecimal.md) - ![__BRIEF]
 
-[DotNut.BinaryData](DotNut/BinaryData.md) - ![__BRIEF]
+[BinaryData](DotNut/BinaryData.md) - ![__BRIEF]
 
-[DotNut.Integer64](DotNut/Integer64.md) - ![__BRIEF]
+[Integer64](DotNut/Integer64.md) - ![__BRIEF]

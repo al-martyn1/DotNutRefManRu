@@ -36,6 +36,6 @@ class Drawing.PenParams
 ### Методы
 
 
-[Drawing.PenParams.constructor](../Drawing/PenParams/constructor.md) - ![__BRIEF]
+[constructor](../Drawing/PenParams/constructor.md) - ![__BRIEF]
 
 

@@ -110,75 +110,75 @@ class DotNut.FileSystem.FileSystemConfigurator
 ### Методы
 
 
-[DotNut.FileSystem.FileSystemConfigurator.isset](../../DotNut/FileSystem/FileSystemConfigurator/isset.md) - ![__BRIEF]
+[isset](../../DotNut/FileSystem/FileSystemConfigurator/isset.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.isLastErrorOk](../../DotNut/FileSystem/FileSystemConfigurator/isLastErrorOk.md) - ![__BRIEF]
+[isLastErrorOk](../../DotNut/FileSystem/FileSystemConfigurator/isLastErrorOk.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.getLastError](../../DotNut/FileSystem/FileSystemConfigurator/getLastError.md) - ![__BRIEF]
+[getLastError](../../DotNut/FileSystem/FileSystemConfigurator/getLastError.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.setLastError](../../DotNut/FileSystem/FileSystemConfigurator/setLastError.md) - ![__BRIEF]
+[setLastError](../../DotNut/FileSystem/FileSystemConfigurator/setLastError.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.clrLastError](../../DotNut/FileSystem/FileSystemConfigurator/clrLastError.md) - ![__BRIEF]
+[clrLastError](../../DotNut/FileSystem/FileSystemConfigurator/clrLastError.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.getErrorCodeString](../../DotNut/FileSystem/FileSystemConfigurator/getErrorCodeString.md) - ![__BRIEF]
+[getErrorCodeString](../../DotNut/FileSystem/FileSystemConfigurator/getErrorCodeString.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.getPath](../../DotNut/FileSystem/FileSystemConfigurator/getPath.md) - ![__BRIEF]
+[getPath](../../DotNut/FileSystem/FileSystemConfigurator/getPath.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.getFileName](../../DotNut/FileSystem/FileSystemConfigurator/getFileName.md) - ![__BRIEF]
+[getFileName](../../DotNut/FileSystem/FileSystemConfigurator/getFileName.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.getPathFile](../../DotNut/FileSystem/FileSystemConfigurator/getPathFile.md) - ![__BRIEF]
+[getPathFile](../../DotNut/FileSystem/FileSystemConfigurator/getPathFile.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.getExt](../../DotNut/FileSystem/FileSystemConfigurator/getExt.md) - ![__BRIEF]
+[getExt](../../DotNut/FileSystem/FileSystemConfigurator/getExt.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.getName](../../DotNut/FileSystem/FileSystemConfigurator/getName.md) - ![__BRIEF]
+[getName](../../DotNut/FileSystem/FileSystemConfigurator/getName.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.appendPath](../../DotNut/FileSystem/FileSystemConfigurator/appendPath.md) - ![__BRIEF]
+[appendPath](../../DotNut/FileSystem/FileSystemConfigurator/appendPath.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.appendExt](../../DotNut/FileSystem/FileSystemConfigurator/appendExt.md) - ![__BRIEF]
+[appendExt](../../DotNut/FileSystem/FileSystemConfigurator/appendExt.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.normalizeFilename](../../DotNut/FileSystem/FileSystemConfigurator/normalizeFilename.md) - ![__BRIEF]
+[normalizeFilename](../../DotNut/FileSystem/FileSystemConfigurator/normalizeFilename.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.makePathCanonical](../../DotNut/FileSystem/FileSystemConfigurator/makePathCanonical.md) - ![__BRIEF]
+[makePathCanonical](../../DotNut/FileSystem/FileSystemConfigurator/makePathCanonical.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.makeNativePathCanonical](../../DotNut/FileSystem/FileSystemConfigurator/makeNativePathCanonical.md) - ![__BRIEF]
+[makeNativePathCanonical](../../DotNut/FileSystem/FileSystemConfigurator/makeNativePathCanonical.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.mapVirtualPath](../../DotNut/FileSystem/FileSystemConfigurator/mapVirtualPath.md) - ![__BRIEF]
+[mapVirtualPath](../../DotNut/FileSystem/FileSystemConfigurator/mapVirtualPath.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.virtualizeRealPath](../../DotNut/FileSystem/FileSystemConfigurator/virtualizeRealPath.md) - ![__BRIEF]
+[virtualizeRealPath](../../DotNut/FileSystem/FileSystemConfigurator/virtualizeRealPath.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.setGlobalReadOnly](../../DotNut/FileSystem/FileSystemConfigurator/setGlobalReadOnly.md) - ![__BRIEF]
+[setGlobalReadOnly](../../DotNut/FileSystem/FileSystemConfigurator/setGlobalReadOnly.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.getGlobalReadOnly](../../DotNut/FileSystem/FileSystemConfigurator/getGlobalReadOnly.md) - ![__BRIEF]
+[getGlobalReadOnly](../../DotNut/FileSystem/FileSystemConfigurator/getGlobalReadOnly.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.clearMounts](../../DotNut/FileSystem/FileSystemConfigurator/clearMounts.md) - ![__BRIEF]
+[clearMounts](../../DotNut/FileSystem/FileSystemConfigurator/clearMounts.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.removeMountPoint](../../DotNut/FileSystem/FileSystemConfigurator/removeMountPoint.md) - ![__BRIEF]
+[removeMountPoint](../../DotNut/FileSystem/FileSystemConfigurator/removeMountPoint.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.addMountPoint](../../DotNut/FileSystem/FileSystemConfigurator/addMountPoint.md) - ![__BRIEF]
+[addMountPoint](../../DotNut/FileSystem/FileSystemConfigurator/addMountPoint.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystemConfigurator.addMountPointEx](../../DotNut/FileSystem/FileSystemConfigurator/addMountPointEx.md) - ![__BRIEF]
+[addMountPointEx](../../DotNut/FileSystem/FileSystemConfigurator/addMountPointEx.md) - ![__BRIEF]
 
 

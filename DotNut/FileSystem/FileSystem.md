@@ -144,96 +144,96 @@ class DotNut.FileSystem.FileSystem
 ### Методы
 
 
-[DotNut.FileSystem.FileSystem.isset](../../DotNut/FileSystem/FileSystem/isset.md) - ![__BRIEF]
+[isset](../../DotNut/FileSystem/FileSystem/isset.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.isLastErrorOk](../../DotNut/FileSystem/FileSystem/isLastErrorOk.md) - ![__BRIEF]
+[isLastErrorOk](../../DotNut/FileSystem/FileSystem/isLastErrorOk.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.getLastError](../../DotNut/FileSystem/FileSystem/getLastError.md) - ![__BRIEF]
+[getLastError](../../DotNut/FileSystem/FileSystem/getLastError.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.setLastError](../../DotNut/FileSystem/FileSystem/setLastError.md) - ![__BRIEF]
+[setLastError](../../DotNut/FileSystem/FileSystem/setLastError.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.clrLastError](../../DotNut/FileSystem/FileSystem/clrLastError.md) - ![__BRIEF]
+[clrLastError](../../DotNut/FileSystem/FileSystem/clrLastError.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.getErrorCodeString](../../DotNut/FileSystem/FileSystem/getErrorCodeString.md) - ![__BRIEF]
+[getErrorCodeString](../../DotNut/FileSystem/FileSystem/getErrorCodeString.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.getPath](../../DotNut/FileSystem/FileSystem/getPath.md) - ![__BRIEF]
+[getPath](../../DotNut/FileSystem/FileSystem/getPath.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.getFileName](../../DotNut/FileSystem/FileSystem/getFileName.md) - ![__BRIEF]
+[getFileName](../../DotNut/FileSystem/FileSystem/getFileName.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.getPathFile](../../DotNut/FileSystem/FileSystem/getPathFile.md) - ![__BRIEF]
+[getPathFile](../../DotNut/FileSystem/FileSystem/getPathFile.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.getExt](../../DotNut/FileSystem/FileSystem/getExt.md) - ![__BRIEF]
+[getExt](../../DotNut/FileSystem/FileSystem/getExt.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.getName](../../DotNut/FileSystem/FileSystem/getName.md) - ![__BRIEF]
+[getName](../../DotNut/FileSystem/FileSystem/getName.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.appendPath](../../DotNut/FileSystem/FileSystem/appendPath.md) - ![__BRIEF]
+[appendPath](../../DotNut/FileSystem/FileSystem/appendPath.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.appendExt](../../DotNut/FileSystem/FileSystem/appendExt.md) - ![__BRIEF]
+[appendExt](../../DotNut/FileSystem/FileSystem/appendExt.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.normalizeFilename](../../DotNut/FileSystem/FileSystem/normalizeFilename.md) - ![__BRIEF]
+[normalizeFilename](../../DotNut/FileSystem/FileSystem/normalizeFilename.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.makePathCanonical](../../DotNut/FileSystem/FileSystem/makePathCanonical.md) - ![__BRIEF]
+[makePathCanonical](../../DotNut/FileSystem/FileSystem/makePathCanonical.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.makeNativePathCanonical](../../DotNut/FileSystem/FileSystem/makeNativePathCanonical.md) - ![__BRIEF]
+[makeNativePathCanonical](../../DotNut/FileSystem/FileSystem/makeNativePathCanonical.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.mapVirtualPath](../../DotNut/FileSystem/FileSystem/mapVirtualPath.md) - ![__BRIEF]
+[mapVirtualPath](../../DotNut/FileSystem/FileSystem/mapVirtualPath.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.virtualizeRealPath](../../DotNut/FileSystem/FileSystem/virtualizeRealPath.md) - ![__BRIEF]
+[virtualizeRealPath](../../DotNut/FileSystem/FileSystem/virtualizeRealPath.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.sealSettings](../../DotNut/FileSystem/FileSystem/sealSettings.md) - ![__BRIEF]
+[sealSettings](../../DotNut/FileSystem/FileSystem/sealSettings.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.getConfigurator](../../DotNut/FileSystem/FileSystem/getConfigurator.md) - ![__BRIEF]
+[getConfigurator](../../DotNut/FileSystem/FileSystem/getConfigurator.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.createDirectory](../../DotNut/FileSystem/FileSystem/createDirectory.md) - ![__BRIEF]
+[createDirectory](../../DotNut/FileSystem/FileSystem/createDirectory.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.enumerateDirectory](../../DotNut/FileSystem/FileSystem/enumerateDirectory.md) - ![__BRIEF]
+[enumerateDirectory](../../DotNut/FileSystem/FileSystem/enumerateDirectory.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.testMaskMatch](../../DotNut/FileSystem/FileSystem/testMaskMatch.md) - ![__BRIEF]
+[testMaskMatch](../../DotNut/FileSystem/FileSystem/testMaskMatch.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.enumerateDirectoryEx](../../DotNut/FileSystem/FileSystem/enumerateDirectoryEx.md) - ![__BRIEF]
+[enumerateDirectoryEx](../../DotNut/FileSystem/FileSystem/enumerateDirectoryEx.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.compareFilenames](../../DotNut/FileSystem/FileSystem/compareFilenames.md) - ![__BRIEF]
+[compareFilenames](../../DotNut/FileSystem/FileSystem/compareFilenames.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.isFileExistAndReadable](../../DotNut/FileSystem/FileSystem/isFileExistAndReadable.md) - ![__BRIEF]
+[isFileExistAndReadable](../../DotNut/FileSystem/FileSystem/isFileExistAndReadable.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.isDirectory](../../DotNut/FileSystem/FileSystem/isDirectory.md) - ![__BRIEF]
+[isDirectory](../../DotNut/FileSystem/FileSystem/isDirectory.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.readTextFile](../../DotNut/FileSystem/FileSystem/readTextFile.md) - ![__BRIEF]
+[readTextFile](../../DotNut/FileSystem/FileSystem/readTextFile.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.writeTextFile](../../DotNut/FileSystem/FileSystem/writeTextFile.md) - ![__BRIEF]
+[writeTextFile](../../DotNut/FileSystem/FileSystem/writeTextFile.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.readDataFile](../../DotNut/FileSystem/FileSystem/readDataFile.md) - ![__BRIEF]
+[readDataFile](../../DotNut/FileSystem/FileSystem/readDataFile.md) - ![__BRIEF]
 
 
-[DotNut.FileSystem.FileSystem.writeDataFile](../../DotNut/FileSystem/FileSystem/writeDataFile.md) - ![__BRIEF]
+[writeDataFile](../../DotNut/FileSystem/FileSystem/writeDataFile.md) - ![__BRIEF]
 
 

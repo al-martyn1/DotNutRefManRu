@@ -58,7 +58,7 @@ class Drawing.Scale
 ### Методы
 
 
-[Drawing.Scale.constructor](../Drawing/Scale/constructor.md) - ![__BRIEF]
+[constructor](../Drawing/Scale/constructor.md) - ![__BRIEF]
 
 
 **_add** - Поддержка оператора 'plus' ('+'). См. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) для получения подробностей.

@@ -17,12 +17,12 @@ table /* namespace */ DotNut.FileSystem
 ### Классы
 
 
-[DotNut.FileSystem.DirectoryEntry](../DotNut/FileSystem/DirectoryEntry.md) - ![__BRIEF]
+[DirectoryEntry](../DotNut/FileSystem/DirectoryEntry.md) - ![__BRIEF]
 
-[DotNut.FileSystem.FileMask](../DotNut/FileSystem/FileMask.md) - ![__BRIEF]
+[FileMask](../DotNut/FileSystem/FileMask.md) - ![__BRIEF]
 
-[DotNut.FileSystem.FileSystem](../DotNut/FileSystem/FileSystem.md) - ![__BRIEF]
+[FileSystem](../DotNut/FileSystem/FileSystem.md) - ![__BRIEF]
 
-[DotNut.FileSystem.FileSystemConfigurator](../DotNut/FileSystem/FileSystemConfigurator.md) - ![__BRIEF]
+[FileSystemConfigurator](../DotNut/FileSystem/FileSystemConfigurator.md) - ![__BRIEF]
 
-[DotNut.FileSystem.FileTime](../DotNut/FileSystem/FileTime.md) - ![__BRIEF]
+[FileTime](../DotNut/FileSystem/FileTime.md) - ![__BRIEF]
