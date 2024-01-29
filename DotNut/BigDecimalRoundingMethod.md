@@ -2,63 +2,63 @@
 
 **None** (0) - ![None]
 
-**RoundDown** (2) - ![RoundDown]
+**RoundDown** (1) - ![RoundDown]
 
-**RoundFloor** (2) - ![RoundFloor]
+**RoundFloor** (1) - ![RoundFloor]
 
-**RoundTowardNegInf** (2) - ![RoundTowardNegInf]
+**RoundTowardNegInf** (1) - ![RoundTowardNegInf]
 
-**RoundUp** (3) - ![RoundUp]
+**RoundUp** (2) - ![RoundUp]
 
-**RoundCeil** (3) - ![RoundCeil]
+**RoundCeil** (2) - ![RoundCeil]
 
-**RoundTowardsPosInf** (3) - ![RoundTowardsPosInf]
+**RoundTowardsPosInf** (2) - ![RoundTowardsPosInf]
 
-**RoundTowardsZero** (4) - ![RoundTowardsZero]
+**RoundTowardsZero** (3) - ![RoundTowardsZero]
 
-**RoundAwayFromInf** (4) - ![RoundAwayFromInf]
+**RoundAwayFromInf** (3) - ![RoundAwayFromInf]
 
-**RoundTrunc** (4) - ![RoundTrunc]
+**RoundTrunc** (3) - ![RoundTrunc]
 
-**RoundTowardsInf** (5) - ![RoundTowardsInf]
+**RoundTowardsInf** (4) - ![RoundTowardsInf]
 
-**RoundAwayFromZero** (5) - ![RoundAwayFromZero]
+**RoundAwayFromZero** (4) - ![RoundAwayFromZero]
 
-**RoundHalfUp** (6) - ![RoundHalfUp]
+**RoundHalfUp** (5) - ![RoundHalfUp]
 
-**RoundHalfTowardsPositiveInf** (6) - ![RoundHalfTowardsPositiveInf]
+**RoundHalfTowardsPositiveInf** (5) - ![RoundHalfTowardsPositiveInf]
 
-**RoundHalfDown** (7) - ![RoundHalfDown]
+**RoundHalfDown** (6) - ![RoundHalfDown]
 
-**RoundHalfTowardsNegativeInf** (7) - ![RoundHalfTowardsNegativeInf]
+**RoundHalfTowardsNegativeInf** (6) - ![RoundHalfTowardsNegativeInf]
 
-**RoundHalfTowardsZero** (8) - ![RoundHalfTowardsZero]
+**RoundHalfTowardsZero** (7) - ![RoundHalfTowardsZero]
 
-**RoundHalfAwayFromInf** (8) - ![RoundHalfAwayFromInf]
+**RoundHalfAwayFromInf** (7) - ![RoundHalfAwayFromInf]
 
-**RoundHalfTowardsInf** (9) - ![RoundHalfTowardsInf]
+**RoundHalfTowardsInf** (8) - ![RoundHalfTowardsInf]
 
-**RoundHalfAwayFromZero** (9) - ![RoundHalfAwayFromZero]
+**RoundHalfAwayFromZero** (8) - ![RoundHalfAwayFromZero]
 
-**RoundMath** (9) - ![RoundMath]
+**RoundMath** (8) - ![RoundMath]
 
-**RoundHalfToEven** (10) - ![RoundHalfToEven]
+**RoundHalfToEven** (9) - ![RoundHalfToEven]
 
-**RoundBankers** (10) - ![RoundBankers]
+**RoundBankers** (9) - ![RoundBankers]
 
-**RoundBanking** (10) - ![RoundBanking]
+**RoundBanking** (9) - ![RoundBanking]
 
-**RoundBanking** (10) - ![RoundBanking]
+**RoundBanking** (9) - ![RoundBanking]
 
-**RoundStatistician** (10) - ![RoundStatistician]
+**RoundStatistician** (9) - ![RoundStatistician]
 
-**RoundStatistic** (10) - ![RoundStatistic]
+**RoundStatistic** (9) - ![RoundStatistic]
 
-**RoundDutch** (10) - ![RoundDutch]
+**RoundDutch** (9) - ![RoundDutch]
 
-**RoundGaussian** (10) - ![RoundGaussian]
+**RoundGaussian** (9) - ![RoundGaussian]
 
-**RoundHalfToOdd** (11) - ![RoundHalfToOdd]
+**RoundHalfToOdd** (10) - ![RoundHalfToOdd]
 
 
 
