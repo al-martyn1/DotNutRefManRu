@@ -49,6 +49,9 @@ class DotNut.BigDecimal
     function isZero()
     // returns: bool
 
+    function izr()
+    // returns: bool
+
     function sgn()
     // returns: integer
 
@@ -117,6 +120,9 @@ class DotNut.BigDecimal
 
 
 [isZero](../DotNut/BigDecimal/isZero.md) - ![__BRIEF]
+
+
+[izr](../DotNut/BigDecimal/izr.md) - ![__BRIEF]
 
 
 [sgn](../DotNut/BigDecimal/sgn.md) - ![__BRIEF]
