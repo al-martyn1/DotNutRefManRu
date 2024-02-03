@@ -21,6 +21,7 @@
 - [DotNut.FileSystem.WriteFileFlags](DotNut/FileSystem/WriteFileFlags.md) флаги
 - [DotNut.Integer64](DotNut/Integer64.md) класс
 - [DotNut.Json](DotNut/Json.md) пространство имён
+- [DotNut.Tr](DotNut/Tr.md) пространство имён
 - [DotNut.Utils](DotNut/Utils.md) пространство имён
 - [DotNut.ValueType](DotNut/ValueType.md) перечисление
 - [DotNut.Vk.Code](DotNut/Vk/Code.md) перечисление
