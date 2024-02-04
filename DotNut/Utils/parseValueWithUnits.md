@@ -2,11 +2,11 @@
 
 
 ```lua
-function parseValueWithUnits( strValueWithUnits                          // string
-                            , valueType                                  // DotNut.ValueType
-                            , caseMatch                                  // DotNut.CaseMatchType
-                            , [string unitStr,integer|float unitValue]   // array of
-                            , defaultUnits                               // integer|float
+function parseValueWithUnits( strValueWithUnits   // string
+                            , valueType           // DotNut.ValueType
+                            , caseMatch           // DotNut.CaseMatchType
+                            , units               // array of [string unitStr,integer|float unitValue]
+                            , defaultUnits        // integer|float
                             )
 // returns: table{DotNut.ErrorCode status, integer|float value, integer units}
 ```
@@ -20,7 +20,7 @@ function parseValueWithUnits( strValueWithUnits                          // stri
 
 **caseMatch** ([DotNut.CaseMatchType](../../DotNut/CaseMatchType.md)) - ![caseMatch]
 
-**[string unitStr,integer|float unitValue]** (**array** of) - ![[string unitStr,integer|float unitValue]]
+**units** (**array** of [**string** unitStr,**integer** | **float** unitValue]) - ![units]
 
 **defaultUnits** (**integer** | **float**) - ![defaultUnits]
 
