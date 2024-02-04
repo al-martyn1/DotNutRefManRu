@@ -2,8 +2,9 @@
 
 
 ```lua
-function tr3( msgId   // string
-            , catId   // string
+function tr3( msgId    // string
+            , catId    // string
+            , langId   // string
             )
 // returns: string
 ```
@@ -14,6 +15,8 @@ function tr3( msgId   // string
 **msgId** (**string**) - ![msgId]
 
 **catId** (**string**) - ![catId]
+
+**langId** (**string**) - ![langId]
 
 ### Возвращаемое значение
 
