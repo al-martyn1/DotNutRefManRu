@@ -1,5 +1,7 @@
 ## DotNut.Tr.msgHasTr2 функция
 
+Проверяет наличие локализации.
+
 
 ```lua
 function msgHasTr2( msgId   // string

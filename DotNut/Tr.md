@@ -1,7 +1,7 @@
 ## DotNut.Tr пространство имён
 
 
-Сервис для локализации приложений
+Сервис для локализации приложений (перевода). Предоставляет API для получения локализованныхм сообщений.
 ```lua
 table /* namespace */ DotNut.Tr
 {
@@ -62,32 +62,32 @@ table /* namespace */ DotNut.Tr
 ### Функции
 
 
-[setDefLang](../DotNut/Tr/setDefLang.md) - ![__BRIEF]
+[setDefLang](../DotNut/Tr/setDefLang.md) - Задаёт язык сообщений по умолчанию
 
 
-[getDefLang](../DotNut/Tr/getDefLang.md) - ![__BRIEF]
+[getDefLang](../DotNut/Tr/getDefLang.md) - Возвращает текущий язык локализации, установленный по умолчанию.
 
 
-[setDefCategory](../DotNut/Tr/setDefCategory.md) - ![__BRIEF]
+[setDefCategory](../DotNut/Tr/setDefCategory.md) - Задаёт категорию сообщений по умолчанию.
 
 
 [getDefCategory](../DotNut/Tr/getDefCategory.md) - Установка категории сообщений по умолчанию
 
 
-[tr](../DotNut/Tr/tr.md) - ![__BRIEF]
+[tr](../DotNut/Tr/tr.md) - Возвращает локализованную строку сообщения
 
 
-[tr2](../DotNut/Tr/tr2.md) - ![__BRIEF]
+[tr2](../DotNut/Tr/tr2.md) - Возвращает локализованную строку сообщения
 
 
-[tr3](../DotNut/Tr/tr3.md) - ![__BRIEF]
+[tr3](../DotNut/Tr/tr3.md) - Возвращает локализованную строку сообщения
 
 
-[msgHasTr](../DotNut/Tr/msgHasTr.md) - ![__BRIEF]
+[msgHasTr](../DotNut/Tr/msgHasTr.md) - Проверяет наличие локализации.
 
 
-[msgHasTr2](../DotNut/Tr/msgHasTr2.md) - ![__BRIEF]
+[msgHasTr2](../DotNut/Tr/msgHasTr2.md) - Проверяет наличие локализации.
 
 
-[msgHasTr3](../DotNut/Tr/msgHasTr3.md) - ![__BRIEF]
+[msgHasTr3](../DotNut/Tr/msgHasTr3.md) - Проверяет наличие локализации.
 

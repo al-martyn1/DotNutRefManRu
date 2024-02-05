@@ -1,5 +1,7 @@
 ## DotNut.Tr.getDefLang функция
 
+Возвращает текущий язык локализации, установленный по умолчанию.
+
 
 ```lua
 function getDefLang()

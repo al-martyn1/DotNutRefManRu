@@ -1,5 +1,7 @@
 ## DotNut.Tr.setDefLang функция
 
+Задаёт язык сообщений по умолчанию
+
 
 ```lua
 function setDefLang( langId   // string

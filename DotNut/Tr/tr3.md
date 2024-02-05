@@ -1,5 +1,7 @@
 ## DotNut.Tr.tr3 функция
 
+Возвращает локализованную строку сообщения
+
 
 ```lua
 function tr3( msgId    // string

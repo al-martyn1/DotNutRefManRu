@@ -1,5 +1,7 @@
 ## DotNut.Tr.tr2 функция
 
+Возвращает локализованную строку сообщения
+
 
 ```lua
 function tr2( msgId   // string
