@@ -1,5 +1,7 @@
 ## DotNut.Tr пространство имён
-```lua
+
+
+Сервис для локализации приложений```lua
 table /* namespace */ DotNut.Tr
 {
 
@@ -68,7 +70,7 @@ table /* namespace */ DotNut.Tr
 [setDefCategory](../DotNut/Tr/setDefCategory.md) - ![__BRIEF]
 
 
-[getDefCategory](../DotNut/Tr/getDefCategory.md) - ![__BRIEF]
+[getDefCategory](../DotNut/Tr/getDefCategory.md) - Установка катогории сообщений по умолчанию
 
 
 [tr](../DotNut/Tr/tr.md) - ![__BRIEF]
