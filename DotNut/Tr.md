@@ -71,7 +71,7 @@ table /* namespace */ DotNut.Tr
 [setDefCategory](../DotNut/Tr/setDefCategory.md) - ![__BRIEF]
 
 
-[getDefCategory](../DotNut/Tr/getDefCategory.md) - Установка катогории сообщений по умолчанию
+[getDefCategory](../DotNut/Tr/getDefCategory.md) - Установка категории сообщений по умолчанию
 
 
 [tr](../DotNut/Tr/tr.md) - ![__BRIEF]
