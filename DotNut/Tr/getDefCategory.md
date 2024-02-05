@@ -2,6 +2,7 @@
 
 ![__BRIEF]
 
+
 ```lua
 function getDefCategory()
 // returns: string
@@ -9,6 +10,7 @@ function getDefCategory()
 
 
 При задании катогории сообщений по умолчанию не обязательно вызывать функцию !#t[DotNut/Tr/tr2] или !#t[DotNut/Tr/tr3], для получения локализованного сообщения достаточно вызвать функцию !#t[DotNut/Tr/tr].
+
 
 ### Параметры
 
