@@ -9,7 +9,7 @@ table /* namespace */ DotNut.Utils
     function parseValueWithUnits( strValueWithUnits   // string
                                 , valueType           // DotNut.ValueType
                                 , caseMatch           // bool|DotNut.CaseMatchType
-                                , units               // array of [string unitStr,integer unitValue]
+                                , units               // array of [string unitStr, integer unitValue]
                                 , defaultUnits        // integer
                                 )
     // returns: table{DotNut.ErrorCode status, integer|float value, integer units}
