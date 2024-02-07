@@ -32,7 +32,7 @@ function parseValueWithUnits( strValueWithUnits   // string
 
 - status ([DotNut.ErrorCode](../../DotNut/ErrorCode.md)) - код ошибки, DotNut.ErrorCode::Ok, если преобразование прошло успешно.
 - value (integer | float) - значение величины
-- units (integer) - идентификтор единицы измерения, один из заданных в параметре **units **.
+- units (integer) - идентификтор единицы измерения, один из заданных в параметре **units**.
 
 
 
