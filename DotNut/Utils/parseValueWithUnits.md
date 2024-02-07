@@ -1,6 +1,6 @@
 ## DotNut.Utils.parseValueWithUnits функция
 
-Разбор строки с единицами измерения, например: '12.5cm'
+Разбор строки с единицами измерения, например: '12.5cm'.
 
 
 ```lua
@@ -20,7 +20,7 @@ function parseValueWithUnits( strValueWithUnits   // string
 
 **valueType** ([DotNut.ValueType](../../DotNut/ValueType.md)) - тип значения, влияет на допустимые в строке символы и на тип результата (float | integer).
 
-**caseMatch** (**bool** | [DotNut.CaseMatchType](../../DotNut/CaseMatchType.md)) - одно из значений [DotNut.CaseMatchType](../../DotNut/CaseMatchType.md), или bool: false - для точного соответствия регистра, true - для игнорирования регистра символов в единице измерения
+**caseMatch** (**bool** | [DotNut.CaseMatchType](../../DotNut/CaseMatchType.md)) - одно из значений [DotNut.CaseMatchType](../../DotNut/CaseMatchType.md), или bool: false - для точного соответствия регистра, true - для игнорирования регистра символов в единице измерения.
 
 **units** (**array** of [**string** unitStr, **integer** unitValue]) - массив возможных значений единиц измерений в виде пар (массивов) строкового представления и целочисленного идентификатора.
 
@@ -62,4 +62,4 @@ else
     smpprintln("Value with units, value module: [" + valWithUnits.value.tostring() + "], value units: [" + valWithUnits.units.tostring() + "]");
 }
 ```
-
+.
