@@ -23,5 +23,5 @@ table /* namespace */ DotNut.Utils
 ### Функции
 
 
-[parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - ![__BRIEF]
+[parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - Разбор строки с единицами измерения, например: '12.5cm'
 

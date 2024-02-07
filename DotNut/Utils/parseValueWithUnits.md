@@ -1,5 +1,7 @@
 ## DotNut.Utils.parseValueWithUnits функция
 
+Разбор строки с единицами измерения, например: '12.5cm'
+
 
 ```lua
 function parseValueWithUnits( strValueWithUnits   // string
@@ -28,7 +30,9 @@ function parseValueWithUnits( strValueWithUnits   // string
 
 Возвращаемый тип: **table**{[DotNut.ErrorCode](../../DotNut/ErrorCode.md) status, **integer** | **float** value, **integer** units}
 
-table{DotNut.ErrorCode status, integer | float value, integer units}
+- status ([DotNut.ErrorCode](../../DotNut/ErrorCode.md)) - код ошибки, DotNut.ErrorCode::Ok, если преобразование прошло успешно.
+- value (integer | float) - значение величины
+- units (integer) - идентификтор единыцы измерения, один из заданных в параметрах.
 
 Пример использования:
 ```lua
