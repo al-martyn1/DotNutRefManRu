@@ -6,9 +6,9 @@
 ```lua
 function parseValueWithUnits( strValueWithUnits   // string
                             , valueType           // DotNut.ValueType
-                            , caseMatch           // DotNut.CaseMatchType
-                            , units               // array of [string unitStr,integer|float unitValue]
-                            , defaultUnits        // integer|float
+                            , caseMatch           // bool|DotNut.CaseMatchType
+                            , units               // array of [string unitStr,integer unitValue]
+                            , defaultUnits        // integer
                             )
 // returns: table{DotNut.ErrorCode status, integer|float value, integer units}
 ```
@@ -20,11 +20,11 @@ function parseValueWithUnits( strValueWithUnits   // string
 
 **valueType** ([DotNut.ValueType](../../DotNut/ValueType.md)) - ![valueType]
 
-**caseMatch** ([DotNut.CaseMatchType](../../DotNut/CaseMatchType.md)) - ![caseMatch]
+**caseMatch** (**bool** | [DotNut.CaseMatchType](../../DotNut/CaseMatchType.md)) - ![caseMatch]
 
-**units** (**array** of [**string** unitStr,**integer** | **float** unitValue]) - ![units]
+**units** (**array** of [**string** unitStr,**integer** unitValue]) - ![units]
 
-**defaultUnits** (**integer** | **float**) - ![defaultUnits]
+**defaultUnits** (**integer**) - ![defaultUnits]
 
 ### Возвращаемое значение
 
@@ -33,6 +33,10 @@ function parseValueWithUnits( strValueWithUnits   // string
 - status ([DotNut.ErrorCode](../../DotNut/ErrorCode.md)) - код ошибки, DotNut.ErrorCode::Ok, если преобразование прошло успешно.
 - value (integer | float) - значение величины
 - units (integer) - идентификтор единыцы измерения, один из заданных в параметрах.
+
+
+
+### Примечания
 
 Пример использования:
 ```lua
@@ -58,5 +62,4 @@ else
     smpprintln("Value with units, value module: [" + valWithUnits.value.tostring() + "], value units: [" + valWithUnits.units.tostring() + "]");
 }
 ```
-
 
