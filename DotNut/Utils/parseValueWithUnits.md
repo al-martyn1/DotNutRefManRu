@@ -16,15 +16,15 @@ function parseValueWithUnits( strValueWithUnits   // string
 
 ### Параметры
 
-**strValueWithUnits** (**string**) - ![strValueWithUnits]
+**strValueWithUnits** (**string**) - Входная строка, содержащая значение с единицами измерений.
 
-**valueType** ([DotNut.ValueType](../../DotNut/ValueType.md)) - ![valueType]
+**valueType** ([DotNut.ValueType](../../DotNut/ValueType.md)) - тип значения, влияет на допустимые в строке символы.
 
-**caseMatch** (**bool** | [DotNut.CaseMatchType](../../DotNut/CaseMatchType.md)) - ![caseMatch]
+**caseMatch** (**bool** | [DotNut.CaseMatchType](../../DotNut/CaseMatchType.md)) - одно из значений [DotNut.CaseMatchType](../../DotNut/CaseMatchType.md), или bool: false - для точного соответствия регистра, true - для игнорирования регистра символов в единице измерения
 
-**units** (**array** of [**string** unitStr,**integer** unitValue]) - ![units]
+**units** (**array** of [**string** unitStr,**integer** unitValue]) - массив возможных значений единиц измерений в виде пар (массивов) строкового представления и целочисленного идентификатора.
 
-**defaultUnits** (**integer**) - ![defaultUnits]
+**defaultUnits** (**integer**) - единицы измерений по умолчанию, если они отсутствуют в строке.
 
 ### Возвращаемое значение
 
@@ -32,7 +32,7 @@ function parseValueWithUnits( strValueWithUnits   // string
 
 - status ([DotNut.ErrorCode](../../DotNut/ErrorCode.md)) - код ошибки, DotNut.ErrorCode::Ok, если преобразование прошло успешно.
 - value (integer | float) - значение величины
-- units (integer) - идентификтор единыцы измерения, один из заданных в параметрах.
+- units (integer) - идентификтор единицы измерения, один из заданных в параметре **units **.
 
 
 

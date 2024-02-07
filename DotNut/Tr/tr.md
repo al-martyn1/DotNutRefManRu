@@ -12,7 +12,7 @@ function tr( msgId   // string
 
 ### Параметры
 
-**msgId** (**string**) - ![msgId]
+**msgId** (**string**) - идентификатор сообщения.
 
 ### Возвращаемое значение
 

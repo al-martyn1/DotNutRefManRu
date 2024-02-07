@@ -12,7 +12,7 @@ function setDefCategory( catId   // string
 
 ### Параметры
 
-**catId** (**string**) - ![catId]
+**catId** (**string**) - идентификатор категории.
 
 ### Возвращаемое значение
 

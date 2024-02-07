@@ -12,7 +12,7 @@ function setDefLang( langId   // string
 
 ### Параметры
 
-**langId** (**string**) - ![langId]
+**langId** (**string**) - идентификатор языка.
 
 ### Возвращаемое значение
 

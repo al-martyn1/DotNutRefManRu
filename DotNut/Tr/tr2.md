@@ -13,9 +13,9 @@ function tr2( msgId   // string
 
 ### Параметры
 
-**msgId** (**string**) - ![msgId]
+**msgId** (**string**) - идентификатор сообщения.
 
-**catId** (**string**) - ![catId]
+**catId** (**string**) - идентификатор категории.
 
 ### Возвращаемое значение
 

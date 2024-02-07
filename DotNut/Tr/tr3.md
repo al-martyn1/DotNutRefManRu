@@ -14,11 +14,11 @@ function tr3( msgId    // string
 
 ### Параметры
 
-**msgId** (**string**) - ![msgId]
+**msgId** (**string**) - идентификатор сообщения.
 
-**catId** (**string**) - ![catId]
+**catId** (**string**) - идентификатор категории.
 
-**langId** (**string**) - ![langId]
+**langId** (**string**) - идентификатор языка.
 
 ### Возвращаемое значение
 
