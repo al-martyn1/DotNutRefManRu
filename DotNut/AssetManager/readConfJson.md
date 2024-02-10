@@ -4,7 +4,7 @@
 ```lua
 function readConfJson( confJsonFileName   // string
                      )
-// returns: table
+// returns: table{DotNut.ErrorCode status, table data, string message}
 ```
 
 
@@ -14,5 +14,5 @@ function readConfJson( confJsonFileName   // string
 
 ### Возвращаемое значение
 
-Возвращаемый тип: **table**
+Возвращаемый тип: **table**{[DotNut.ErrorCode](../../DotNut/ErrorCode.md) status, **table** data, **string** message}
 

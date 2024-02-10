@@ -69,7 +69,7 @@ class DotNut.AssetManager
 
     function readConfJson( confJsonFileName   // string
                          )
-    // returns: table
+    // returns: table{DotNut.ErrorCode status, table data, string message}
 
 
 } // class DotNut.AssetManager
