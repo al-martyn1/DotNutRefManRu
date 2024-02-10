@@ -8,12 +8,12 @@ table /* namespace */ DotNut.Json
 
     function parse( jsonText   // string
                   )
-    // returns: table{status,data,message}
+    // returns: table{DotNut.ErrorCode status, table data, string message}
 
     function parseEx( jsonText   // string
                     , fileName   // string
                     )
-    // returns: table{status,data,message}
+    // returns: table{DotNut.ErrorCode status, table data, string message}
 
 
 

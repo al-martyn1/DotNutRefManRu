@@ -6,6 +6,8 @@ class DotNut.FileSystem.FileSystemConfigurator
 {
     // Functions
 
+    constructor()
+
     function isset()
     // returns: bool
 
@@ -108,6 +110,9 @@ class DotNut.FileSystem.FileSystemConfigurator
 
 
 ### Методы
+
+
+[constructor](../../DotNut/FileSystem/FileSystemConfigurator/constructor.md) - ![__BRIEF]
 
 
 [isset](../../DotNut/FileSystem/FileSystemConfigurator/isset.md) - ![__BRIEF]

@@ -4,7 +4,7 @@
 ```lua
 function parse( jsonText   // string
               )
-// returns: table{status,data,message}
+// returns: table{DotNut.ErrorCode status, table data, string message}
 ```
 
 
@@ -14,5 +14,5 @@ function parse( jsonText   // string
 
 ### Возвращаемое значение
 
-Возвращаемый тип: **table**{status,data,message}
+Возвращаемый тип: **table**{[DotNut.ErrorCode](../../DotNut/ErrorCode.md) status, **table** data, **string** message}
 

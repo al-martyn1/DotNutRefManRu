@@ -15,6 +15,12 @@ class DotNut.FileSystem.DirectoryEntry
     entryExt;         // string
     path;             // string
 
+
+    // Functions
+
+    constructor()
+
+
 } // class DotNut.FileSystem.DirectoryEntry
 ```
 
@@ -37,5 +43,11 @@ class DotNut.FileSystem.DirectoryEntry
 **entryExt** (**string**) - ![entryExt]
 
 **path** (**string**) - ![path]
+
+
+### Методы
+
+
+[constructor](../../DotNut/FileSystem/DirectoryEntry/constructor.md) - ![__BRIEF]
 
 

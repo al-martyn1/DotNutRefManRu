@@ -6,6 +6,9 @@ class DotNut.FileSystem.FileSystem
 {
     // Functions
 
+    constructor( parentFs   // DotNut.FileSystem.FileSystem
+               )
+
     function isset()
     // returns: bool
 
@@ -88,7 +91,7 @@ class DotNut.FileSystem.FileSystem
 
     function enumerateDirectory( dirPath   // string
                                )
-    // returns: array of DotNut.FileSystem.DirectoryEntryInfo
+    // returns: array of DotNut.FileSystem.DirectoryEntry
 
     function testMaskMatch( entry   // DotNut.FileSystem.DirectoryEntryInfo
                           , mask    // DotNut.FileSystem.FileMask
@@ -142,6 +145,9 @@ class DotNut.FileSystem.FileSystem
 
 
 ### Методы
+
+
+[constructor](../../DotNut/FileSystem/FileSystem/constructor.md) - ![__BRIEF]
 
 
 [isset](../../DotNut/FileSystem/FileSystem/isset.md) - ![__BRIEF]

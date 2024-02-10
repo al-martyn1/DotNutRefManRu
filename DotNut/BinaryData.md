@@ -68,9 +68,9 @@ class DotNut.BinaryData
     // returns: integer
 
     function tointeger64()
-    // returns: DotNut.toInteger64
+    // returns: DotNut.Integer64
 
-    function toArray()
+    function toarray()
     // returns: array of integer
 
     function tostring()
@@ -142,7 +142,7 @@ class DotNut.BinaryData
 **tointeger64** - Преобразует значение в DotNut.Integer64 и возвращает его. Метод toInteger64() также реализован для соответствия соглашениям об именовании camelCase.
 
 
-[toArray](../DotNut/BinaryData/toArray.md) - ![__BRIEF]
+[toarray](../DotNut/BinaryData/toarray.md) - ![__BRIEF]
 
 
 **tostring** - Преобразует значение в string и возвращает его, см. [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) для получения подробностей. Реализован для совместимости со встроенными типами. Метод toString() также реализован для соответствия соглашениям об именовании camelCase.
