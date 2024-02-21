@@ -3,7 +3,7 @@
 
 ```lua
 function createMaskByColor( imageIdx   // integer
-                          , clr        // DrawingColor
+                          , clr        // Drawing.Color
                           )
 // returns: bool
 ```
@@ -13,7 +13,7 @@ function createMaskByColor( imageIdx   // integer
 
 **imageIdx** (**integer**) - ![imageIdx]
 
-**clr** ([DrawingColor](../../DrawingColor.md)) - ![clr]
+**clr** ([Drawing.Color](../../Drawing/Color.md)) - ![clr]
 
 ### Возвращаемое значение
 

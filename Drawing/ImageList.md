@@ -87,7 +87,7 @@ class Drawing.ImageList
     // returns: integer
 
     function createMaskByColor( imageIdx   // integer
-                              , clr        // DrawingColor
+                              , clr        // Drawing.Color
                               )
     // returns: bool
 
