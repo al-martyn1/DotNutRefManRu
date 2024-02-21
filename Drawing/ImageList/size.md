@@ -3,7 +3,7 @@
 
 ```lua
 function size()
-// returns: int
+// returns: integer
 ```
 
 
@@ -13,5 +13,5 @@ function size()
 
 ### Возвращаемое значение
 
-Возвращаемый тип: **int**
+Возвращаемый тип: **integer**
 

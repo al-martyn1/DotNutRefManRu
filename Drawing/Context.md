@@ -53,7 +53,7 @@ class Drawing.Context
     function markersDraw()
     // returns: bool
 
-    function markersDrawEx( penId   // int
+    function markersDrawEx( penId   // integer
                           )
     // returns: bool
 
@@ -361,7 +361,7 @@ class Drawing.Context
     // returns: bool
 
     function textOutWithFontAndColor( pos      // Drawing.Coords
-                                    , fontId   // int
+                                    , fontId   // integer
                                     , clr      // Drawing.Color
                                     , text     // string
                                     )
@@ -374,7 +374,7 @@ class Drawing.Context
                             , stopChars   // string
                             , colors      // array of Drawing.Color
                             , bkColors    // array of Drawing.Color
-                            , fontId      // int
+                            , fontId      // integer
                             )
     // returns: bool
 
@@ -390,7 +390,7 @@ class Drawing.Context
                             , colors             // array of Drawing.Color
                             , bkColors           // array of Drawing.Color
                             , tabStopPositions   // array of integer|float|string
-                            , fontId             // int
+                            , fontId             // integer
                             )
     // returns: bool
 
@@ -408,7 +408,7 @@ class Drawing.Context
                                   , tabStopPositions   // array of integer|float|string
                                   , paraColors         // array of Drawing.Color
                                   , paraBkColors       // array of Drawing.Color
-                                  , fontId             // int
+                                  , fontId             // integer
                                   )
     // returns: bool
 

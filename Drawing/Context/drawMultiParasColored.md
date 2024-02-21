@@ -16,7 +16,7 @@ function drawMultiParasColored( startPos           // Drawing.Coords
                               , tabStopPositions   // array of integer|float|string
                               , paraColors         // array of Drawing.Color
                               , paraBkColors       // array of Drawing.Color
-                              , fontId             // int
+                              , fontId             // integer
                               )
 // returns: bool
 ```
@@ -52,7 +52,7 @@ function drawMultiParasColored( startPos           // Drawing.Coords
 
 **paraBkColors** (**array** of [Drawing.Color](../../Drawing/Color.md)) - ![paraBkColors]
 
-**fontId** (**int**) - ![fontId]
+**fontId** (**integer**) - ![fontId]
 
 ### Возвращаемое значение
 

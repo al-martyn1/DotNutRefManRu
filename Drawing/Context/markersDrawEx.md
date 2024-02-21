@@ -2,7 +2,7 @@
 
 
 ```lua
-function markersDrawEx( penId   // int
+function markersDrawEx( penId   // integer
                       )
 // returns: bool
 ```
@@ -10,7 +10,7 @@ function markersDrawEx( penId   // int
 
 ### Параметры
 
-**penId** (**int**) - ![penId]
+**penId** (**integer**) - ![penId]
 
 ### Возвращаемое значение
 

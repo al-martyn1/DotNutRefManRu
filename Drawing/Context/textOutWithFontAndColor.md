@@ -3,7 +3,7 @@
 
 ```lua
 function textOutWithFontAndColor( pos      // Drawing.Coords
-                                , fontId   // int
+                                , fontId   // integer
                                 , clr      // Drawing.Color
                                 , text     // string
                                 )
@@ -15,7 +15,7 @@ function textOutWithFontAndColor( pos      // Drawing.Coords
 
 **pos** ([Drawing.Coords](../../Drawing/Coords.md)) - ![pos]
 
-**fontId** (**int**) - ![fontId]
+**fontId** (**integer**) - ![fontId]
 
 **clr** ([Drawing.Color](../../Drawing/Color.md)) - ![clr]
 

@@ -9,7 +9,7 @@ class Drawing.ImageList
     function clear()
 
     function size()
-    // returns: int
+    // returns: integer
 
     function empty()
     // returns: bool

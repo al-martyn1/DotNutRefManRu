@@ -9,7 +9,7 @@ function drawTextColored( startPos    // Drawing.Coords
                         , stopChars   // string
                         , colors      // array of Drawing.Color
                         , bkColors    // array of Drawing.Color
-                        , fontId      // int
+                        , fontId      // integer
                         )
 // returns: bool
 ```
@@ -31,7 +31,7 @@ function drawTextColored( startPos    // Drawing.Coords
 
 **bkColors** (**array** of [Drawing.Color](../../Drawing/Color.md)) - ![bkColors]
 
-**fontId** (**int**) - ![fontId]
+**fontId** (**integer**) - ![fontId]
 
 ### Возвращаемое значение
 

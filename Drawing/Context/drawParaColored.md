@@ -14,7 +14,7 @@ function drawParaColored( startPos           // Drawing.Coords
                         , colors             // array of Drawing.Color
                         , bkColors           // array of Drawing.Color
                         , tabStopPositions   // array of integer|float|string
-                        , fontId             // int
+                        , fontId             // integer
                         )
 // returns: bool
 ```
@@ -46,7 +46,7 @@ function drawParaColored( startPos           // Drawing.Coords
 
 **tabStopPositions** (**array** of **integer** | **float** | **string**) - ![tabStopPositions]
 
-**fontId** (**int**) - ![fontId]
+**fontId** (**integer**) - ![fontId]
 
 ### Возвращаемое значение
 
