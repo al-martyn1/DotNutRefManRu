@@ -462,6 +462,20 @@ class Drawing.Context
                          )
     // returns: Drawing.Coords
 
+    function drawImageSimple( imgListWrapper   // Drawing.ImageList
+                            , idx              // integer
+                            , pos              // Drawing.Coords
+                            )
+    // returns: bool
+
+    function drawImageSimpleEx( imgListWrapper   // Drawing.ImageList
+                              , idx              // integer
+                              , pos              // Drawing.Coords
+                              , imgPartLeftTop   // Drawing.ImageSize
+                              , imgPartSize      // Drawing.ImageSize
+                              )
+    // returns: bool
+
 
 } // class Drawing.Context
 ```
@@ -760,5 +774,11 @@ class Drawing.Context
 
 
 [reflectPoint](../Drawing/Context/reflectPoint.md) - ![__BRIEF]
+
+
+[drawImageSimple](../Drawing/Context/drawImageSimple.md) - ![__BRIEF]
+
+
+[drawImageSimpleEx](../Drawing/Context/drawImageSimpleEx.md) - ![__BRIEF]
 
 

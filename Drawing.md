@@ -9,6 +9,9 @@ table /* namespace */ Drawing
     class Coords;
     class FontParams;
     class GradientParams;
+    class ImageInfo;
+    class ImageList;
+    class ImageSize;
     class PenParams;
     class Scale;
 
@@ -29,7 +32,12 @@ table /* namespace */ Drawing
 
 [GradientParams](Drawing/GradientParams.md) - ![__BRIEF]
 
+[ImageInfo](Drawing/ImageInfo.md) - ![__BRIEF]
+
+[ImageList](Drawing/ImageList.md) - ![__BRIEF]
+
+[ImageSize](Drawing/ImageSize.md) - ![__BRIEF]
+
 [PenParams](Drawing/PenParams.md) - ![__BRIEF]
 
 [Scale](Drawing/Scale.md) - ![__BRIEF]
-

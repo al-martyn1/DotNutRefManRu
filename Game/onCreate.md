@@ -16,3 +16,4 @@ function onCreate( clientAreaSize   // Drawing.Coords
 
 Возвращаемый тип: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 
+
