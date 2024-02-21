@@ -43,6 +43,9 @@
 - [Drawing.GradientRoundRectFillFlags](Drawing/GradientRoundRectFillFlags.md) флаги
 - [Drawing.GradientType](Drawing/GradientType.md) перечисление
 - [Drawing.HorAlign](Drawing/HorAlign.md) перечисление
+- [Drawing.ImageInfo](Drawing/ImageInfo.md) класс
+- [Drawing.ImageList](Drawing/ImageList.md) класс
+- [Drawing.ImageSize](Drawing/ImageSize.md) класс
 - [Drawing.LineDirection](Drawing/LineDirection.md) перечисление
 - [Drawing.LineEndcapStyle](Drawing/LineEndcapStyle.md) перечисление
 - [Drawing.LineJoinStyle](Drawing/LineJoinStyle.md) перечисление
