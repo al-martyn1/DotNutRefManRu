@@ -6,11 +6,10 @@ class Drawing.GradientParams
 {
     // Member Fields
 
-    constructor(Drawing.Color colorBegin, Drawing.Color colorMid, Drawing.Color colorEnd, integer|float|string midPointPos); // 
-    colorBegin;                                                                                                              // Drawing.Color
-    colorMid;                                                                                                                // Drawing.Color
-    colorEnd;                                                                                                                // Drawing.Color
-    midPoint;                                                                                                                // float
+    colorBegin; // Drawing.Color
+    colorMid;   // Drawing.Color
+    colorEnd;   // Drawing.Color
+    midPoint;   // float
 
 
     // Functions
@@ -28,8 +27,6 @@ class Drawing.GradientParams
 
 
 ### Поля класса
-
-**constructor(Drawing.Color colorBegin, Drawing.Color colorMid, Drawing.Color colorEnd, integer|float|string midPointPos)** () - ![constructor(Drawing.Color colorBegin, Drawing.Color colorMid, Drawing.Color colorEnd, integer|float|string midPointPos)]
 
 **colorBegin** ([Drawing.Color](../Drawing/Color.md)) - ![colorBegin]
 
