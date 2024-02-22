@@ -6,6 +6,8 @@ class Drawing.ImageList
 {
     // Functions
 
+    constructor()
+
     function clear()
 
     function size()
@@ -103,6 +105,9 @@ class Drawing.ImageList
 
 
 ### Методы
+
+
+[constructor](../Drawing/ImageList/constructor.md) - ![__BRIEF]
 
 
 [clear](../Drawing/ImageList/clear.md) - ![__BRIEF]
