@@ -2,9 +2,9 @@
 
 
 ```lua
-function drawImageSimple( imgListWrapper   // Drawing.ImageList
-                        , idx              // integer
-                        , pos              // Drawing.Coords
+function drawImageSimple( imgList   // Drawing.ImageList
+                        , idx       // integer
+                        , pos       // Drawing.Coords
                         )
 // returns: bool
 ```
@@ -12,7 +12,7 @@ function drawImageSimple( imgListWrapper   // Drawing.ImageList
 
 ### Параметры
 
-**imgListWrapper** ([Drawing.ImageList](../../Drawing/ImageList.md)) - ![imgListWrapper]
+**imgList** ([Drawing.ImageList](../../Drawing/ImageList.md)) - ![imgList]
 
 **idx** (**integer**) - ![idx]
 

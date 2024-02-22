@@ -462,18 +462,27 @@ class Drawing.Context
                          )
     // returns: Drawing.Coords
 
-    function drawImageSimple( imgListWrapper   // Drawing.ImageList
-                            , idx              // integer
-                            , pos              // Drawing.Coords
+    function drawImageSimple( imgList   // Drawing.ImageList
+                            , idx       // integer
+                            , pos       // Drawing.Coords
                             )
     // returns: bool
 
-    function drawImageSimpleEx( imgListWrapper   // Drawing.ImageList
+    function drawImageSimpleEx( imgList          // Drawing.ImageList
                               , idx              // integer
                               , pos              // Drawing.Coords
                               , imgPartLeftTop   // Drawing.ImageSize
                               , imgPartSize      // Drawing.ImageSize
                               )
+    // returns: bool
+
+    function drawImageScaled( imgList          // Drawing.ImageList
+                            , idx              // integer
+                            , pos              // Drawing.Coords
+                            , targetSize       // Drawing.Coords
+                            , imgPartLeftTop   // Drawing.ImageSize
+                            , imgPartSize      // Drawing.ImageSize
+                            )
     // returns: bool
 
 
@@ -780,5 +789,8 @@ class Drawing.Context
 
 
 [drawImageSimpleEx](../Drawing/Context/drawImageSimpleEx.md) - ![__BRIEF]
+
+
+[drawImageScaled](../Drawing/Context/drawImageScaled.md) - ![__BRIEF]
 
 

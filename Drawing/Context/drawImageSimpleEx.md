@@ -2,7 +2,7 @@
 
 
 ```lua
-function drawImageSimpleEx( imgListWrapper   // Drawing.ImageList
+function drawImageSimpleEx( imgList          // Drawing.ImageList
                           , idx              // integer
                           , pos              // Drawing.Coords
                           , imgPartLeftTop   // Drawing.ImageSize
@@ -14,7 +14,7 @@ function drawImageSimpleEx( imgListWrapper   // Drawing.ImageList
 
 ### Параметры
 
-**imgListWrapper** ([Drawing.ImageList](../../Drawing/ImageList.md)) - ![imgListWrapper]
+**imgList** ([Drawing.ImageList](../../Drawing/ImageList.md)) - ![imgList]
 
 **idx** (**integer**) - ![idx]
 
