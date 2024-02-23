@@ -6,7 +6,8 @@ class DotNut.FileSystem.FileTime
 {
     // Functions
 
-    constructor()
+    constructor( t   // integer
+               )
 
     function _add( v   // DotNut.FileSystem.FileTime
                  )
