@@ -1,6 +1,6 @@
 ## DotNut.AssetManager.readConfJson метод
 
-Читает текстовый файл из каталога '/conf' и производит его разбор в таблицу, как файл в формате JSON.
+Читает текстовый файл из каталога '/conf' пакета приложения и производит его разбор в таблицу, как файл в формате JSON.
 
 
 ```lua
@@ -12,7 +12,7 @@ function readConfJson( confJsonFileName   // string
 
 ### Параметры
 
-**confJsonFileName** (**string**) - ![confJsonFileName]
+**confJsonFileName** (**string**) - имя файла, запрошенного для чтения
 
 ### Возвращаемое значение
 

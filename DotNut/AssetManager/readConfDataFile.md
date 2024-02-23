@@ -1,6 +1,6 @@
 ## DotNut.AssetManager.readConfDataFile метод
 
-Читает двоичный файл из каталога '/conf'.
+Читает двоичный файл из каталога '/conf' пакета приложения.
 
 
 ```lua
@@ -12,7 +12,7 @@ function readConfDataFile( confFileName   // string
 
 ### Параметры
 
-**confFileName** (**string**) - ![confFileName]
+**confFileName** (**string**) - имя файла, запрошенного для чтения
 
 ### Возвращаемое значение
 

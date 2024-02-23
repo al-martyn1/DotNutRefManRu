@@ -1,6 +1,6 @@
 ## DotNut.AssetManager.readAssetsDataFile метод
 
-Читает двоичный файл из каталога '/assets'.
+Читает двоичный файл из каталога '/assets' пакета приложения.
 
 
 ```lua
@@ -12,7 +12,7 @@ function readAssetsDataFile( assetFileName   // string
 
 ### Параметры
 
-**assetFileName** (**string**) - ![assetFileName]
+**assetFileName** (**string**) - имя файла, запрошенного для чтения
 
 ### Возвращаемое значение
 

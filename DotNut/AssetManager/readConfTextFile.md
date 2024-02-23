@@ -1,6 +1,6 @@
 ## DotNut.AssetManager.readConfTextFile метод
 
-Читает текстовый файл из каталога '/conf'
+Читает текстовый файл из каталога '/conf' пакета приложения.
 
 
 ```lua
@@ -12,7 +12,7 @@ function readConfTextFile( confFileName   // string
 
 ### Параметры
 
-**confFileName** (**string**) - ![confFileName]
+**confFileName** (**string**) - имя файла, запрошенного для чтения
 
 ### Возвращаемое значение
 

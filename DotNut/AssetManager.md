@@ -126,15 +126,15 @@ class DotNut.AssetManager
 [getProjectName](../DotNut/AssetManager/getProjectName.md) - ![__BRIEF]
 
 
-[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - Читает текстовый файл из каталога '/conf'
+[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - Читает текстовый файл из каталога '/conf' пакета приложения.
 
 
-[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - Читает двоичный файл из каталога '/conf'.
+[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - Читает двоичный файл из каталога '/conf' пакета приложения.
 
 
-[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - Читает двоичный файл из каталога '/assets'.
+[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - Читает двоичный файл из каталога '/assets' пакета приложения.
 
 
-[readConfJson](../DotNut/AssetManager/readConfJson.md) - Читает текстовый файл из каталога '/conf' и производит его разбор в таблицу, как файл в формате JSON.
+[readConfJson](../DotNut/AssetManager/readConfJson.md) - Читает текстовый файл из каталога '/conf' пакета приложения и производит его разбор в таблицу, как файл в формате JSON.
 
 
