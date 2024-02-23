@@ -67,7 +67,7 @@ class DotNut.AssetManager
                              )
     // returns: DotNut.BinaryData
 
-    function readAssetsDataFile( confFileName   // string
+    function readAssetsDataFile( assetFileName   // string
                                )
     // returns: DotNut.BinaryData
 
@@ -126,15 +126,15 @@ class DotNut.AssetManager
 [getProjectName](../DotNut/AssetManager/getProjectName.md) - ![__BRIEF]
 
 
-[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - ![__BRIEF]
+[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - Читает текстовый файл из каталога '/conf'
 
 
-[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - ![__BRIEF]
+[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - Читает двоичный файл из каталога '/conf'.
 
 
-[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - ![__BRIEF]
+[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - Читает двоичный файл из каталога '/assets'.
 
 
-[readConfJson](../DotNut/AssetManager/readConfJson.md) - ![__BRIEF]
+[readConfJson](../DotNut/AssetManager/readConfJson.md) - Читает текстовый файл из каталога '/conf' и производит его разбор в таблицу, как файл в формате JSON.
 
 

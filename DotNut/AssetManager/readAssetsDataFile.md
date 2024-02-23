@@ -1,8 +1,10 @@
 ## DotNut.AssetManager.readAssetsDataFile метод
 
+Читает двоичный файл из каталога '/assets'.
+
 
 ```lua
-function readAssetsDataFile( confFileName   // string
+function readAssetsDataFile( assetFileName   // string
                            )
 // returns: DotNut.BinaryData
 ```
@@ -10,9 +12,14 @@ function readAssetsDataFile( confFileName   // string
 
 ### Параметры
 
-**confFileName** (**string**) - ![confFileName]
+**assetFileName** (**string**) - ![assetFileName]
 
 ### Возвращаемое значение
 
 Возвращаемый тип: [DotNut.BinaryData](../../DotNut/BinaryData.md)
 
+
+
+### Примечания
+
+При возникновении какой-либо ошибки возвращается пустой объект.
