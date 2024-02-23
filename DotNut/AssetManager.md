@@ -67,6 +67,10 @@ class DotNut.AssetManager
                              )
     // returns: DotNut.BinaryData
 
+    function readAssetsDataFile( confFileName   // string
+                               )
+    // returns: DotNut.BinaryData
+
     function readConfJson( confJsonFileName   // string
                          )
     // returns: table{DotNut.ErrorCode status, table data, string message}
@@ -126,6 +130,9 @@ class DotNut.AssetManager
 
 
 [readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - ![__BRIEF]
+
+
+[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - ![__BRIEF]
 
 
 [readConfJson](../DotNut/AssetManager/readConfJson.md) - ![__BRIEF]
