@@ -11,6 +11,14 @@ class Drawing.ImageSize
     width;  // integer
     height; // integer
 
+
+    // Functions
+
+    constructor( x   // integer
+               , y   // integer
+               )
+
+
 } // class Drawing.ImageSize
 ```
 
@@ -25,5 +33,11 @@ class Drawing.ImageSize
 **width** (**integer**) - ![width]
 
 **height** (**integer**) - ![height]
+
+
+### Методы
+
+
+[constructor](../Drawing/ImageSize/constructor.md) - ![__BRIEF]
 
 
