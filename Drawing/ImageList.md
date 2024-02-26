@@ -105,21 +105,21 @@ class Drawing.ImageList
     function addImageBandFromMultipartImageByMime( imageData      // DotNut.BinaryData
                                                  , mimeType       // string
                                                  , frameMinSize   // Drawing.ImageSize
-                                                 , flags          // int
+                                                 , flags          // Drawing.ImageListBandFlags
                                                  )
     // returns: Drawing.AddImageBandResult
 
     function addImageBandFromMultipartImageByExt( imageData      // DotNut.BinaryData
                                                 , ext            // string
                                                 , frameMinSize   // Drawing.ImageSize
-                                                , flags          // int
+                                                , flags          // Drawing.ImageListBandFlags
                                                 )
     // returns: Drawing.AddImageBandResult
 
     function addImageBandFromMultipartImageByMimeRange( imageData       // DotNut.BinaryData
                                                       , mimeType        // string
                                                       , frameMinSize    // Drawing.ImageSize
-                                                      , flags           // int
+                                                      , flags           // Drawing.ImageListBandFlags
                                                       , firstFrameIdx   // int
                                                       , numFrames       // int
                                                       )
@@ -128,7 +128,7 @@ class Drawing.ImageList
     function addImageBandFromMultipartImageByExtRange( imageData       // DotNut.BinaryData
                                                      , ext             // string
                                                      , frameMinSize    // Drawing.ImageSize
-                                                     , flags           // int
+                                                     , flags           // Drawing.ImageListBandFlags
                                                      , firstFrameIdx   // int
                                                      , numFrames       // int
                                                      )
@@ -137,7 +137,7 @@ class Drawing.ImageList
     function addImageBandFromMultipartImageByMimeEx( imageData      // DotNut.BinaryData
                                                    , mimeType       // string
                                                    , frameMinSize   // Drawing.ImageSize
-                                                   , flags          // int
+                                                   , flags          // Drawing.ImageListBandFlags
                                                    , frames         // array of int
                                                    )
     // returns: Drawing.AddImageBandResult
@@ -145,7 +145,7 @@ class Drawing.ImageList
     function addImageBandFromMultipartImageByExtEx( imageData      // DotNut.BinaryData
                                                   , ext            // string
                                                   , frameMinSize   // Drawing.ImageSize
-                                                  , flags          // int
+                                                  , flags          // Drawing.ImageListBandFlags
                                                   , frames         // array of int
                                                   )
     // returns: Drawing.AddImageBandResult

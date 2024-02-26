@@ -5,7 +5,7 @@
 function addImageBandFromMultipartImageByExtEx( imageData      // DotNut.BinaryData
                                               , ext            // string
                                               , frameMinSize   // Drawing.ImageSize
-                                              , flags          // int
+                                              , flags          // Drawing.ImageListBandFlags
                                               , frames         // array of int
                                               )
 // returns: Drawing.AddImageBandResult
@@ -20,7 +20,7 @@ function addImageBandFromMultipartImageByExtEx( imageData      // DotNut.BinaryD
 
 **frameMinSize** ([Drawing.ImageSize](../../Drawing/ImageSize.md)) - ![frameMinSize]
 
-**flags** (**int**) - ![flags]
+**flags** ([Drawing.ImageListBandFlags](../../Drawing/ImageListBandFlags.md)) - ![flags]
 
 **frames** (**array** of **int**) - ![frames]
 
