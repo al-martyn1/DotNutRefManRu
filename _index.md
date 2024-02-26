@@ -27,6 +27,7 @@
 - [DotNut.Vk.Code](DotNut/Vk/Code.md) перечисление
 - [DotNut.Vk.KeyEventFlags](DotNut/Vk/KeyEventFlags.md) флаги
 - [Drawing](Drawing.md) пространство имён
+- [Drawing.AddImageBandResult](Drawing/AddImageBandResult.md) класс
 - [Drawing.ArcDirection](Drawing/ArcDirection.md) перечисление
 - [Drawing.BkMode](Drawing/BkMode.md) перечисление
 - [Drawing.CallbackResultFlags](Drawing/CallbackResultFlags.md) флаги
@@ -45,6 +46,7 @@
 - [Drawing.HorAlign](Drawing/HorAlign.md) перечисление
 - [Drawing.ImageInfo](Drawing/ImageInfo.md) класс
 - [Drawing.ImageList](Drawing/ImageList.md) класс
+- [Drawing.ImageListBandFlags](Drawing/ImageListBandFlags.md) флаги
 - [Drawing.ImageSize](Drawing/ImageSize.md) класс
 - [Drawing.LineDirection](Drawing/LineDirection.md) перечисление
 - [Drawing.LineEndcapStyle](Drawing/LineEndcapStyle.md) перечисление

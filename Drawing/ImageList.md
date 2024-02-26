@@ -98,6 +98,58 @@ class Drawing.ImageList
                             )
     // returns: bool
 
+    function saveImageAsBmp( imageIdx   // integer
+                           )
+    // returns: DotNut.BinaryData
+
+    function addImageBandFromMultipartImageByMime( imageData      // DotNut.BinaryData
+                                                 , mimeType       // string
+                                                 , frameMinSize   // Drawing.ImageSize
+                                                 , flags          // int
+                                                 )
+    // returns: Drawing.AddImageBandResult
+
+    function addImageBandFromMultipartImageByExt( imageData      // DotNut.BinaryData
+                                                , ext            // string
+                                                , frameMinSize   // Drawing.ImageSize
+                                                , flags          // int
+                                                )
+    // returns: Drawing.AddImageBandResult
+
+    function addImageBandFromMultipartImageByMimeRange( imageData       // DotNut.BinaryData
+                                                      , mimeType        // string
+                                                      , frameMinSize    // Drawing.ImageSize
+                                                      , flags           // int
+                                                      , firstFrameIdx   // int
+                                                      , numFrames       // int
+                                                      )
+    // returns: Drawing.AddImageBandResult
+
+    function addImageBandFromMultipartImageByExtRange( imageData       // DotNut.BinaryData
+                                                     , ext             // string
+                                                     , frameMinSize    // Drawing.ImageSize
+                                                     , flags           // int
+                                                     , firstFrameIdx   // int
+                                                     , numFrames       // int
+                                                     )
+    // returns: Drawing.AddImageBandResult
+
+    function addImageBandFromMultipartImageByMimeEx( imageData      // DotNut.BinaryData
+                                                   , mimeType       // string
+                                                   , frameMinSize   // Drawing.ImageSize
+                                                   , flags          // int
+                                                   , frames         // array of int
+                                                   )
+    // returns: Drawing.AddImageBandResult
+
+    function addImageBandFromMultipartImageByExtEx( imageData      // DotNut.BinaryData
+                                                  , ext            // string
+                                                  , frameMinSize   // Drawing.ImageSize
+                                                  , flags          // int
+                                                  , frames         // array of int
+                                                  )
+    // returns: Drawing.AddImageBandResult
+
 
 } // class Drawing.ImageList
 ```
@@ -162,5 +214,26 @@ class Drawing.ImageList
 
 
 [createMaskByPos](../Drawing/ImageList/createMaskByPos.md) - ![__BRIEF]
+
+
+[saveImageAsBmp](../Drawing/ImageList/saveImageAsBmp.md) - ![__BRIEF]
+
+
+[addImageBandFromMultipartImageByMime](../Drawing/ImageList/addImageBandFromMultipartImageByMime.md) - ![__BRIEF]
+
+
+[addImageBandFromMultipartImageByExt](../Drawing/ImageList/addImageBandFromMultipartImageByExt.md) - ![__BRIEF]
+
+
+[addImageBandFromMultipartImageByMimeRange](../Drawing/ImageList/addImageBandFromMultipartImageByMimeRange.md) - ![__BRIEF]
+
+
+[addImageBandFromMultipartImageByExtRange](../Drawing/ImageList/addImageBandFromMultipartImageByExtRange.md) - ![__BRIEF]
+
+
+[addImageBandFromMultipartImageByMimeEx](../Drawing/ImageList/addImageBandFromMultipartImageByMimeEx.md) - ![__BRIEF]
+
+
+[addImageBandFromMultipartImageByExtEx](../Drawing/ImageList/addImageBandFromMultipartImageByExtEx.md) - ![__BRIEF]
 
 
