@@ -64,6 +64,10 @@ class Drawing.ImageList
                                               )
     // returns: Drawing.ImageSize
 
+    function getMimeTypeByFileName( name   // string
+                                  )
+    // returns: string
+
     function addImageByMime( binData       // DotNut.BinaryData
                            , mimeType      // string
                            , imageRawIdx   // integer
@@ -196,6 +200,9 @@ class Drawing.ImageList
 
 
 [findBestFitImageByExtGetFoundSize](../Drawing/ImageList/findBestFitImageByExtGetFoundSize.md) - ![__BRIEF]
+
+
+[getMimeTypeByFileName](../Drawing/ImageList/getMimeTypeByFileName.md) - ![__BRIEF]
 
 
 [addImageByMime](../Drawing/ImageList/addImageByMime.md) - ![__BRIEF]
