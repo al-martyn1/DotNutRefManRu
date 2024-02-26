@@ -16,6 +16,10 @@ class Drawing.ImageList
     function empty()
     // returns: bool
 
+    function getMimeTypeByFileName( string   // 
+                                  )
+    // returns: string
+
     function getImageInfo( imageIdx   // integer
                          )
     // returns: Drawing.ImageInfo
@@ -173,6 +177,9 @@ class Drawing.ImageList
 
 
 [empty](../Drawing/ImageList/empty.md) - ![__BRIEF]
+
+
+[getMimeTypeByFileName](../Drawing/ImageList/getMimeTypeByFileName.md) - ![__BRIEF]
 
 
 [getImageInfo](../Drawing/ImageList/getImageInfo.md) - ![__BRIEF]
