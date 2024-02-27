@@ -16,7 +16,7 @@ class Drawing.ImageList
     function empty()
     // returns: bool
 
-    function getMimeTypeByFileName( string   // 
+    function getMimeTypeByFileName( fileName   // string
                                   )
     // returns: string
 
@@ -158,6 +158,37 @@ class Drawing.ImageList
                                                   )
     // returns: Drawing.AddImageBandResult
 
+    function addImageBandFromImageListEx( imageList      // Drawing.ImageList
+                                        , frameMinSize   // Drawing.ImageSize
+                                        , flags          // Drawing.ImageListBandFlags
+                                        , frames         // array of int
+                                        )
+    // returns: Drawing.AddImageBandResult
+
+    function addImageBandFromImageList( imageList      // Drawing.ImageList
+                                      , frameMinSize   // Drawing.ImageSize
+                                      , flags          // Drawing.ImageListBandFlags
+                                      )
+    // returns: Drawing.AddImageBandResult
+
+    function addImageBandFromImageListRange( imageList       // Drawing.ImageList
+                                           , frameMinSize    // Drawing.ImageSize
+                                           , flags           // Drawing.ImageListBandFlags
+                                           , firstFrameIdx   // int
+                                           , numFrames       // int
+                                           )
+    // returns: Drawing.AddImageBandResult
+
+    function addImageAllFramesByMime( imageData   // DotNut.BinaryData
+                                    , mimeType    // string
+                                    )
+    // returns: Drawing.AddImageAllFramesResult
+
+    function addImageAllFramesByExt( imageData   // DotNut.BinaryData
+                                   , ext         // string
+                                   )
+    // returns: Drawing.AddImageAllFramesResult
+
 
 } // class Drawing.ImageList
 ```
@@ -249,5 +280,20 @@ class Drawing.ImageList
 
 
 [addImageBandFromMultipartImageByExtEx](../Drawing/ImageList/addImageBandFromMultipartImageByExtEx.md) - ![__BRIEF]
+
+
+[addImageBandFromImageListEx](../Drawing/ImageList/addImageBandFromImageListEx.md) - ![__BRIEF]
+
+
+[addImageBandFromImageList](../Drawing/ImageList/addImageBandFromImageList.md) - ![__BRIEF]
+
+
+[addImageBandFromImageListRange](../Drawing/ImageList/addImageBandFromImageListRange.md) - ![__BRIEF]
+
+
+[addImageAllFramesByMime](../Drawing/ImageList/addImageAllFramesByMime.md) - ![__BRIEF]
+
+
+[addImageAllFramesByExt](../Drawing/ImageList/addImageAllFramesByExt.md) - ![__BRIEF]
 
 

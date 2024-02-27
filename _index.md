@@ -27,6 +27,7 @@
 - [DotNut.Vk.Code](DotNut/Vk/Code.md) перечисление
 - [DotNut.Vk.KeyEventFlags](DotNut/Vk/KeyEventFlags.md) флаги
 - [Drawing](Drawing.md) пространство имён
+- [Drawing.AddImageAllFramesResult](Drawing/AddImageAllFramesResult.md) класс
 - [Drawing.AddImageBandResult](Drawing/AddImageBandResult.md) класс
 - [Drawing.ArcDirection](Drawing/ArcDirection.md) перечисление
 - [Drawing.BkMode](Drawing/BkMode.md) перечисление

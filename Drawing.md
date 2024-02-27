@@ -4,6 +4,7 @@ table /* namespace */ Drawing
 {
     // Classes
 
+    class AddImageAllFramesResult;
     class AddImageBandResult;
     class Color;
     class Context;
@@ -22,6 +23,8 @@ table /* namespace */ Drawing
 
 ### Классы
 
+
+[AddImageAllFramesResult](Drawing/AddImageAllFramesResult.md) - ![__BRIEF]
 
 [AddImageBandResult](Drawing/AddImageBandResult.md) - ![__BRIEF]
 
